@@ -1,0 +1,445 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.3.2762</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Boletopsis nothofagi</italic> sp. nov. associated with 
+                    <italic>Nothofagus</italic> in the Southern Hemisphere
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Cooper</surname>
+                        <given-names>Jerry A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Leonard</surname>
+                        <given-names>Patrick</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Landcare Research, PO Box 40, Lincoln, 7640, New Zealand
+            </aff>
+            <aff id="A2">
+                <label>2</label>Motueka, New Zealand
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Jerry A. Cooper (<email xlink:type="simple">CooperJ@landcareresearch.co.nz</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: K. Hosaka</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>9</day>
+                <month>4</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>3</issue>
+            <fpage>13</fpage>
+            <lpage>22</lpage>
+            <history>
+                <date date-type="received">
+                    <day>26</day>
+                    <month>1</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>5</day>
+                    <month>4</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Jerry A. Cooper, Patrick Leonard</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> <bold>sp. nov.</bold>, an ectomycorrhizal taxon is described from <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic> forests in New Zealand. A comparison of available molecular ITS sequences, and morphological data was carried out to confirm the novelty of the taxon. This is the first report of the genus in the Southern Hemisphere.</p>
+            </abstract>
+            <kwd-group>
+                <label>Key words</label>
+                <kwd>Bankeraceae</kwd>
+                <kwd><italic>Boletopsis nothofagi</italic></kwd>
+                <kwd><italic>Nothofagus</italic></kwd>
+                <kwd>New Zealand</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>A collection of a <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> species was made in 2009 during the annual foray of the Fungal Network of New Zealand (FUNNZ), at the Orongorongo Valley in the Rimutaka Forest Park east of Wellington, North Island, New Zealand. The material was initially thought to be sterile but subsequent examination showed a few spores with the characteristic thelephoroid morphology of <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic>. A subsequent collection in 2010 from South Island and re-collection of material at the North Island site provided more fertile material and is the basis for this description of a new species. This appears to be the first record of the genus in the Southern Hemisphere.</p>
+            <p><italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> is a genus of ectomycorrhizal, stipitate, poroid fungi phylogenetically related tothe hydnoid (toothed) genera <italic><tp:taxon-name>Phellodon</tp:taxon-name></italic>, <italic><tp:taxon-name>Hydnellum</tp:taxon-name></italic>, <italic><tp:taxon-name>Bankera</tp:taxon-name></italic> and <italic><tp:taxon-name>Sarcodon</tp:taxon-name></italic> and placed in the <tp:taxon-name>Bankeraceae</tp:taxon-name> (<xref ref-type="bibr" rid="B17">Kirk et al. 2008</xref>). Four species are currently recognised in the subgenus <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B24">Stalpers 1993</xref>; <xref ref-type="bibr" rid="B26">Watling and Milne 2006</xref>); <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> <!--PageBreak-->(Pers.) Fayod, the type of the genus, <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> (Peck) Bond. &amp; Sing., <italic><tp:taxon-name>Boletopsis smithii</tp:taxon-name></italic> K. Harrison and <italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic> Watling &amp; J. Milne. <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> and <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> are widely distributed across North America, Europe and Asia, but are nowhere common (<xref ref-type="bibr" rid="B9">Gilbertson 1986</xref>). <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> is usually associated with <italic><tp:taxon-name>Picea</tp:taxon-name></italic>, whereas <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> and <italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic> are associatedwith <italic><tp:taxon-name>Pinus</tp:taxon-name></italic>, but there are records of these species associated with hardwoods. The ectomycorrhizal association of <italic><tp:taxon-name>Boletopsis smithii</tp:taxon-name></italic> is unknown. Recent molecular data supports the existence of additional taxa in North America (<xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref>). <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> has also been reported from oak dominated cloud forest in Costa Rica and this represents the most southerly record of <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> subgenus <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> to date (<xref ref-type="bibr" rid="B20">Mata and Ryvarden 2007</xref>). Two other species,<italic> B. atrata</italic> Ryvarden and <italic><tp:taxon-name>Boletopsis subcitrina</tp:taxon-name></italic> Corner are pleuropodal, without inflated hyphae, and possess spores with small warts or spines. These species were segregated into <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> subgenus <italic><tp:taxon-name>Boletopsina</tp:taxon-name></italic> (Stalpers, 1993). <italic><tp:taxon-name>Boletopsis subcitrina</tp:taxon-name></italic> subsequently formed the basis of a new genus <italic><tp:taxon-name>Corneroporus</tp:taxon-name></italic> (Hattori, 2001) and it seems likely this group is more distantly related to <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> than the remaining four accepted species.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>DNA was extracted from dried herbarium material of the collection PDD96007 using REDExtract-N-Amp Plant PCR Kits (Sigma, USA). The tissue was ground in extraction buffer with a plastic pestle in the Eppendorf tube, then DNA extraction and PCR were carried out following the manufacturer’s instructions. The extract was sequenced for the rRNA loci ITS1+5.8+ITS2 and LSU following the methods of (<xref ref-type="bibr" rid="B14">Johnston and Park 2005</xref>). Primers were ITS1F and ITS4 for the ITS region and LR0R and LR6 for LSU (<xref ref-type="bibr" rid="B8">Gardes and Bruns 1993</xref>). The chromatographs were assembled using Geneious (<xref ref-type="bibr" rid="B7">Drummond et al. 2011</xref>). Existing sequences were downloaded from GenBank for <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> species, related New Zealand material and selected sequences of members of the <tp:taxon-name>Bankeraceae</tp:taxon-name> from other parts of the world (<xref ref-type="table" rid="T1">Table 1</xref>). Few LSU sequences are available for <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic>. This study focussed on ITS sequences resulting from an analysis of the relationships between <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic>, <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> and <italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref>).</p>
+            <p>Data exchange between applications was facilitated using Alter (<xref ref-type="bibr" rid="B10">Glez-Peña et al. 2010</xref>). Sequence alignment was carried using MAFFT (<xref ref-type="bibr" rid="B16">Katoh et al. 2002</xref>) within Geneious using the G-INS-i algorithm. Gblocks (<xref ref-type="bibr" rid="B4">Castersana 2000</xref>) was used to eliminate poorly aligned segments, with the number of contiguous conserved positions set to 8, the minimum block set to 10, and allowed gap positions to half, resulting in an alignment of 493 bases. The alignment was analysed by Jmodeltest (<xref ref-type="bibr" rid="B22">Posada 2008</xref>). A best-fit model of nucleotide substitution of GTR+G was proposed by jmodeltest. Phylogenetic analyses were performed MrBayes v3.2 (<xref ref-type="bibr" rid="B13">Huelsenbeck and Ronquist 2001</xref>) using the recommended model with two sets of four chains, one cold and three heated, with a chain temperature of 0.2. A sequence of <italic><tp:taxon-name>Piptoporus betulinus</tp:taxon-name></italic> was selected as an outgroup. All prior probabilities were left on default values. The model was run with a sampling fr<!--PageBreak--><!--PageBreak-->equency of 500 until the split-deviation frequency had fallen below 0.01, ca 1.2 million iterations. The results were examined to ensure good Metropolis coupling of chains and convergence statistics using Tracer (<xref ref-type="bibr" rid="B23">Rambaut and Drummond 2009</xref>). The first 25% of trees were removed in constructing a 50% majority rule consensus phylogram.</p>
+            <table-wrap position="float" orientation="portrait" id="T1">
+                <label>Table 1.</label>
+                <caption><p>Sequences considered in the analysis.</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1">GenBank Accession Numbers</th>
+                            <th rowspan="1" colspan="1">Taxon</th>
+                            <th rowspan="1" colspan="1">Collection</th>
+                            <th rowspan="1" colspan="1">Country</th>
+                            <th rowspan="1" colspan="1">Host</th>
+                            <th rowspan="1" colspan="1">Notes</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF438567" xlink:type="simple">AF438567</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1">Korea</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">Without ITS2</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ408766" xlink:type="simple">DQ408766</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">Holden 150627 </td>
+                            <td rowspan="1" colspan="1">UK</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus sylvestris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">=<italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic> in <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ408767" xlink:type="simple">DQ408767</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">Wat. 28788</td>
+                            <td rowspan="1" colspan="1">UK</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus sylvestris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">=<italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic> in <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref>, ≡Holden 077897</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ408768" xlink:type="simple">DQ408768</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Kytovuori 94-1247 </td>
+                            <td rowspan="1" colspan="1">Finland</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus sylvestris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">≡Rec227607 see <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ408769" xlink:type="simple">DQ408769</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Niemela 6166</td>
+                            <td rowspan="1" colspan="1">Finland</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus sylvestris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">≡Rec227608 See <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ408770" xlink:type="simple">DQ408770</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Palmen Aug01</td>
+                            <td rowspan="1" colspan="1">Finland</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus sylvestris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Partial ITS1. ≡Rec227609 see <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref>, duplicated as EF457900 <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ408771" xlink:type="simple">DQ408771</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Niemela 7749</td>
+                            <td rowspan="1" colspan="1">Finland</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Picea</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ484064" xlink:type="simple">DQ484064</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">PBM 2678/AFTOL 1527</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1"></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF457898" xlink:type="simple">EF457898</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">Rec227649</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF457899" xlink:type="simple">EF457899</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Rec227658</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tsuga canadensis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF457900" xlink:type="simple">EF457900</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">Rec227652</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">Short sequence. Duplicate reference to Rec227609 as <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> see <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref>,</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">EF457901 </td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Rec227653</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">=Rec227652? see <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF457902" xlink:type="simple">EF457902</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Rec227659</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus sylvestris</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">=Rec227653? see <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF457903" xlink:type="simple">EF457903</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">Rec227656</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus contorta</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EU622325" xlink:type="simple">EU622325</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">SL23</td>
+                            <td rowspan="1" colspan="1">UK?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/FJ845401" xlink:type="simple">FJ845401</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis subsquamosa</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">SMI350</td>
+                            <td rowspan="1" colspan="1">USA?</td>
+                            <td rowspan="1" colspan="1">?</td>
+                            <td rowspan="1" colspan="1">=<italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> see <xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY569026" xlink:type="simple">AY569026</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Hydnellum cumulatum</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">SEW 69</td>
+                            <td rowspan="1" colspan="1">USA</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tsuga</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU222291" xlink:type="simple">GU222291</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Phellodon sinclairii</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">PDD89028</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU222318" xlink:type="simple">GU222318</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Phellodon</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">PDD89898</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU222316" xlink:type="simple">GU222316</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Phellodon</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">PDD89880</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ267479" xlink:type="simple">GQ267479</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudotomentella</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">K98C35T239</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus radiata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ267480" xlink:type="simple">GQ267480</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pseudotomentella tristis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">K91C38T363</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus radiata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/FJ845438" xlink:type="simple">FJ845438</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Sarcodon imbricatus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">SMI347</td>
+                            <td rowspan="1" colspan="1">Canada</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus</tp:taxon-name></italic>?</td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ267491" xlink:type="simple">GQ267491</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tomentella</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">K80C37T323</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pinus radiata</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HQ533015" xlink:type="simple">HQ533015</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tomentellopsis</tp:taxon-name></italic> sp.</td>
+                            <td rowspan="1" colspan="1">PDD95789</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nothofagus solandri</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Tomentellopsis cf. zygodesmoides</tp:taxon-name></italic>, with pale brown spores</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ417193" xlink:type="simple">JQ417193</ext-link></td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">PD96007</td>
+                            <td rowspan="1" colspan="1">NZ</td>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">South Island, St Arnaud</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p><xref ref-type="fig" rid="F1">Figure 1</xref> shows the results of the phylogenetic analysis. The species concepts <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> and <italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic> are supported.<italic> Boletopsis</italic> sp. (SL23), <italic><tp:taxon-name>Boletopsis subsquamosa</tp:taxon-name></italic> (SMI350), and <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> sp. (Rec227652) are also referable to <italic><tp:taxon-name>Boletopsis perplexa</tp:taxon-name></italic>. The latter collections confirm the presence of this taxon in North America, as suggested by (<xref ref-type="bibr" rid="B27">Watling and Milne 2008</xref>). A consensus concept of <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> is less well supported by these preliminary data with the collections appearing separately in the analysis. It is possible the current use of the name <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> represents multiple cryptic taxa; it is reported as occurring in widely separate geographic regions and with differing ectomycorrhizal hosts. A similar situation was recently demonstrated in the case of European species of related <italic><tp:taxon-name>Hydnellum</tp:taxon-name></italic> and <italic><tp:taxon-name>Phellodon</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B1">Ainsworth et al. 2010</xref>). <italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> is clearly supported as a new taxon differing in 22 sites relative to <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> (AFTOL, DQ484064) and 18 sites relative to <italic><tp:taxon-name>Boletopsis leucomelaena</tp:taxon-name></italic> (Niemela, DQ408771).</p>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>The presence of <italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> in New Zealand beech forests appears to have been overlooked despite a long history of the study of similar fungi in New Zealand (<xref ref-type="bibr" rid="B5">Cunningham 1958</xref>) (<xref ref-type="bibr" rid="B19">Maas Geesteranus 1971</xref>). This suggests <italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> is a relatively rare (or rarely fruiting) indigenous member of the New Zealand ectomycorrhizal beech forest mycota. In addition no records of <italic><tp:taxon-name>Boletopsis</tp:taxon-name></italic> have been traced for any localities of naturally occurring <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic> forests in Australia, New Caledonia, New Guinea or South America. An alternative explanation for the presence of <italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> in New Zealand is <!--PageBreak-->as a recent introduction of a species that usually has a different ectomycorrhizal host. Such introductions into New Zealand beech forests have occurred at least once in the case of <italic><tp:taxon-name>Amanita muscaria</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B15">Johnston et al. 2008</xref>).<!--PageBreak--></p>
+            <p>The absence of previous records of this recognisable species combined with the wide separation of the two currently known sites indicate that <italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> is most likely a rare indigenous member of the New Zealand beech forest mycota. Its conservation status in New Zealand requires further investigation considering the status of other members of the family elsewhere in the world. For example many hydnoid members of the family are threatened in Europe due to a variety of causes (<xref ref-type="bibr" rid="B3">Arnolds 2010</xref>). Many of these species are listed on European national red-data lists of fungi (<xref ref-type="bibr" rid="B6">Dahlberg and Mueller 2011</xref>). <italic><tp:taxon-name>Boletopsis grisea</tp:taxon-name></italic> is currently designated as threatened on five national lists and is subject to a number of management plans (<xref ref-type="bibr" rid="B2">Anon 2011</xref>).</p>
+        </sec>
+        <sec sec-type="Taxonomic treatment">
+            <title>Taxonomic treatment</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Boletopsis</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">nothofagi</tp:taxon-name-part>
+                    <object-id xlink:type="simple">http://species-id.net/wiki/Boletopsis_nothofagi</object-id>
+								<object-id xlink:type="simple">Holotype: PDD96007.</object-id>
+								<object-id xlink:type="simple">Registration Identifier: IndexFungorum <ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=550039" xlink:type="simple">IF550039</ext-link>.</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>J.A. Cooper &amp; P. Leonard</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">sp. n.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Basidiomes fasiculate, occasionally solitary, centrally stipitate, tough and fibrous. Pileus more or less convex, 10–80 mm diameter × 5–20 mm high, becoming undulate and edge somewhat incurved when young, smooth to finely fibrillose, grey [1D1, 1E1] (<xref ref-type="bibr" rid="B18">Kornerup and Wanscher 1989</xref>), weakly nigrescent when bruised and eventually becoming black. Stipe stuffed, clavate or cylindrical, 20–60 mm in length × 10–25 mm diameter, narrowing slightly at base and apex, smooth, dry, concolorous with pileus and darkening where bruised. Hymenial layer white 1–2 mm deep, bruising tan, pores angular, 2–3 per mm, drying pinkish tan, sometimes with lacerate edges. Pore layer extending slightly down the stipe and clearly delineated. Smell of dried material weakly of fenugreek, taste slightly acidic. Pileus immediately black in KOH, pigment leaching olivaceous black into white absorbent paper. Spore print not obtained.</p>
+                    <p>Hyphal system monomitic. Pileus with a differentiated pileipellis consisting of a cutis, hyphae to 2 µm diameter, with brown plasmatic pigment, hyphal surface covered in small amorphous granular material becoming dark green in KOH and dispersing into medium. Subcutis with inflated gloeoplerous-like hyphae, thin-walled, to 6 µm diameter, clamped. Basidia pleurobasidial, cylindrical to clavate 5–10 × 20–30 µm, 4-spored, with basal clamp. Pores with fringe of slender clavate cystidia-like elements to 80 × 4 µm. Spores very pale tan, thin-walled, not dextrinoid or amyloid, non-cyanophilous, flat-topped tuberculate, with a narrowed waist. Spores dimensions are of a bounding rectangle encompassing maximum length and width of each spore. Length µ=5.3 µm, σ=0.5, width µ=4.1 µm, σ=0.5, Q µ=1.35, σ=0.2 (combined statistics of measurement of 4, 13, 26, 20 spores from three fruiting bodies of the three collections).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>North and South Islands of New Zealand</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology">
+                    <title>Ecology.</title>
+                    <p>ectomycorrhizal in southern beech (<italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic>) forests and so far found only in association with <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p><italic>nothofagi</italic> for its ectomycorrhizal association with <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Conservation status">
+                    <title>Conservation status.</title>
+                    <p>Although there are no data on the stability of the population size or historical changes in distribution of this species, it is likely to be naturally uncommon according to the New Zealand Threat Classification System (<xref ref-type="bibr" rid="B25">Townsend et al. 2008</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Holotype">
+                    <title>Holotype.</title>
+                    <p>NEW ZEALAND, North Island, Rimutaka Forest Park (under <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>), NZMG: 2671550E, 5982715N, 2<sup>nd</sup> May 201, D. Batchelor &amp; P. Leonard, PDD96007 (PL3511)</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined">
+                    <title>Other specimens examined</title>
+                    <p>. New Zealand, North Island, Rimutaka Forest Park (under <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>), NZMG: 2671550E, 5982715N, 15<sup>th</sup> May 2009, T. Lebel, PDD95529 (JAC11078). West Bay, St Arnaud (<italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>), South Island, NZMG: 1586280E, 5372097N, 11<sup>th</sup> May 2010, S. Kerr &amp; P. Leonard, PDD96012<!--PageBreak-->.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion">
+                    <title>Discussion.</title>
+                    <p><italic><tp:taxon-name>Boletopsis nothofagi</tp:taxon-name></italic> differs from described species in the more elongate spores with a narrow central waist, granular extra-cellular material becoming green in KOH and habitat in <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic> forests (<xref ref-type="bibr" rid="B21">Niemala and Saarenoska 1989</xref>; <xref ref-type="bibr" rid="B11">Harrison 1975</xref>; <xref ref-type="bibr" rid="B26">Watling and Milne 2006</xref>).</p>
+                    <fig id="F1" position="float" orientation="portrait">
+                        <label>Figure 1.</label>
+                        <caption><p>Baysian consensus phylogram, showing posterior probability, scale = substitutions per site</p></caption>
+                        <graphic xlink:href="MycoKeys-003-013-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>Basidiomes in natural habitat (PDD96007).</p></caption>
+                        <graphic xlink:href="MycoKeys-003-013-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Basidiomes (PDD96007).</p></caption>
+                        <graphic xlink:href="MycoKeys-003-013-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p>Microscopic Details. <bold>A</bold> Spores in Melzers (PDD96012) <bold>B</bold> Cap hyphae showing clamps and granules in KOH (PDD96012) <bold>C</bold> Basidia in KOH (PDD96012) <bold>D</bold> Cystidia-like elements in KOH (PDD96012)</p></caption>
+                        <graphic xlink:href="MycoKeys-003-013-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Thanks go to Teresa Lebel who discovered the original collection and made extensive notes of PDD95529, and to Shirley Kerr who discovered the second collection. Dukchul Park of Landcare Research carried out DNA extraction and sequence generation. This work was supported by the New Zealand Ministry of Science and Innovation.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ainsworth</surname> <given-names>A</given-names></name><name name-style="western"><surname>Parfitt</surname> <given-names>B</given-names></name><name name-style="western"><surname>Rogers</surname> <given-names>H</given-names></name><name name-style="western"><surname>Boddy</surname> <given-names>L</given-names></name></person-group> (<year>2010</year>) <article-title>Cryptic taxa within European species of <italic>Hydnellum</italic> and <italic>Phellodon</italic> revealed by combined molecular and morphological analysis</article-title>. <source>Fungal Ecology</source>: <fpage>65</fpage>–<lpage>80</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.funeco.2009.07.001" xlink:type="simple">10.1016/j.funeco.2009.07.001</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Anon</surname></name></person-group> (<year>2011</year>) <source>European Council for the Conservation of Fungi</source>. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.wsl.ch/eccf/redlists" xlink:type="simple">http://www.wsl.ch/eccf/redlists–en.ehtml</ext-link> [<comment>Accessed</comment> 2011]</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arnolds</surname> <given-names>E</given-names></name></person-group> (<year>2010</year>)<article-title> The fate of hydnoid fungi in The Netherlands and Northwestern Europe.</article-title> <source>Fungal Ecology </source> <volume>3</volume>: <fpage>81</fpage>-<lpage>88</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.funeco.2009.05.005" xlink:type="simple">10.1016/j.funeco.2009.05.005</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Castersana</surname> <given-names>J</given-names></name></person-group> (<year>2000</year>)<article-title> Selection of conserved blocks from multiple alignments for their use in phylogenetic analysis.</article-title> <source>Molecular Biology and Evolution </source> <volume>17</volume>: <fpage>540</fpage>-<lpage>552</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cunningham</surname> <given-names>G</given-names></name></person-group> (<year>1958</year>)<article-title> Hydnaceae of New Zealand. Part I. The pileate genera <italic>Beenakia</italic>, <italic>Dentinum</italic>, <italic>Hericium</italic>, <italic>Hydnum</italic>, <italic>Phellodon</italic> and <italic>Steccherinum</italic>.</article-title> <source>Transactions of the Royal Society of New Zealand </source> <volume>85</volume>: <fpage>585</fpage>-<lpage>601</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Dahlberg</surname> <given-names>A</given-names></name><name name-style="western"><surname>Mueller</surname> <given-names>G</given-names></name></person-group> (<year>2011</year>)<article-title> Applying IUCN red–listing criteria for assessing and reporting on the conservation status of fungal species.</article-title> <source>Fungal Ecology </source> <volume>4</volume>: <fpage>147</fpage>-<lpage>162</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.funeco.2010.11.001" xlink:type="simple">10.1016/j.funeco.2010.11.001</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drummond</surname> <given-names>AJ</given-names></name><name name-style="western"><surname>Ashton</surname> <given-names>B</given-names></name><name name-style="western"><surname>Buxton</surname> <given-names>S</given-names></name><name name-style="western"><surname>Cheung</surname> <given-names>M</given-names></name><name name-style="western"><surname>Cooper</surname> <given-names>A</given-names></name><name name-style="western"><surname>Duran</surname> <given-names>C</given-names></name><name name-style="western"><surname>Field</surname> <given-names>M</given-names></name><name name-style="western"><surname>Heled</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kearse</surname> <given-names>M</given-names></name><name name-style="western"><surname>Markowitz</surname> <given-names>S</given-names></name><name name-style="western"><surname>Moir</surname> <given-names>R</given-names></name><name name-style="western"><surname>Stones-Havas</surname> <given-names>S</given-names></name><name name-style="western"><surname>Sturrock</surname> <given-names>S</given-names></name><name name-style="western"><surname>Thierer</surname> <given-names>T</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>) <source>Geneious v5.4.</source> Available from: <ext-link ext-link-type="uri" xlink:href="http://www.geneious.com/" xlink:type="simple">http://www.geneious.com/</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gardes</surname> <given-names>M</given-names></name><name name-style="western"><surname>Bruns</surname> <given-names>T</given-names></name></person-group> (<year>1993</year>)<article-title> ITS primers with enhanced specificity for basidiomycetes–application to the identification of mycorrhizae and rusts.</article-title> <source>Molecular Ecology </source> <volume>2</volume>: <fpage>113</fpage>-<lpage>118</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-294X.1993.tb00005.x" xlink:type="simple">10.1111/j.1365-294X.1993.tb00005.x</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gilbertson</surname> <given-names>RL</given-names></name><name name-style="western"><surname>Ryvarden</surname> <given-names>L</given-names></name></person-group> (<year>1986</year>) <source>North American Polypores – Volume 1.</source> <publisher-name>Fungiflora</publisher-name>, <publisher-loc>Oslo</publisher-loc>, <lpage>433</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Glez-Peña</surname> <given-names>D</given-names></name><name name-style="western"><surname>Gómez-Blanco</surname> <given-names>D</given-names></name><name name-style="western"><surname>Reboiro-Jato</surname> <given-names>M</given-names></name><name name-style="western"><surname>Fdez-Riverola</surname> <given-names>F</given-names></name><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name></person-group> (<year>2010</year>)<article-title> ALTER: program–oriented format conversion of DNA and protein alignments.</article-title> <source>Nucleic Acids Research </source> <volume>38</volume> (<issue>2</issue>): <fpage>14</fpage>-<lpage>18</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/gkq321" xlink:type="simple">10.1093/nar/gkq321</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Harrison</surname> <given-names>K</given-names></name></person-group> (<year>1975</year>)<article-title> A New Species of <italic>Boletopsis</italic>.</article-title> <source>Beihefte Nova Hedwigia </source> <volume>51</volume>: <fpage>119</fpage>-<lpage>121</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><!--PageBreak--><person-group><name name-style="western"><surname>Hattori</surname> <given-names>T</given-names></name></person-group> (<year>2001</year>)<article-title> Type studies of the polypores described by EJH Corner from Asia and West Pacific Areas III Species described in <italic>Trichaptum</italic>, <italic>Albatrellus</italic>, <italic>Boletopsis</italic>, Diacanthodes, <italic>Elmerina</italic>, <italic>Fomitopsis</italic> and <italic>Gloeoporus</italic>.</article-title> <source>Mycoscience </source> <volume>42</volume>: <fpage>423</fpage>-<lpage>431</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/BF02464338" xlink:type="simple">10.1007/BF02464338</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huelsenbeck</surname> <given-names>J</given-names></name><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name></person-group> (<year>2001</year>)<article-title> MrBayes: Bayesian inference of phylogenetic trees.</article-title> <source>Bioinformatics </source> <volume>17</volume>: <fpage>754</fpage>-<lpage>755</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/17.8.754" xlink:type="simple">10.1093/bioinformatics/17.8.754</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnston</surname> <given-names>P</given-names></name><name name-style="western"><surname>Park</surname> <given-names>D</given-names></name></person-group> (<year>2005</year>)<article-title> <italic>Chlorociboria</italic> (Fungi, Helotiales) in New Zealand.</article-title> <source>New Zealand Journal of Botany </source> <volume>43</volume>: <fpage>679</fpage>-<lpage>719</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/0028825X.2005.9512985" xlink:type="simple">10.1080/0028825X.2005.9512985</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnston</surname> <given-names>PR</given-names></name><name name-style="western"><surname>Buchanan</surname> <given-names>PK</given-names></name><name name-style="western"><surname>Mortimer</surname> <given-names>S</given-names></name><name name-style="western"><surname>Leathwick</surname> <given-names>J</given-names></name></person-group> (<year>2008</year>)<article-title> Fungal invaders.</article-title> <source>Australasian Mycological Newsletter </source> <volume>17</volume>: <fpage>48</fpage>-<lpage>52</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Katoh</surname> <given-names>K</given-names></name><name name-style="western"><surname>Misawa</surname> <given-names>K</given-names></name><name name-style="western"><surname>Kuma</surname> <given-names>K</given-names></name><name name-style="western"><surname>Miyata</surname> <given-names>T</given-names></name></person-group> (<year>2002</year>)<article-title> MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform.</article-title> <source>Nucleic Acids Research </source> <volume>30</volume>: <fpage>3059</fpage>-<lpage>3066</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/gkf436" xlink:type="simple">10.1093/nar/gkf436</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kirk</surname> <given-names>PM</given-names></name><name name-style="western"><surname>Cannon</surname> <given-names>PF</given-names></name><name name-style="western"><surname>Minter</surname> <given-names>DW</given-names></name><name name-style="western"><surname>Stalpers</surname> <given-names>JA</given-names></name></person-group> (<year>2008</year>) <source>Dictionary of the Fungi</source>. <publisher-name>CABI</publisher-name>, <publisher-loc>Wallingford</publisher-loc>, <lpage>784</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kornerup</surname> <given-names>A</given-names></name><name name-style="western"><surname>Wanscher</surname> <given-names>J</given-names></name></person-group> (<year>1989</year>) <source>Methuen Handbook of Colour</source>. <publisher-name>Eyre Methuen</publisher-name>, <publisher-loc>London</publisher-loc>, <lpage>252</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Maas Geesteranus</surname> <given-names>R</given-names></name></person-group> (<year>1971</year>) <source>Hydnaceous fungi of the eastern Old World (Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen. Afd. Natuurkunde)</source>. <publisher-name>Royal Netherlands Academy</publisher-name>, Volume <volume>60</volume>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mata</surname> <given-names>M</given-names></name><name name-style="western"><surname>Ryvarden</surname> <given-names>L</given-names></name></person-group> (<year>2007</year>)<article-title> Studies in Neotropical polypores 24. New and interesting species from Costa Rica.</article-title> <source>Synopsis Fungorum </source> <volume>23</volume>: <fpage>51</fpage>-<lpage>55</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niemala</surname> <given-names>T</given-names></name><name name-style="western"><surname>Saarenoska</surname> <given-names>T</given-names></name></person-group> (<year>1989</year>)<article-title> On Fennoscandian polypores 10. <italic>Boletopsis leucomelaena</italic> and <italic>B. grisea</italic> described and llustrated.</article-title> <source>Karstenia </source> <volume>29</volume>: <fpage>12</fpage>-<lpage>28</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name></person-group> (<year>2008</year>)<article-title> jModelTest: phylogenetic model averaging.</article-title> <source>Molecular Biology and Evolution </source> <volume>25</volume>: <fpage>1253</fpage>-<lpage>1256</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msn083" xlink:type="simple">10.1093/molbev/msn083</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rambaut</surname> <given-names>A</given-names></name><name name-style="western"><surname>Drummond</surname> <given-names>A</given-names></name></person-group> (<year>2009</year>) <source>Tracer v1.5</source>. Available from <ext-link ext-link-type="uri" xlink:href="http://beast.bio.ed.ac.uk/Tracer" xlink:type="simple">http://beast.bio.ed.ac.uk/Tracer</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stalpers</surname> <given-names>J</given-names></name></person-group> (<year>1993</year>)<article-title> The Aphyllophoraceous fungi I, Keys to the species of the Thelephorales.</article-title> <source>Studies in Mycology </source> <volume>35</volume>: <fpage>1</fpage>-<lpage>168</lpage>.</mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Townsend</surname> <given-names>A</given-names></name></person-group> (<year>2008</year>) <source>New Zealand Threat Classification System Manual</source>. <publisher-name>New Zealand Department of Conservation</publisher-name>, <lpage>35</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Watling</surname> <given-names>R</given-names></name><name name-style="western"><surname>Milne</surname> <given-names>J</given-names></name></person-group> (<year>2006</year>)<article-title> A new species of <italic>Boletopsis</italic> associated with <italic>Pinus sylvestris</italic> L in Scotland.</article-title> <source>Botanical Journal of Scotland </source> <volume>58</volume>: <fpage>81</fpage>-<lpage>92</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/03746600608685110" xlink:type="simple">10.1080/03746600608685110</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Watling</surname> <given-names>R</given-names></name><name name-style="western"><surname>Milne</surname> <given-names>J</given-names></name></person-group> (<year>2008</year>)<article-title> The identity of European and North American <italic>Boletopsis</italic> spp. (Basidiomycota; Thelephorales, Boletopsidaceae).</article-title> <source>North American Fungi </source> <volume>3</volume> (<issue>7</issue>): <fpage>5</fpage>-<lpage>15</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2509/naf2008.003.0072" xlink:type="simple">10.2509/naf2008.003.0072</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

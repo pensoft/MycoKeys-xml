@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<article xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:tp="http://www.plazi.org/taxpub" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title>MycoKeys</journal-title>
+                <abbrev-journal-title>MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-2011</issn>
+            <issn pub-type="epub">1314-2003</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.2.2499</article-id>
+            <title-group>
+                <article-title>Translation into Arabic of: “Changes to publication requirements made at the XVIII International Botanical Congress in Melbourne – what does e-publication mean for you?”. Translated by Ahmed M. Abdel-Azeem and Gihan S. Soliman
+تغييرات شروط النشر التى اجريت في المؤتمر الدولي الثامن عشر للنبات في لبورن- ماذا يعنى النشر الإلكتروني بالنسبة لك؟
+</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Knapp1</surname>
+                        <given-names>Sandra</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>McNeill2</surname>
+                        <given-names>John</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Turland3</surname>
+                        <given-names>Nicholas J.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Botany, The Natural History Museum, Cromwell Road, London SW7 5BD, UK
+            </aff>
+            <aff id="A2">
+                <label>2</label>Royal Botanic Garden, Edinburgh, 20A Inverleith Row, Edinburgh EH3 5LR, UK
+            </aff>
+            <aff id="A3">
+                <label>3</label>Missouri Botanical Garden, PO Box 299, St Louis, MO 63166-0299, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Sandra Knapp (<email xlink:type="simple">s.knapp@nhm.ac.uk</email>).</p>
+                </fn>
+                <fn fn-type="corresp">
+                    <p>الترجمة للعربية: أحمد محمد عبد العظيم*(قسم النبات، كلية العلوم، جامعة قناة السويس، الإسماعيلية 41522، مصر) و جيهان سامى سليمان (جمعية معلمى المناهج الدولية، 318 زهراء مدينة نصر، القاهرة، مصر) </p>
+                    <p>*المؤلف الذي تجري المراسلات معه (<email xlink:type="simple">donmez@hacettepe.edu.tr</email>)</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>5</day>
+                <month>3</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>2</issue>
+            <fpage>45</fpage>
+            <lpage>50</lpage>
+            <history>
+                <date date-type="received">
+                    <day>4</day>
+                    <month>12</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>6</day>
+                    <month>12</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Sandra Knapp, John McNeill, Nicholas J. Turland</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label><bold>الملخص</bold></label>
+                <p>يتم تقرير تغييرات في القانون الدولى للتسمية النباتية كل 6 سنوات في أقسام التسميات المرتبطة بالمؤتمرات النباتية الدولية (IBC). وبالمؤتمر الدولي الثامن عشر للنبات الذي عقد في ملبورن ، استراليا ؛ عقد قسم  التسميات إجتماعاً خلال الفترة من  18إلى 22 يوليو 2011 وتم قبول قراراتها من قبل المؤتمر في جلسته العامة يوم 30 يوليو. وقد أجريت نتيجة لهذا الاجتماع العديد من التغييرات الهامة على القانون والتي سيكون لها تأثير على نشر أسماء جديدة. وسيسري العمل باثنين من تلك التغييرات في 1 كانون الثاني 2012، وقبل بضعة أشهر من نشر قانون ملبورن. فستصبح المواد الالكترونية التي نشرت على الانترنت على هيئة تنسيق المستندات المحمولة (PDF) مع الرقم التسلسلي المعيارى الدولى (ISSN) أو الرقم المعيارى الدولى للكتاب (ISBN) صالحة للنشر كما سيتم تغيير شرط الحصول على وصف أو تشخيص لاتينى لأسماء الأصنوفات الجديدة إلى شرط الوصف أو التشخيص سواء باللاتينية أو الإنجليزية. بالإضافة إلى ذلك،فإنه بدء من يناير عام 2013 سيكون على الأسماء الجديدة للكائنات الحية التي تعامل كفطريات أن تشمل في البروتولوج (كل ما يرتبط بإسم وبنشره الصحيح) توثيق المعرف صادرا من مستودع معترف به (مثل بنك الفطريات MycoBank) لتصيرصالحة للنشر. ويتم توفير مسودة المواد الجديدة التي تتعامل مع النشر الإلكتروني وتحديد أفضل الممارسات. </p>
+                <p>ولتشجيع نشر التغييرات التي أدخلت على القانون الدولي للتسمية للطحالب والفطريات ، والنباتات ، سيتم نشر هذه المقالة في المجلات التالية BMC Evolutionary Biology, Botanical Journal of the Linnean Society, Brittonia, Cladistics, MycoKeys, Mycotaxon, New Phytologist, North American Fungi, Novon, Opuscula Philolichenum, PhytoKeys, Phytoneuron, Phytotaxa, Plant Diversity and Resources, Systematic Botany  و  Taxon.</p>
+            </abstract>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="المقدمة">
+            <title>المقدمة</title>
+            <p>في المؤتمر الثامن عشر الدولي للنبات في ملبورن، استراليا، في يوليو 2011 ، تم إعداد  تغييرين هامين فى القانون الدولى لتسمية النبات (الآن القانون الدولي لتسمية الطحالب والفطريات والنباتات) وسيكونا ساريان بدءا من 1 يناير 2012 بما  سيؤثر على كل من ينشر أسماء تحت حكم هذا القانون .وحيث أن قانون ملبورن سوف لا ينشر حتى منتصف عام 2012 تقريبا، فقد شعرنا أنه سيكون من المفيد توضيح هذه التغييرات، ولا سيما بصلاحية النشر في وسائل الإعلام الإلكترونية (في المواد 29 و 30 و 31). للاطلاع على تقرير موجز عن كل التغييرات على القانون والمقبولة في ملبورن ، انظر ماكنيل وآخرون (2011).</p>
+            <p>وتم توفير مسودة لصيغة المواد المعدلة والملاحظات والتوصيات المتعلقة بصلاحية النشر لمساعدة المحررين والناشرين لوضع أفضل الممارسات لتنفيذ هذا الجانب من القانون. ونحن نستعرض هنا أيضا ما لا تعنيه تلك التغييرات، من أجل توجيه الراغبين في نشر أسماء جديدة ونماذج بالوسائل الالكترونية. ونحن نحث القراء على الاطلاع على تقرير اللجنة الخاصة المعنية بالنشر الإلكتروني المصاحبة للتغييرات المقترحة قبل المؤتمر (تشابمان  وآخرون 2010) ، حيث تم عرض منطق التغييرات التي تم قبولها في القانون الآن.  </p>
+        </sec>
+        <sec sec-type="مسودة صياغة المواد المعدلة 29 ، 30 ، و 31 والتوصيات 29A ، 30A ، و31A">
+            <title>مسودة صياغة المواد المعدلة 29 ، 30 ، و 31 والتوصيات 29A ، 30A ، و31A</title>
+            <p>نحن هنا نعيد صياغة كلمات جميع المواد المتصلة والملاحظات والتوصيات (مع  حذف الأمثلة)، مع التأكيد على التغييرات بكتابتها بخط سميك والصياغة هنا مؤقتة لحين اجتماع لجنة التحرير في ديسمبر 2011 لوضع اللمسات الأخيرة على النسخة المطبوعة من قانون ملبورن.</p>
+            <sec sec-type="المادة 29">
+                <title>المادة 29</title>
+                <p>29.1. النشر يصبح صالحا، بموجب هذا القانون ، من خلال توزيع المواد المطبوعة (من خلال البيع والتبادل أوالهبة) لعامة الناس أو على الأقل للمؤسسات النباتية ذات المكتبات والتي فى متناول علماء النبات عموما. <bold>والنشر يعد صالحاً أيضا بتوزيع المواد إلكترونيا بتنسيق المستندات المحمولة (PDF ، وانظر أيضا المادة 29.3 والتوصية 29A.1) في منشور على الانترنت مع الرقم التسلسلي المعيارى الدولى (ISSN) أو الرقم المعيارى الدولى للكتاب (ISBN). </bold>لا يعد النشر صالحاً بنشر أسماء جديدة من خلال تبليغها في جلسة علنية أوعن طريق وضع الأسماء في مجموعات أو حدائق مفتوحة للجمهور أو من خلال إصدار الميكروفيلم المصنوع من مخطوطات، أوراق مطبوعة، أو مواد أخرى غير منشورة، أو عن طريق التوزيع الإلكترونى غير المذكور أعلاه.</p>
+                <p><bold>29.2. لغرض هذا المقال  يعرف «الإلكتروني» بأنه مايمكن الوصول إليه إلكترونيا عبر الشبكة العنكبوتية العالمية.</bold></p>
+                <p><bold><italic>29.3.</italic>  في حال استبدال نسق المستندات المحمولة (PDF)، فيقبل خلفا له تنسيق المعايير الدولية التي تحددها اللجنة العامة (انظر الجزء الثالث)</bold></p>
+                <p><bold><italic>29.4.</italic> الصالح ذاته وأي تصحيحات أو تعديلات يجب أن تنشر منفصلة لتعتبر منشورة نشراً صالحاً.</bold></p>
+            </sec>
+            <sec sec-type="توصية 29A">
+                <title>توصية 29A</title>
+                <p>[التوصية الحالية يستعاض عنها بما يلي :]</p>
+                <p><bold><italic>29A.1.</italic> 29A.1.  ينبغي أن يكون النشر الإلكتروني في نسق المستندات المحمولة (PDF) متوافقا مع نسق المستندات المحمولة/ المحفوظات القياسية ( ايزو 19005).</bold></p>
+                <p><bold><italic>29A.2.</italic>  يفضل أن يقوم الناشر بالنشر في المنشورات التي يتم حفظها، وتلبي المعايير التالية بقدر إمكانية التطبيق (انظر أيضا التوصيةA. 1  29) :</bold></p>
+                <p><bold>(<italic>a</italic>) ينبغي أن توضع المواد في مستودعات رقمية عديدة بالانترنت موثوق بها ، مثل مستودع حائزة على شهادة الايزو؛</bold></p>
+                <p><bold>(<italic>b</italic>) ينبغي أن تكون المستودعات الرقمية في أكثر من منطقة واحدة فى العالم ، ويفضل أن تكون في مختلف القارات؛</bold></p>
+                <p><bold>(<italic>c</italic>) تخزن النسخ المطبوعة في المكتبات في أكثر من منطقة واحدة من العالم ، ويفضل أيضاً في قارات مختلفة. </bold></p>
+            </sec>
+            <sec sec-type="المادة 30">
+                <title>المادة 30</title>
+                <p><bold><italic>30.1.</italic>  لا يشكل المنشور إلكترونيا منشورا صالحاُ قبل 1 يناير 2012.</bold></p>
+                <p><bold><italic>30.2.</italic> لا يعد المنشور الكترونيا نشرا صالحا إذا كانت هناك أدلة مرتبطة بالمنشور أو داخله على انه مجرد نسخة أولية كانت ستستبدل أو سيتم استبدالها بنسخة يعتبرها الناشر نهائية وفي تلك الحالة تكون النسخة النهائية تلك فقط هي الصالحة للنشر.</bold></p>
+                <p><italic>30.3.</italic> يعتبر النشر عن طريق مخطوطات لاتمحى قبل 1 يناير 1953 نشرا صالحا. أما المخطوطات التى لا تمحى والتي انتجت في وقت لاحق لا تعد نشرا صالحا.</p>
+                <p><italic>30.4.</italic> هدف هذه المادة، ان المخطوطة التى لاتمحى عبارة عن مادة مكتوبة بخط اليد وتم انتاجها عن طريق عملية ميكانيكية أو طباعة (مثل الطباعة الحجرية ، الاوفست، أو النقش معدني).</p>
+                <p><italic>30.5.</italic>  النشر في أو بعد 1 يناير 1953 في كتالوجات التجارة أو الصحف غير العلمية، وفى أو بعد 1 يناير 1973 في قوائم تبادل البذور، لا يشكل نشرا صالحا.</p>
+                <p><italic>30.6.</italic> توزيع المطبوعات فى أو بعد 1 يناير 1953 المصاحبة للعينات لا يشكل نشر صالحا. .</p>
+                <p><!--PageBreak--><italic>Note 1.</italic> أما إن تم توزيع المادة المطبوعة مستقلة عن العينات، يعد النشر صالحا.</p>
+                <p><italic>30.7.</italic> النشر في أو بعد 1 يناير 1953 لعمل مستقل بدون رقم مسلسل على أنها أطروحة قدمت إلى جامعة أو معهد تعليمي أخر بغرض الحصول على درجة لا يعد نشرا صالحا ما لم يتضمن بيانا واضحا (في إشارة إلى شروط قانون النشر الصالح) أو أدلة داخلية أخرى على أنها  تعتبر نشرا صالحا من قبل مؤلفها أو ناشرها</p>
+                <p><italic>Note 2.</italic> ويعتبر وجود الرقم المعيارى الدولى للكتاب (ISBN) أو بيانا باسم المطبعة، أو الناشر أو الموزع في النسخة الأصلية المطبوعة دليلا داخليا أن العمل كان مخصصا للنشر نشرا صالحا.</p>
+            </sec>
+            <sec sec-type="توصية 30A">
+                <title>توصية 30A</title>
+                <p><bold><italic>30A.1.</italic> ينبغي الإشارة بوضوح إلى أن الإصدار الأولي والنهائية لذات النشر الالكتروني كانتا كذلك عند إصدارهما للمرة الأولى.</bold></p>
+                <p><italic>30A.2.</italic> ينصح وبشدة أن يتجنب المؤلفين نشر أسماء وأوصاف جديدة أو تشخيص لأصنوفات جديدة (تسميات حديثة) في أي مطبوعات سريعة الزوال من أي نوع ، ولا سيما المواد المطبوعة التي أنتجت في أعداد محدودة وغير مؤكدة ، والتي عندها تكون ديمومة النص محدودة ، وبالتالي فإن النشر الصالح بالرجوع إلى عدد النسخ يصبح غير واضح ، أو أنه من غير المرجح أن يصل إلى عامة الناس. وينبغي أيضا أن يتجنب المؤلفين نشر أسماء وأوصاف جديدة أو تشخيصات في الدوريات الشعبية، في مجلات للملخصات، أو على قصاصات تصويب</p>
+                <p><italic>30A.3.</italic> ولتسهيل الإتاحية عبر الزمان والمكان ، يجب على المؤلفين ممن يقوموا بنشر أسماء جديدة إعطاء الأفضلية للدوريات التي تنشر المقالات التصنيفية بانتظام. <bold>و إلا فعليهم إرسال نسخة من المنشور (سواء كان منشورا مطبوعا أو إلكترونيا) إلى مركزا للفهرسة مناسباً للمجموعة التصنيفية ، أما المنشورات التي لا توجد إلا على هيئة مطبوعة</bold> sفينبغي إيداعها في بما لا يقل عن عشرة ، ولكن يفضل أكثر ، مكتبات نباتية أو غيرها من المكتبات المتاحة عموما في جميع أنحاء العالم</p>
+                <p><italic>30A.4.</italic> وينصح أن يقوم الكتاب والمحررين بذكر الأسماء الجديدة في الملخصات والمختصرات، أو حصرها في فهرس في المطبوعة.</p>
+            </sec>
+            <sec sec-type="المادة 31">
+                <title>المادة 31</title>
+                <p><italic>31.1.</italic>  تاريخ النشر الصالح هو التاريخ الذي تصبح فيه المادة المطبوعة <bold>و الإلكترونية</bold> متاحة كما تم تعريفها فى المادة 29 و 30. في غياب بروفة طباعة لإثبات تاريخ آخر،  فإنه يجب قبول التاريخ الظاهر على المواد المطبوعة  <bold>أو الإلكترونية</bold> على انه صحيحا.<!--PageBreak--></p>
+                <p>[ملاحظة 1 القائمة يستعاض عنها بما يلي :]</p>
+                <p><bold><italic>31.2.</italic>عندما يتم إصدار منشور إصداراُ الكترونيا ومطبوعا بالتوازي فيجب معاملة كلاهما كنشرا صالحا في ذات التاريخ ما لم يكن تاريخ الإصدار مختلفا طبقاً للمادة 31.1.</bold></p>
+                <p><italic>31.3.</italic>  عندما تطرح بعض المستلات من دوريات أو من أعمال أخرى للبيع مقدما ، فإن  التاريخ الموجود على المستلة يقبل على أنه تاريخ النشر الصالح ما لم يتوفر دليل على خطأ ذلك.</p>
+            </sec>
+            <sec sec-type="توصية 31A">
+                <title>توصية 31A</title>
+                <p><italic>31A.1.</italic>  ينبغي قبول التاريخ الذي قام فيه الناشر أو وكيل الناشر بتوفير المواد المطبوعة إلى واحدة من شركات الطيران المعتادة للتوزيع على الجمهور على أنه تاريخ النشر الصالح</p>
+            </sec>
+        </sec>
+        <sec sec-type="أفضل الممارسات">
+            <title>أفضل الممارسات</title>
+            <p>على مؤلفي الأسماء الجديدة ، والمحررين والناشرين جميعا الاهتمام بالتأكد أن المنشورات والتي تشتمل على أسماء جديدة توافق جميعها قانون ملبورن ، بحيث يتم نشر الأسماء فيه بشكل صالح. ونقترح أن من يقومون بالنشر في المجلات أو سلسلة من الدراسات والكتب التي لها طبعات على الانترنت التواصل مع المحررين بحيث يمكن التوصل لأفضل الممارسات في جميع أنحاء المجتمع بأسرع وقت ممكن. وقد قام العديد من الناشرين بتناول المسائل التي تتصل بالنشر الإلكتروني للمستجدات لبعض الوقت (انظر ناب ورايت 2010 ؛ المبادئ التوجيهية PLoS One [<ext-link ext-link-type="uri" xlink:href="http://www.plosone.org/static/policies.action#taxon" xlink:type="simple">http://www.plosone.org/static/policies.action#taxon</ext-link>  وقد بدا منهم اهتماما واضحا بسريان التغييرات الجديدة في القانون بفاعلية.</p>
+            <p>ومن الممارسات التي نراى أنها ستساعد في المراحل الأولية للنشر الإلكتروني للمستجدات وفقا لقانون ملبورن هي ::</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>•	أن يحمل كل مقال تاريخ نشره بصورة واضحة (كما هو الحال في العديد من المجلات ، على سبيل المثال New Phytologist أو Nature).</p>
+                </list-item>
+                <list-item>
+                    <p>•	 إذا تم إصدار نسخة على الإنترنت في وقت سابق ليست هي نفس الصيغة النهائية (وبالتالي لايعد هذا مكان النشر الصالح) ، يختم كل مقال بهذه الحقيقة بوضوح (على سبيل المثال American Journal of Botany).</p>
+                </list-item>
+                <list-item>
+                    <p>•	عرض الرقم التسلسلي المعياري الدولي أو الرقم المعياري الدولي للكتاب المنشور بوضوح على كل مادة لتساعد المفهرسين لإنشاء نشر صالح.</p>
+                </list-item>
+                <list-item>
+                  <p>•	النشر في مجلات (أو سلسلة من الدراسات) تشارك في نظام CLOCKSS (انظر ناب ورايت 2010 للحصول على وصف) أو أرشيف دولي آخر ونظام حفظ يضمن الحفظ على المدى الطويل.</p>
+                </list-item>
+                <list-item>
+                    <p>•	وينبغي أن ينبه المؤلفين للأسماء الجديدة بالوسائل الالكترونية مركز الفهرسة المناسب لهم على النحو الموصى به في التوصية 30 A.3 . – مما سيساعد المفهرسين الذين قد لا يكونوا على وعي بالأسماء المنشورة إلكترونيا ان لم يتم تنبيههم بتلك الكيفية.</p>
+                </list-item>
+            </list>
+        </sec>
+        <sec sec-type="ما لا تعنيه هذه التغييرات">
+            <title>ما <italic>لا</italic> تعنيه هذه التغييرات </title>
+            <p>على الرغم من أن المواد الجديدة والتوصيات تستخدم مصطلحي نسق المستندات المحمولة  ونسق المستندات المحمولة/ المحفوظات القياسية  PDF و PDF / A ، فإن هذا لا يعني حتمية أن تصدر المنشورات حصريا في هذا الشكل لتكون صالحة للنشر. على سبيل المثال ، بعض أوراق المجلات على الإنترنت تصدر في تنسيق لغة توصيف النص التشعبي (HTML) بالتوازي مع نسق المستندات المحمولة. وفي مثل هذه الحالات ، سيتم نشر نسخة نسق المستندات المحمولة  نشرا صالحا. أن شرط أن اللجنة العامة للتسميات النباتية سوف تنقل قبول صيغة معيار دولي جديدة ، في حال استبدال نسق المستندات المحمولة طالما يعني أن مؤلفي الأسماء الجديدة والمجتمع ممن يستخدموا القانون يستطيعون البقاء على علم بالتقدم في المجال وأن القانون سوف يكون محميا من التقادم.</p>
+            <p>ستخدام الوسائل التالية للنشر الإلكتروني لن تؤدي للنشر الصالح للمستجدات بموجب قانون ملبورن :</p>
+            <list list-type="bullet">
+                <list-item>
+                    <p>•	النشر على مواقع الانترنت أو في وثائق زائلة متاحة عبر شبكة الإنترنت (هناك معايير صارمة لمنح الأرقام التسلسلية المعيارية الدولية [http://www.issn.org]).</p>
+                </list-item>
+                <list-item>
+                    <p>•	 النشر في مجلات دون رقم تسلسلي معياري دولي مسجل أو رقم تسلسلي معياري دولي الكتروني.</p>
+                </list-item>
+                <list-item>
+                    <p>•	النشر في كتب دون الرقم المعياري الدولي للكتاب أو الرقم المعياري الدولي للكتاب الالكتروني.</p>
+                </list-item>
+            </list>
+            <p>إن التوصية المعتمدة كمشورة لحفظ نسخة مطبوعة من أي نشر إلكتروني في مكتبة تقترح لعلماء النبات عملا إجرائيا، إلا أنها لا تنص على ممارسة معيارية أو بروتوكول يتبعه أمناء المكتبات. فأمناء المكتبات أنفسهم في مرحلة انتقالية معقدة بين طرق النشر (جونسون ولوثر 2007) ، وقد يجد علماء النبات أن أمناء المكتبات غير راغبين أو غير قادرين  على استيعاب إحدى المطبوعات الورقية كمنشور مفرد في حال كونه كبير الحجم.</p>
+        </sec>
+        <sec sec-type="تغييران آخران هامان في القانون يتعلقان بنشر الأسماء">
+            <title><bold>تغييران آخران هامان في <italic>القانون</italic> يتعلقان بنشر الأسماء</bold></title>
+            <p>التغيير الثاني في القانون الذي تم اعتماده في ملبورن على أن يسري بدئه من يناير 2012 هو أن الوصف أو التشخيص المطلوب للنشر الصالح لأسم جديد لجميع الكائنات التي ينطبق عليها القانون يمكن أن تكون بالإنجليزية أو اللاتينية وهذا هو الشرط الحالي لأسماء حفريات النبات إلا أن كل الأسماء الغير حفرية الجديدة مازالت تتطلب وصفا لاتينيا أو تشخيصا (الفطريات والنباتات من 1 يناير 1958 والطحالب بما يشمل البكتيريا الخضراء المزرقة لو تمت معاملتها بموجب القانون من يناير 1958). وهذا لا يطبق فى حالة الأسماء العلمية والتي ستستمر لاتينية أو تعامل كلاتيني. والمتطلبات الفردية لمجلة باللاتيني و/ أو الإنجليزي يحددها محرري تلك المجلات.</p>
+            <p>والتغيير الثالث للقانون المعتمد في ملبورن يرتبط بنشر الأسماء لكنه لا يسري حتى 1 يناير 2013 (ليس يناير 2012 كما نقله ميلر وآخرون 2011) وهو أن الأسماء الجديدة للكائنات التي تعامل كفطريات يجب أن، بالإضافة إلى شرط النشر الصالح ، تشتمل في البروتولوج (كل ما يرتبط بالإسم وصلاحية نشره) على المصدر الذي يحدد المعرف وصادر من مستودع معترف به (مثل بنك الفطريات ]http://www.mycobank.org/[وينشر ذلك بشكل منفصل. إن شروط المعرف الفريد لأسم جديد من الفطريات بحلول 1 يناير 2013 أو بعد ذلك لا ينطبق على النباتات أو الطحالب ولا حاجة لمؤلفي أسماء جديدة في هذه المجموعات أن يطلبوا معرفي علوم حياة (LSIDs) أو أي معرفين آخرين من مراكز الفهرسة.<!--PageBreak--></p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>شكر وتقدير</title>
+            <p>تم دعم ساندرا ناب من قبل المؤسسة العلمية الوطنية برنامج رصد التنوع البيولوجى الكوكبى  (منحة DEB - 0316614، رصد التنوع البيولوجى الكوكبى ل Solanum في جميع أنحاء العالم). ودعم حضور كلا من جون ماكنيل ونيكولاس ج تورلاند جزئيا في قسم التسميات للمؤتمر الدولى الثامن عشر للنبات في ملبورن من قبل الجمعية الدولية لتصنيف النبات (IAPT). نشكر كاثرين تشاليس (كيو) لتعليقاتها المفيدة. لتشجيع نشر التغييرات التي أدخلت على القانون الدولي لتسمية الطحالب والفطريات ، والنباتات، سوف تنشر هذه المقالة فى المجلات التالية   BMC Evolutionary Biology, Botanical Journal of the Linnean Society, Brittonia, Cladistics, MycoKeys, Mycotaxon, New Phytologist, North American Fungi, Novon, Opuscula Philolichenum, PhytoKeys, Phytoneuron, Phytotaxa, Plant Diversity and Resources, Systematic Botany  و Taxon.</p>
+        </ack>
+        <ref-list>
+            <title><bold>المراجع</bold></title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Chapman</surname> <given-names>AD</given-names></name><name name-style="western"><surname>Turland</surname> <given-names>NJ</given-names></name><name name-style="western"><surname>Watson</surname> <given-names>MF</given-names></name></person-group> (<role>Eds</role>) (<year>2010</year>)<article-title> Report of the Special Committee on Electronic Publication.</article-title> <source>Taxon</source> <volume>59</volume>: <fpage>1853</fpage>-<lpage>1862</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Johnson</surname> <given-names>RK</given-names></name><name name-style="western"><surname>Luther</surname> <given-names>J</given-names></name></person-group> (<year>2007</year>)<article-title> The E-Only Tipping Point for Journals: What’s Ahead in the Print-to-Electronic Transition Zone.</article-title> Association of Research Librarians, Washington DC.</mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>Wright</surname> <given-names>D</given-names></name></person-group> (<year>2010</year>)<article-title> E-publish or perish?</article-title> In: <person-group><name name-style="western"><surname>Polaszek</surname> <given-names>A</given-names></name></person-group> (<role>Ed</role>). <issue-title>Systema Naturae 250 – the Linnaean Ark.</issue-title> Taylor and Francis, London: <fpage>83</fpage>-<lpage>93</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1201/EBK1420095012-c8">10.1201/EBK1420095012-c8</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>McNeill</surname> <given-names>J</given-names></name><name name-style="western"><surname>Turland</surname> <given-names>NJ</given-names></name><name name-style="western"><surname>Monro</surname> <given-names>A</given-names></name><name name-style="western"><surname>Lepschi</surname> <given-names>BJ</given-names></name></person-group> (<year>2011</year>) <article-title>XVIII International Botanical Congress: preliminary mail vote and report of Congress action on nomenclature proposals.</article-title> <source>Taxon</source> <volume>60</volume>: <fpage>1</fpage>-<lpage>14</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Miller</surname> <given-names>JS</given-names></name><name name-style="western"><surname>Funk</surname> <given-names>VA</given-names></name><name name-style="western"><surname>Wagner</surname> <given-names>WL</given-names></name><name name-style="western"><surname>Barrie</surname> <given-names>F</given-names></name><name name-style="western"><surname>Hoch</surname> <given-names>PC</given-names></name><name name-style="western"><surname>Herendeen</surname> <given-names>P</given-names></name></person-group> (<year>2011</year>)<article-title> Outcomes of the 2011 Botanical Nomenclature Section at the XVIII International Botanical Congress.</article-title> <source>PhytoKeys</source> <volume>5</volume>: <fpage>1</fpage>-<lpage>3</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/phytokeys.5.1850">10.3897/phytokeys.5.1850</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kiesling</surname> <given-names>R</given-names></name></person-group> (<role>Ed</role>) (<year>2002</year>) <source>Código Internacional de Nomenclatura Botánica: (Código de Saint Louis): adoptado por el decimosexto Congreso Internacional de Botánica, Saint Louis, Missouri, julio-agosto 1999.</source> Edición en español. Instituto de Botánica Darwinion-Missouri Botanical Garden Press. 181 pp.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

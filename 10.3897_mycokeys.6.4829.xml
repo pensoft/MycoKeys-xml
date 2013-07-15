@@ -1,0 +1,103 @@
+    <!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+        <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.6.4829</article-id>
+            <title-group>
+                <article-title>Lichens: from genome to ecosystems in a changing world</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Boonpragob</surname>
+                        <given-names>Kansri</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Crittenden</surname>
+                        <given-names>Peter D.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lumbsch</surname>
+                        <given-names>H. Thorsten</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biology, Faculty of Science, Ramkhamhaeng University, Huamak, Bangkok 10240, Thailand
+            </aff>
+            <aff id="A2">
+                <label>2</label>School of Biology, The University of Nottingham, University Park, Nottingham NG7 2RD, United Kingdom
+            </aff>
+            <aff id="A3">
+                <label>3</label>Department of Botany, Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago, IL 60605, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: H. Thorsten Lumbsch (<email xlink:type="simple">tlumbsch@fieldmuseum.org</email>)
+                    </p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>23</day>
+                <month>4</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>6</issue>
+            <fpage>1</fpage>
+            <lpage>2</lpage>
+            <history>
+                <date date-type="received">
+                    <day>5</day>
+                    <month>2</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>15</day>
+                    <month>2</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Kansri Boonpragob, Peter D. Crittenden, H. Thorsten Lumbsch</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+        </article-meta>
+    </front>
+		<body>
+				<sec sec-type="text-body">
+					<title/>
+            <p>Fungi that form stable associations with algae and/or cyanobacteria, so-called lichens, are among the evolutionary most successful symbiotic systems with about 28,000 estimated species. In addition, certain groups of bacteria have recently been found to be present in lichen thalli. This symbiotic system consists of partners from at least two domains of life and major clades of eukaryotes and prokaryotes. Thus, it is an excellent model to study the evolution of cooperation. The International Association for Lichenology (IAL) is the society for all scientists working on different aspects of the lichen symbiosis, from diversity and evolution over ecology and physiology to conservation and bioprospecting. Between January 9-13, 2012 the 7th International Symposium of the IAL7 attracted about 300 lichenologists from all over the world (47 countries) to come to Bangkok, Thailand. At the beginning of most days during the meeting, a plenary talk was given on recent progress in different areas of lichenology. Two speakers of plenary talks agreed to prepare a review paper on their presentations. In addition, three of the other contributors to the general symposia agreed to write review papers on recent progress in their fields of lichen research. Four of these five contributions are published following the editorial in this issue of MycoKeys, while one manuscript has been published in the previous issue (<xref ref-type="bibr" rid="B1">Triebel et al. 2012</xref>). The scope of the contributions spans from using information technology to handle <!--PageBreak-->data in megascience platforms, over molecular approaches to understand the ecology, distribution and phylogeny of lichens, to modern approaches to understand metabolism and ecosystem change.</p>
+            <p>The paper by <xref ref-type="bibr" rid="B1">Triebel et al. (2012)</xref> discussed processing and handling of large amounts of data available in megascience platforms and models in order to put the maintenance of those databases on a sustainable basis; it included specific references to databases with a focus on mycological and lichenological data. The paper by Joukko Rikkinen (Helsinki) summarizes recent progress in our understanding of the diversity of cyanobacteria in the lichen symbiosis and previously overlooked aspects that potentially have great importance for the fitness of cyanobacteria, including the production of toxins by those symbionts in the lichenized state. The second paper in this issue by Christian Printzen (Frankfurt) and his co-workers illustrates the enormous increase in our knowledge of the biogeography and ecology of lichens by the combination of using molecular approaches and ecophysiological measurements using <italic><tp:taxon-name>Cetraria aculeata</tp:taxon-name></italic> as a model species. In the following paper Eimy Rivas Plata (Durham, NC) and twelve co-authors present a molecular phylogeny of the tropical lichen family Graphidaceae. It includes 437 species and represents one of the largest molecular phylogenies of lichenized fungi undertaken to date and clearly demonstrates the potential of collaborative approaches in evolutionary biology. The last review paper in this series is written by Cristina Máguas (Lisbon) and her collaborators and summarizes our understanding of the role of the atmosphere in carbon, nitrogen and water relationships in lichens. These studies allow us to now understand much better than previously the impact of ecosystem change on lichens and to better understand the metabolism in these symbiotic organisms.</p>
+            <p>We thank each contributor for taking the time to prepare these review papers that give an overview of current developments in lichenology. We also thank the members of the local and scientific organizing committees for their hard work in planning and running this most successful and enjoyable meeting. We also thank all contributors to the different symposia for their efforts in making this meeting extremely successful.</p>
+				</sec>
+		</body>            
+    <back>
+        <ref-list>
+            <title>Reference</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Triebel</surname> <given-names>D</given-names></name><name name-style="western"><surname>Hagedorn</surname> <given-names>G</given-names></name><name name-style="western"><surname>Rambold</surname> <given-names>G</given-names></name></person-group> (<year>2012</year>)<article-title> An appraisal of megascience platforms for biodiversity information.</article-title> <source>MycoKeys </source> <volume>5</volume>: <fpage>45</fpage>-<lpage>63</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/mycokeys.5.4302">10.3897/mycokeys.5.4302</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

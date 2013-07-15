@@ -1,0 +1,313 @@
+    <!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+        <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.7.5182</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Cortinarius bovarius</italic> (Agaricales), a new species from western North America
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Liimatainen</surname>
+                        <given-names>Kare</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Niskanen</surname>
+                        <given-names>Tuula</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Biosciences, Plant Biology, P.O. Box 65, FI-00014 University of Helsinki, Finland
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Kare Liimatainen (<email xlink:type="simple">kare.liimatainen@helsinki.fi</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: I. Schmitt</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>5</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>7</issue>
+            <fpage>23</fpage>
+            <lpage>30</lpage>
+            <history>
+                <date date-type="received">
+                    <day>21</day>
+                    <month>3</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>30</day>
+                    <month>4</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Kare Liimatainen, Tuula Niskanen</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p><italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> <bold>sp. nov.</bold>, a conifer associated taxon growing on calcareous ground, is described from western North America. Phylogenetic relationships and species limits were investigated using rDNA ITS and nuclear <italic>rpb</italic>2 sequences, morphological and ecological data. The species belongs to section <italic><tp:taxon-name>Bovini</tp:taxon-name></italic> and its closest relative is European <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic>.</p>
+            </abstract>
+            <kwd-group>
+                <label>Key words</label>
+                <kwd>ITS</kwd>
+                <kwd>MrBayes</kwd>
+                <kwd><italic>rpb</italic>2</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd><italic>Telamonia</italic></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p><italic><tp:taxon-name>Cortinarius</tp:taxon-name></italic> is the most species rich genus of the <tp:taxon-name>Agaricales</tp:taxon-name> with a worldwide distribution. <italic><tp:taxon-name>Cortinarius</tp:taxon-name></italic> species are important ectomycorrhizal fungi associated with different trees and shrubs belonging e.g. to the order <tp:taxon-name>Fagales</tp:taxon-name> and families <tp:taxon-name>Pinaceae</tp:taxon-name> and <tp:taxon-name>Salicaceae</tp:taxon-name>. Lately it has also been suggested that they have a key role in the carbon cycling of boreal forests (<xref ref-type="bibr" rid="B6">Bödeker et al. 2011</xref>).</p>
+            <p>In recent years there have been a number of publications on the taxonomy, evolution and biogeography of species found in North America (<xref ref-type="bibr" rid="B23">Seidl 2000</xref>, <xref ref-type="bibr" rid="B14">Moser and Peintner 2002</xref>, <xref ref-type="bibr" rid="B13">Matheny and Ammirati 2006</xref>, <xref ref-type="bibr" rid="B10">Garnica et al. 2009</xref>, <xref ref-type="bibr" rid="B11">2011</xref>, <xref ref-type="bibr" rid="B3">Bojantchev 2011a</xref>, <xref ref-type="bibr" rid="B4">b</xref>, <xref ref-type="bibr" rid="B5">Bojantchev and Davis 2011</xref>, <xref ref-type="bibr" rid="B12">Harrower et al. 2011</xref>, <xref ref-type="bibr" rid="B1">Ammirati et al. 2012</xref>, <xref ref-type="bibr" rid="B2">2013</xref>, <xref ref-type="bibr" rid="B17">Niskanen et al. 2012</xref>, <xref ref-type="bibr" rid="B18">2013a</xref>, <xref ref-type="bibr" rid="B19">in press a</xref>). These studies show several patterns of species distributions. There are species common to North America and Europe, especially those species from more northern and montane conifer forests, i.e. <italic><tp:taxon-name>Cortinarius aureofulvus</tp:taxon-name></italic> <!--PageBreak-->M. M. Moser and <italic><tp:taxon-name>Cortinarius napus</tp:taxon-name></italic> Fr. There are also presumably endemic species in both Western North America, eastern North America and Europe, i.e. <italic><tp:taxon-name>Cortinarius elegantio-occidentalis</tp:taxon-name></italic> Garnica &amp; Ammirati and <italic><tp:taxon-name>Cortinarius californicus</tp:taxon-name></italic> A.H. Sm. in western North America, <italic><tp:taxon-name>Cortinarius hesleri</tp:taxon-name></italic> Ammirati, Niskanen, Liimat. &amp; Matheny in eastern North America, and <italic><tp:taxon-name>Cortinarius puniceus</tp:taxon-name></italic> P.D. Orton in Europe.</p>
+            <p><xref ref-type="bibr" rid="B20">Niskanen et al. (in press b)</xref> studied <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic> Fr. and morphologically similar species occurring in boreal coniferous forests in rich forest soils in northern Europe. Seven species were recognized, all belonging to section <italic><tp:taxon-name>Bovini</tp:taxon-name></italic> (subgenus <italic><tp:taxon-name>Telamonia</tp:taxon-name></italic>). Four of them, <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic> Fr., <italic><tp:taxon-name>Cortinarius bovinaster</tp:taxon-name></italic> Niskanen, Kytöv. &amp; Liimat., <italic><tp:taxon-name>Cortinarius bovinatus</tp:taxon-name></italic> Kytöv., Liimat., Niskanen &amp; H. Lindstr., and <italic><tp:taxon-name>Cortinarius oulankaënsis</tp:taxon-name></italic> Kytöv., Niskanen, Liimat. &amp; H. Lindstr., formed a well-supported (PP 1.00) clade inside sect. <italic><tp:taxon-name>Bovini</tp:taxon-name></italic> (<italic><tp:taxon-name>Bovini</tp:taxon-name></italic> s. str.). The species are characterized by brown to dark brown basidiomes without bluish colors and exsiccatae with a dark brown to blackish brown pileus. The universal veil is white, brownish white or grayish white, in some species becoming grayish brown with age, and the odor is indistinct or slightly raphanoid. To date, species are only known from Europe, except <italic><tp:taxon-name>Cortinarius oulankaënsis</tp:taxon-name></italic> which also occurs in Canada in British Columbia. By studying more material from western North America, we wanted to determine if <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic> found from Alaska, U.S.A. and Alberta, Canada is conspecific with European samples or does it represent an autonomous species.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <p>Material gathered by the authors from North America was studied morphologically, ecologically and sequenced to infer phylogentic relationships with other species in <italic><tp:taxon-name>Bovini</tp:taxon-name></italic>. DNA was extracted from dried material (a piece of lamella) with the NucleoSpin Plant kit (Macherey-Nagel, Düren, Germany). Primers ITS 1F and ITS 4 (<xref ref-type="bibr" rid="B24">White et al. 1990</xref>, <xref ref-type="bibr" rid="B9">Gardes and Bruns 1993</xref>) were used to amplify ITS regions, and specific primers cort6F and b7.1R (<xref ref-type="bibr" rid="B8">Frøslev et al. 2005</xref>) for the <italic>rpb</italic>2 region. The same primer pairs were used in direct sequencing. PCR amplification and sequencing followed <xref ref-type="bibr" rid="B16">Niskanen et al. (2009)</xref>. Sequences were assembled and edited with Sequencher 4.1 (Gene Codes, Ann Arbor, Mich., USA). Using a BLAST query of the public databases (GenBank: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/">http://www.ncbi.nlm.nih.gov/</ext-link>  and UNITE: <ext-link ext-link-type="uri" xlink:href="http://unite.ut.ee/">http://unite.ut.ee/</ext-link> ), we checked if identical or similar sequences for our species exist in public databases. For the phylogenetic analysis ITS and <italic>rpb2</italic> sequences of the species belonging to the well-supported ingroup of section <italic><tp:taxon-name>Bovini</tp:taxon-name></italic>, <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic>, <italic><tp:taxon-name>Cortinarius bovinaster</tp:taxon-name></italic>, <italic><tp:taxon-name>Cortinarius bovinatus</tp:taxon-name></italic>, and <italic><tp:taxon-name>Cortinarius oulankaënsis</tp:taxon-name></italic>, were included. <italic><tp:taxon-name>Cortinarius anisatus</tp:taxon-name></italic>, <italic><tp:taxon-name>Cortinarius neofurvolaesus</tp:taxon-name></italic>, and <italic><tp:taxon-name>Cortinarius sordidemaculatus</tp:taxon-name></italic> were chosen as outgroup species.</p>
+            <p>The combined ITS and <italic>rpb2</italic> alignment of 11 specimens was produced with the program MUSCLE (<xref ref-type="bibr" rid="B7">Edgar 2004</xref>) under default settings. The alignment comprised 1286 nucleotides (including gaps). The alignment is available at TreeBASE under S14159 (<ext-link ext-link-type="uri" xlink:href="http://www.treebase.org/treebase-web/home.html">http://www.treebase.org/treebase-web/home.html</ext-link> ).</p>
+            <p>Bayesian inference (BI) was performed with MrBayes 3.1.2 (<xref ref-type="bibr" rid="B22">Ronquist and Huelsenbeck 2003</xref>). The best substitution model for the alignment was estimated by both the <!--PageBreak-->Akaike information criterion and the Bayesian information criterion with jModelTest version 0.1.1 (<xref ref-type="bibr" rid="B21">Posada 2008</xref>). A GTR model, including a gamma shape parameter, was chosen for both DNA regions. Two independent runs with four chains in each were performed for 1 000 000 generations sampling every 100th generation. All trees sampled before stationarity were discarded with a 25% safety margin (burn-in of 2 500 trees [250 000 generations]). Sampled trees from both runs were combined in a 50% majority rule consensus phylogram and posterior probabilities (PP) were calculated. The analysis was run with computer clusters of the CSC, IT Center for Science, Espoo, Finland.</p>
+            <p>Morphological descriptions are based on material collected by the authors including specimens in all stages of development. Color notations in the description follow <xref ref-type="bibr" rid="B15">Munsell (2009)</xref> soil color charts. Microscopic characteristics were observed from dried material mounted in Melzer’s reagent (MLZ). Measurements were made in MLZ with an ocular micrometer using 100× oil-immersion lens. Basidiospores were measured from the veil or top of the stipe, 20 spores from one basidiocarp. The length and width were measured for each spore, and their length/width ratios (Q value) were calculated. The lamellar trama and basidia also were examined, and the pileipellis structure was studied from scalp sections taken from the pileus center.</p>
+            <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Specimens included in DNA analysis. Sequences produced in this study marked in bold. For acronyms of biological provinces see e.g. Knudsen and Vesterholt 2008: Funga Nordica: 32–35. * = GenBank Accession Numbers</p></caption>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th rowspan="1" colspan="1"><bold>Species</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Voucher</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Herb</bold></th>
+                            <th rowspan="1" colspan="1"><bold>Locality</bold></th>
+                            <th rowspan="1" colspan="1"><bold>ITS*</bold></th>
+                            <th rowspan="1" colspan="1"><bold>rpb2*</bold></th>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> (type)</td>
+                            <td rowspan="1" colspan="1">11-188</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">U.S.A. Alaska, Fairbanks</td>
+                            <td rowspan="1" colspan="1"><bold>KC905156</bold></td>
+                            <td rowspan="1" colspan="1"><bold>KC905160</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">11-255</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">U.S.A. Alaska, Fairbanks</td>
+                            <td rowspan="1" colspan="1"><bold>KC905158</bold></td>
+                            <td rowspan="1" colspan="1"><bold>KC905162</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">11-298</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Canada, Alberta, Hinton</td>
+                            <td rowspan="1" colspan="1"><bold>KC905157</bold></td>
+                            <td rowspan="1" colspan="1"><bold>KC905161</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">11-373</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Canada, Alberta</td>
+                            <td rowspan="1" colspan="1"><bold>KC905159</bold></td>
+                            <td rowspan="1" colspan="1"><bold>KC905163</bold></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovinaster</tp:taxon-name></italic> (type)</td>
+                            <td rowspan="1" colspan="1">04-669</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Finland, PeP, Ylitornio</td>
+                            <td rowspan="1" colspan="1">JX407264</td>
+                            <td rowspan="1" colspan="1">JX407340</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovinatus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">09-1520b</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Finland, ES, Kerimäki</td>
+                            <td rowspan="1" colspan="1">JX407267</td>
+                            <td rowspan="1" colspan="1">JX407341</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">10-006</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Norway, Oppl, Lunner</td>
+                            <td rowspan="1" colspan="1">JX407282</td>
+                            <td rowspan="1" colspan="1">JX407343</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius oulankaënsis</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">09-535</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Norway, NTr, Steinkjer</td>
+                            <td rowspan="1" colspan="1">JX407295</td>
+                            <td rowspan="1" colspan="1">JX407345</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius anisatus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">04-550</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Finland, PeP, Runteli</td>
+                            <td rowspan="1" colspan="1">DQ120754</td>
+                            <td rowspan="1" colspan="1">JX407346</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius neofurvolaesus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">04-001</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Finland, U, Helsinki</td>
+                            <td rowspan="1" colspan="1">DQ139997</td>
+                            <td rowspan="1" colspan="1">JX407367</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1"><italic><tp:taxon-name>Cortinarius sordidemaculatus</tp:taxon-name></italic></td>
+                            <td rowspan="1" colspan="1">04-003</td>
+                            <td rowspan="1" colspan="1">H</td>
+                            <td rowspan="1" colspan="1">Finland, U, Kirkkonummi</td>
+                            <td rowspan="1" colspan="1">DQ139991</td>
+                            <td rowspan="1" colspan="1">JX407368</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>The 50% majority rule phylogram resulting from the BI analysis is shown in <xref ref-type="fig" rid="F1">Fig. 1</xref>. <italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> is supported as a new taxon (PP 1.00). It clusters together with <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic> (PP 0.90) but differs from it by at least 18 substitutions and indel positions in the ITS regions and 3 substitutions in the <italic>rpb2</italic> region. The four ITS sequences of <italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> have altogether 1 base and 2 length intragenomic polymorphisms. No sequences of this species exist in public databases.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>The Bayesian 50% majority-rule consensus tree inferred from combined ITS and <italic>rpb2</italic> regions. PP &gt; 0.50 are indicated above branches.</p></caption>
+                <graphic xlink:href="MycoKeys-007-023-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <!--PageBreak-->
+        </sec>
+        <sec sec-type="Taxonomy">
+            <title>Taxonomy</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Cortinarius</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">bovarius</tp:taxon-name-part>
+                    <object-id xlink:type="simple">MycoBank MB804030</object-id>
+								<object-id xlink:type="simple">http://species-id.net/wiki/Cortinarius_bovarius</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>Liimat. &amp; Niskanen</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                    <xref ref-type="fig" rid="F2">Figures 2</xref>
+                    <xref ref-type="fig" rid="F3"> and 3</xref>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p>Basidiomata medium-sized to large, pileus reddish brown, smell in lamellae indistinct or slightly raphanoid. Universal veil at first white, becoming pale brown. Basidiospores 8.5–10 × 5.5–6(–6.5) μm, amygdaloid to weakly ellipsoid. In coniferous forests with <italic><tp:taxon-name>Picea</tp:taxon-name></italic>, on rich, calcareous ground. Belongs to sect. <italic><tp:taxon-name>Bovini</tp:taxon-name></italic>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Description">
+                    <title>Description.</title>
+                    <p>Pileus 3.5–7 cm diam., hemispherical at first, then low convex to almost plane, sometimes with a low, broad umbo, weakly fibrillose when young, later more apparent fibrillose only on the margin, somewhat waxy-glossy when moist; when young light reddish brown (5YR 6/4) to yellowish red (5YR 5/6-4/6) to reddish brown (2.5YR 5/4–4/4, 5YR 5/4–4/4), later dark red (2.5YR 3/6) to dark reddish brown (5YR 3/4–4/4, 2.5YR 3/3–3/4) and often with black spots; hygrophanous, soon drying from the center like <italic><tp:taxon-name>Kuehneromyces mutabilis</tp:taxon-name></italic> to lighter and more reddish brown, in dry condition reddish yellow (5YR 6/6, 7.5YR 7/6–6/6). Lamellae medium spaced to almost distant, adnexed to emarginate, fairly broad to broad, light reddish brown (5YR 6/4), light brown (7.5YR 6/3–6/4) to yellowish red (5YR 4/6), later dark reddish brown (2.5YR 3/4, 5YR 3/4–4/4), edge paler or concolorous. Stipe 5–11 cm long, 0.8–1.7 cm wide at apex, 1–3.5 cm wide at base, clavate to almost bulbose, rarely cylindrical, grayish white (silky) fibrillose, soon light reddish brown (5YR 6/3–6/4) to reddish brown (5YR 5/4) when older. Universal veil at first white, becoming pale <!--PageBreak-->brown, forming a girdle and thin sock-like sheath or rarely incomplete girdles on stipe surface, almost completely lost with age. Basal mycelium white. Context marbled hygrophanous, in pileus and upper part of the stipe light reddish brown (5YR 6/3–6/4) to reddish brown (5YR 4/4, 5/3), darkening towards the base of the stipe, in base reddish brown (5YR 5/3) when young, dark reddish brown (2.5YR 3/4 to 5YR 3/3–3/4) when old. Odor indistinct or slightly raphanoid. Exsiccatae: pileus brown (7.5YR 4/2–4/3) to dark brown (7.5YR 3/2–3/3), sometimes with a black center; stipe very pale brown (10YR 8/2) to light gray (10YR 7/2), in older basidiomes often darker, from grayish brown (10YR 5/2) to dark brown (10YR 4/2).</p>
+                    <p>Basidiospores8.5–10 × 5.5–6(–6.5) μm, Q = 1.45–1.65, av. = 8.9–9.5 × 5.7–6.1 μm, Qav. = 1.49–1.62 (80 spores, 4 specimens, <xref ref-type="fig" rid="F3">Fig. 3</xref>), amygdaloid to weakly ellipsoid, moderately verrucose, somewhat more strongly so at the apex, moderately dextrinoid. Lamellar trama hyphae smooth to very finely scabrous, sometimes with sepia colored spots. Basidia4-spored, 30–40 × 7.5–9.5 μm, almost concolorous with the background to olivaceous brownish.Pileipellis duplex, epicutis thin, hyphae 3–9 μm wide, unevenly pale brown, pigment in granules or in walls of hyphae, hypoderm distinct, elements 30–55 × 15–25(–30) μm, hyaline and smooth. Clamp connections present.</p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>Photo of <italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> 11-188 (H). Photograph by K. Liimatainen.</p></caption>
+                        <graphic xlink:href="MycoKeys-007-023-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p>Spores of <italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> 11-188 (H) in Melzer’s reagent. Drawing by T. Niskanen.</p></caption>
+                        <graphic xlink:href="MycoKeys-007-023-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Ecology and distribution">
+                    <title>Ecology and distribution.</title>
+                    <p>In mesic coniferous forests with <italic><tp:taxon-name>Picea</tp:taxon-name></italic>, on rich, calcareous soil. Known from U.S.A, Alaska and Canada, Alberta. Fruiting from late August to September.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p><italic>bovarius</italic> for its affinity to <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic>.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Type">
+                    <title>Type.</title>
+                    <p>U.S.A. Alaska: Fairbanks, University campus NW, trails starting from the end of Yukon road, mesic, mossy, partly needle/leaf covered <italic><tp:taxon-name>Picea</tp:taxon-name></italic> dominated forest with some <italic><tp:taxon-name>Populus</tp:taxon-name></italic>, <italic><tp:taxon-name>Betula</tp:taxon-name></italic>, <italic><tp:taxon-name>Alnus</tp:taxon-name></italic> and <italic><tp:taxon-name>Salix</tp:taxon-name></italic>, on rich ground, <named-content content-type="dwc:verbatimCoordinates">64°51'33"N, 147°49'29"W</named-content>, 22 Aug 2011, Niskanen &amp; Liimatainen 11-188 (H, holotype; NY, isotype). GenBank no. KC905156 (ITS), KC905160 (<italic>rpb2</italic>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Other specimens examined">
+                    <title>Other specimens examined.</title>
+                    <p>Canada, Alberta, Hinton, S of center, Road to Percotte Creek, old mossy <italic><tp:taxon-name>Picea</tp:taxon-name></italic> dominated forest with some <italic><tp:taxon-name>Populus</tp:taxon-name></italic>, on calcareous ground, <named-content content-type="dwc:verbatimCoordinates">53°21'53"N, 117°33'29"W</named-content>, 30 Aug 2011, Liimatainen &amp; Niskanen 11-298 (H). Alberta, Hinton, N of Athabasca river, <italic><tp:taxon-name>Populus</tp:taxon-name></italic> dominated forest with some <italic><tp:taxon-name>Picea</tp:taxon-name></italic>, <named-content content-type="dwc:verbatimCoordinates">53°22'48"N, 117°51'35"W</named-content>, 1040 m a.s.l., 5 Sept 2011, leg. L. Gagnon, Niskanen 11-373 (H). U.S.A. Alaska, Fairbanks, Wedgewood Resort trails, mesic <italic><tp:taxon-name>Picea</tp:taxon-name></italic> dominated forest with some <italic><tp:taxon-name>Betula</tp:taxon-name></italic> and <italic><tp:taxon-name>Populus</tp:taxon-name></italic>, on calcareous ground, <named-content content-type="dwc:verbatimCoordinates">64°51'41"N, 147°42'46"W</named-content>, 25 Aug 2011, Liimatainen &amp; Niskanen 11-255 (H).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Discussion">
+                    <title>Discussion.</title>
+                    <p><italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> is a typical member of section <italic><tp:taxon-name>Bovini</tp:taxon-name></italic>, a brown species with at first a white universal veil that later becomes brownish, indistinct or slightly raphanoid smell, and occurrence on calcareous ground. It differs from its European sister species, <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic>, by on average narrower, less dextrinoid and less verrucose spores (those of <italic><tp:taxon-name>Cortinarius bovinus</tp:taxon-name></italic> on average 6.1–6.4 μm wide, fairly strongly to strongly verrucose at the apex, and fairly strongly dextrinoid). The other known species of section <italic><tp:taxon-name>Bovini</tp:taxon-name></italic> s. str. from western North America, <italic><tp:taxon-name>Cortinarius oulankaënsis</tp:taxon-name></italic>, has a more grayish brown pileus, more distant lamellae, and relatively narrower spores (Qav. = 1.61–1.65). <italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> is a well-defined species based on morphology and molecular data, and therefore, is here describe as new to science.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We are grateful to Martin Osis for the hospitality and all the help he provided to us during our field work in Alberta. We thank Gary Laursen for providing information on collections sites in Fairbanks. Lorraine Gagnon is thanked for collecting <italic><tp:taxon-name>Cortinarius bovarius</tp:taxon-name></italic> during the Alberta Mycological Society’s foray. Finally we thank both referees for their helpful comments and suggestions. This work was supported by the Academy of Finland (project # 129052).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Barlow</surname> <given-names>TE</given-names></name><name name-style="western"><surname>Seidl</surname> <given-names>MT</given-names></name><name name-style="western"><surname>Ceska</surname> <given-names>O</given-names></name><name name-style="western"><surname>Berbee</surname> <given-names>ML</given-names></name><name name-style="western"><surname>Harrower</surname> <given-names>E</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name></person-group> (<year>2012</year>)<article-title> <italic>Cortinarius parkeri</italic>, a new species from the Pacific Northwest of North America.</article-title> <source>Botany </source> <volume>90</volume>: <fpage>327</fpage>-<lpage>335</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/B2012-003">10.1139/B2012-003</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name><name name-style="western"><surname>Niskanen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Hughes</surname> <given-names>KW</given-names></name><name name-style="western"><surname>Matheny</surname> <given-names>PB</given-names></name></person-group> (<year>2013</year>)<article-title> <italic>Cortinarius hesleri</italic> from eastern North America and related species from Europe and western North American.</article-title> <source>Botany </source> <volume>91</volume>: <fpage>91</fpage>-<lpage>98</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/cjb-2012-0154">10.1139/cjb-2012-0154</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bojantchev</surname> <given-names>D</given-names></name></person-group> (<year>2011a</year>)<source> <italic>Cortinarius callimorphus</italic>, a new species from northern California. Mycotaxon 117: 1–8. <ext-link ext-link-type="uri" xlink:href="http://www.ingentaconnect.com/content/mtax/mt/2011/00000117/00000001/art00002">http://www.ingentaconnect.com/content/mtax/mt/2011/00000117/00000001/art00002</ext-link>  </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5248/117.1">10.5248/117.1</ext-link></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bojantchev</surname> <given-names>D</given-names></name></person-group> (<year>2011b</year>)<source> <italic>Cortinarius mikedavisii</italic> sp. nov. from northern California. Mycotaxon 118: 265–272. <ext-link ext-link-type="uri" xlink:href="http://www.ingentaconnect.com/content/mtax/mt/2012/00000118/00000001/art00031">http://www.ingentaconnect.com/content/mtax/mt/2012/00000118/00000001/art00031</ext-link>  </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5248/118.265">10.5248/118.265</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bojantchev</surname> <given-names>D</given-names></name><name name-style="western"><surname>Davis</surname> <given-names>RM</given-names></name></person-group> (<year>2011</year>)<source> <italic>Cortinarius xanthodryophilus</italic> sp. nov. – a common <italic>Phlegmacium</italic> under oaks in California. Mycotaxon 116: 317–328. <ext-link ext-link-type="uri" xlink:href="http://www.ingentaconnect.com/content/mtax/mt/2011/00000116/00000001/art00035">http://www.ingentaconnect.com/content/mtax/mt/2011/00000116/00000001/art00035</ext-link>  </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5248/116.317">10.5248/116.317</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Bödeker</surname> <given-names>I</given-names></name><name name-style="western"><surname>Clemmensen</surname> <given-names>K</given-names></name><name name-style="western"><surname>de Boer</surname> <given-names>W</given-names></name><name name-style="western"><surname>Olson</surname> <given-names>Å</given-names></name><name name-style="western"><surname>Lindahl</surname> <given-names>B</given-names></name></person-group> (<year>2011</year>)<article-title> Fungal peroxidases and soil organic matter decomposition: Are ectomycorrhizal <italic>Cortinarius</italic> species the key players? p. 11 In: MSA abstracts.</article-title> <source>Inoculum </source> <volume>62</volume> (<issue>3</issue>): <fpage>7</fpage>-<lpage>49</lpage>.</mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Edgar</surname> <given-names>RC</given-names></name></person-group> (<year>2004</year>)<article-title> MUSCLE: multiple sequence alignment with high accuracy and high throughput.</article-title> <source>Nucleic Acids Research </source> <volume>32</volume>: <fpage>1792</fpage>-<lpage>1797</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/gkh340">10.1093/nar/gkh340</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Frøslev</surname> <given-names>TG</given-names></name><name name-style="western"><surname>Matheny</surname> <given-names>PB</given-names></name><name name-style="western"><surname>Hibbett</surname> <given-names>D</given-names></name></person-group> (<year>2005</year>)<article-title> Lower level relationships in the mushroom genus <italic>Cortinarius</italic> (Basidiomycota, Agaricales): a comparison of RBP1, RPB2 and ITS phylogenies.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>37</volume>: <fpage>602</fpage>-<lpage>618</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2005.06.016">10.1016/j.ympev.2005.06.016</ext-link></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gardes</surname> <given-names>M</given-names></name><name name-style="western"><surname>Bruns</surname> <given-names>TD</given-names></name></person-group> (<year>1993</year>)<article-title> ITS primers with enhanced specifity for basidiomycetes. Application to the identification of mycorrhizae and rusts.</article-title> <source>Molecular Ecology </source> <volume>2</volume>: <fpage>113</fpage>-<lpage>118</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-294X.1993.tb00005.x">10.1111/j.1365-294X.1993.tb00005.x</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Garnica</surname> <given-names>S</given-names></name><name name-style="western"><surname>Weiß</surname> <given-names>M</given-names></name><name name-style="western"><surname>Oertel</surname> <given-names>B</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>J</given-names></name><name name-style="western"><surname>Oberwinkler</surname> <given-names>F</given-names></name></person-group> (<year>2009</year>)<source> Phylogenetic relationships in <italic>Cortinarius</italic>, section <italic>Calochroi</italic>, inferred from nuclear DNA sequences. BMC Evolutionary Biology 9:1. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2148-9-1">10.1186/1471-2148-9-1</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Garnica</surname> <given-names>S</given-names></name><name name-style="western"><surname>Spahn</surname> <given-names>P</given-names></name><name name-style="western"><surname>Oertel</surname> <given-names>B</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>J</given-names></name><name name-style="western"><surname>Oberwinkler</surname> <given-names>F</given-names></name></person-group> (<year>2011</year>)<source>. Tracking the evolutionary history of <italic>Cortinarius</italic> species in section <italic>Calochroi</italic>, with transoceanic disjunct distributions. BMC Evolutionary Biology 11: 213. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2148-11-213">10.1186/1471-2148-11-213</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Harrower</surname> <given-names>E</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Cappuccino</surname> <given-names>AA</given-names></name><name name-style="western"><surname>Ceska</surname> <given-names>O</given-names></name><name name-style="western"><surname>Kranabetter</surname> <given-names>JM</given-names></name><name name-style="western"><surname>Kroeger</surname> <given-names>P</given-names></name><name name-style="western"><surname>Lim</surname> <given-names>S</given-names></name><name name-style="western"><surname>Taylor</surname> <given-names>T</given-names></name><name name-style="western"><surname>Berbee</surname> <given-names>ML</given-names></name></person-group> (<year>2011</year>)<article-title> <italic>Cortinarius</italic> species diversity in British Columbia and molecular phylogenetic comparison with European specimen sequences.</article-title> <source>Botany </source> <volume>89</volume>: <fpage>799</fpage>-<lpage>810</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/b11-065">10.1139/b11-065</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Matheny</surname> <given-names>PB</given-names></name><name name-style="western"><surname>Ammirati,</surname> <given-names>JF</given-names></name></person-group> (<year>2006</year>)<source> <italic>Cortinarius lucorum</italic> (Fr.) Karst., a <italic>Populus</italic> associate from North America. Pacific Northwest Fungi 1(4): 1–10. <ext-link ext-link-type="uri" xlink:href="http://www.pnwfungi.org/pdf_files/manuscripts_volume_1/pnwf20064.pdf">http://www.pnwfungi.org/pdf_files/manuscripts_volume_1/pnwf20064.pdf</ext-link>  </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2509/pnwf.2006.001.004">10.2509/pnwf.2006.001.004</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moser</surname> <given-names>M</given-names></name><name name-style="western"><surname>Peintner</surname> <given-names>U</given-names></name></person-group> (<year>2002</year>)<article-title> The species complex <italic>Cortinarius scaurus</italic> – <italic>Cortinarius herpeticus</italic> based on morphological and molecular data.</article-title> <source>Micologia e Vegetation Mediterranea </source> <volume>17</volume> (<issue>1</issue>): <fpage>3</fpage>-<lpage>17</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Munsell</surname></name></person-group> (<year>2009</year>) <source>Munsell Soil Color Charts. Munsell Color, Grand Rapids, MI, U.S.A.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niskanen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Kytövuori</surname> <given-names>I</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name></person-group> (<year>2009</year>)<article-title> <italic>Cortinarius</italic> sect. <italic>Brunnei</italic> (Basidiomycota, Agaricales) in North Europe.</article-title> <source>Mycological Research </source> <volume>113</volume>: <fpage>182</fpage>-<lpage>206</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.mycres.2008.10.006">10.1016/j.mycres.2008.10.006</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niskanen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name><name name-style="western"><surname>Kytövuori</surname> <given-names>I</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name></person-group> (<year>2012</year>)<article-title> New <italic>Cortinarius</italic> species from conifer dominated forests of North America and Europe.</article-title> <source>Botany </source> <volume>90</volume>: <fpage>743</fpage>-<lpage>754</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1139/B2012-038">10.1139/B2012-038</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niskanen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Hughes</surname> <given-names>K</given-names></name></person-group> (<year>2013a</year>)<article-title> <italic>Cortinarius</italic> section <italic>Sanguinei</italic> in North America.</article-title> <source>Mycologia </source> <volume>105</volume> (<issue>2</issue>): <fpage>344</fpage>-<lpage>356</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/12-086">10.3852/12-086</ext-link></mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niskanen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name></person-group> (<year>in press a</year>) <source>Five new <italic>Telamonia</italic> species (<italic>Cortinarius</italic>, Agaricales) from western North America. Botany.</source></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Niskanen</surname> <given-names>T</given-names></name><name name-style="western"><surname>Kytövuori</surname> <given-names>I</given-names></name><name name-style="western"><surname>Liimatainen</surname> <given-names>K</given-names></name><name name-style="western"><surname>Lindström</surname> <given-names>H</given-names></name></person-group> (<year>in press b</year>) <source><italic>Cortinarius</italic> section <italic>Bovini</italic> (Agaricales, Basidiomycota) in northern Europe, conifer associated species. Mycologia.</source></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name></person-group> (<year>2008</year>)<article-title> jModelTest: phylogenetic model averaging.</article-title> <source>Molecular Biology and Evolution </source> <volume>25</volume>: <fpage>1253</fpage>-<lpage>1256</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/molbev/msn083">10.1093/molbev/msn083</ext-link></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname> <given-names>JP</given-names></name></person-group> (<year>2003</year>)<article-title> MRBAYES 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics </source> <volume>19</volume>: <fpage>1572</fpage>-<lpage>1574</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btg180">10.1093/bioinformatics/btg180</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Seidl</surname> <given-names>M</given-names></name></person-group> (<year>2000</year>)<article-title> Phylogenetic Relationships within <italic>Cortinarius</italic> Subgenus <italic>Myxacium</italic>, Sections <italic>Defibulati</italic> and <italic>Myxacium</italic>.</article-title> <source>Mycologia </source> <volume>92</volume>: <fpage>1091</fpage>-<lpage>1102</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3761477">10.2307/3761477</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>White</surname> <given-names>TJ</given-names></name><name name-style="western"><surname>Bruns</surname> <given-names>T</given-names></name><name name-style="western"><surname>Lee</surname> <given-names>S</given-names></name><name name-style="western"><surname>Taylor</surname> <given-names>J</given-names></name></person-group> (<year>1990</year>)<article-title> Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics.</article-title> In: <person-group><name name-style="western"><surname>Michael</surname> <given-names>AJ</given-names></name><name name-style="western"><surname>Gelfand</surname> <given-names>DH</given-names></name><name name-style="western"><surname>Sninsky</surname> <given-names>JJ</given-names></name><name name-style="western"><surname>White</surname> <given-names>TJ</given-names></name></person-group> (<role>Eds</role>). <issue-title>PCR protocols: a guide to the methods and applications.</issue-title> <source>Academic Press, New York</source>: <fpage>315</fpage>-<lpage>322</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

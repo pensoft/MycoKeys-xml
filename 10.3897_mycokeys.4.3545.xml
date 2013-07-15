@@ -1,0 +1,743 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.4.3545</article-id>
+            <title-group>
+                <article-title>A new circumscription of the genus 
+                    <italic>Varicellaria</italic> (Pertusariales, Ascomycota)
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Schmitt</surname>
+                        <given-names>Imke</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Otte</surname>
+                        <given-names>Jürgen</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Parnmen</surname>
+                        <given-names>Sittiporn</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Sadowska-Deś</surname>
+                        <given-names>Anna D.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lücking</surname>
+                        <given-names>Robert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lumbsch</surname>
+                        <given-names>H. Thorsten</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Biodiversity and Climate Research Centre (BiK-F), Forschungsinstitut Senckenberg, Senckenberganlage 25, D-60325 Frankfurt, Germany
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Biological Sciences, Institute of Ecology, Evolution and Diversity, Goethe Universität, Max-von-Laue-Str. 13, D-60438 Frankfurt, Germany
+            </aff>
+            <aff id="A3">
+                <label>3</label>Department of Botany, Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago, IL 60605, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Imke Schmitt (<email xlink:type="simple">imke.schmitt@senckenberg.de</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Cecile Gueidan</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>8</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>4</issue>
+            <fpage>23</fpage>
+            <lpage>36</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>26</day>
+                    <month>7</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Imke Schmitt, Jürgen Otte, Sittiporn Parnmen, Anna D. Sadowska-Deś, Robert Lücking, H. Thorsten Lumbsch</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>The lichen-forming genus <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> under its current circumscription is polyphyletic and its phylogenetic affiliations are uncertain. Here we study the species of the genera <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> and <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> which containlecanoric acid as major constituent, have disciform apothecia, strongly amyloid asci, non-amyloid hymenial gel, 1-2-spored asci, and 1- or 2-celled ascospores with thick, 1-layered walls. We infer phylogenetic relationships using maximum likelihood and Bayesian analyses based on four molecular loci (mtSSU, nuLSU rDNA, and the protein-coding, nuclear <italic>RPB1</italic> and <italic>MCM7</italic> genes). Our results show that the lecanoric acid-containing species form a well-supported, monophyletic group, which is only distantly related to <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str. The phylogenetic position of this clade is unclear, but placement in <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str. is rejected using alternative hypothesis testing. The circumscription of the genus <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> is enlarged to also include species with non-septate ascospores. Seven species are accepted in the genus: <italic><tp:taxon-name>Varicellaria culbersonii</tp:taxon-name></italic> (Vězda) Schmitt &amp; Lumbsch, <bold>comb. nov.</bold>, <italic><tp:taxon-name>Varicellaria hemisphaerica</tp:taxon-name></italic> (Flörke) Schmitt &amp; Lumbsch, <bold>comb. nov.</bold>, <italic><tp:taxon-name>Varicellaria kasandjeffii</tp:taxon-name></italic> (Szatala) Schmitt &amp; Lumbsch, <bold>comb. nov.</bold>, <italic><tp:taxon-name>Varicellaria lactea</tp:taxon-name></italic> (L.) Schmitt &amp; Lumbsch, <bold>comb. nov.</bold>, <italic><tp:taxon-name>Varicellaria philippina</tp:taxon-name></italic> (Vain.) Schmitt &amp; Lumbsch, <bold>comb. nov.</bold>, <italic><tp:taxon-name>Varicellaria rhodocarpa</tp:taxon-name></italic> (Körb.) Th. Fr., and <italic><tp:taxon-name>Varicellaria velata</tp:taxon-name></italic> (Turner) Schmitt &amp; Lumbsch, <bold>comb. nov.</bold> A key to the species of <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> is provided.</p>
+            </abstract>
+            <kwd-group>
+                <label>Key words</label>
+                <kwd>Agyriales</kwd>
+                <kwd>Ascomycota</kwd>
+                <kwd>lichen-forming fungi</kwd>
+                <kwd>molecular phylogeny</kwd>
+                <kwd>Ostropomycetidae</kwd>
+                <kwd><italic>Pertusaria</italic></kwd>
+                <kwd><italic>Pertusariales</italic></kwd>
+                <kwd>taxonomy
+<!--PageBreak--></kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>Generic classifications in lichen-forming fungi have changed dramatically since the introduction of molecular data. Numerous genera have been shown to be polyphyletic or nested within larger genera (e.g., <xref ref-type="bibr" rid="B1">Amo de Paz et al. 2010a</xref><xref ref-type="bibr" rid="B2">, b</xref>; <xref ref-type="bibr" rid="B5">Blanco et al. 2004a</xref><xref ref-type="bibr" rid="B6">, b</xref>, <xref ref-type="bibr" rid="B4">2005</xref>, <xref ref-type="bibr" rid="B7">2006</xref>; <xref ref-type="bibr" rid="B9">Crespo et al. 2007</xref>; <xref ref-type="bibr" rid="B8">2010</xref>; <xref ref-type="bibr" rid="B10">Crewe et al. 2006</xref>; <xref ref-type="bibr" rid="B11">Divakar et al. 2006</xref>; <xref ref-type="bibr" rid="B14">Ertz and Tehler 2011</xref>; <xref ref-type="bibr" rid="B16">Gueidan et al. 2009</xref>; <xref ref-type="bibr" rid="B19">Högnabba 2006</xref>; <xref ref-type="bibr" rid="B30">Muggia et al. 2010</xref>; <xref ref-type="bibr" rid="B33">Printzen 2010</xref>; <xref ref-type="bibr" rid="B34">Rivas Plata and Lumbsch 2011</xref>; <xref ref-type="bibr" rid="B35">Rivas Plata et al. 2012</xref>; <xref ref-type="bibr" rid="B45">Tehler and Wedin 2008</xref>; <xref ref-type="bibr" rid="B47">Wedin et al. 2005</xref>; <xref ref-type="bibr" rid="B48">Westberg et al. 2010</xref>). A further example of incongruence of current classification and phylogenetic relationships as inferred from DNA sequences is the heterogeneous genus <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>. It is the largest genus within <tp:taxon-name>Pertusariales</tp:taxon-name>, with possibly over 1000 species (<xref ref-type="bibr" rid="B3">Archer and Elix 2011</xref>, <xref ref-type="bibr" rid="B27">Messuti and Archer 2009</xref>). However, it has been shown to be polyphyletic with species belonging even to different families within the order (<xref ref-type="bibr" rid="B24">Lumbsch and Schmitt 2001</xref>, <xref ref-type="bibr" rid="B25">2002</xref>; <xref ref-type="bibr" rid="B39">Schmitt and Lumbsch 2004</xref>; <xref ref-type="bibr" rid="B40">Schmitt et al. 2006</xref>; <xref ref-type="bibr" rid="B38">2010</xref>).</p>
+            <p><xref ref-type="bibr" rid="B39">Schmitt and Lumbsch (2004)</xref> identified a combination of phenotypical characters to distinguish between three of the clades of <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>. These characters include secondary metabolites, ascoma-morphology, amyloidity of ascus walls and hymenial gel, number of ascospores per ascus, and ascospore wall thickness and layers. Later, <xref ref-type="bibr" rid="B38">Schmitt et al. (2010)</xref> identified a fourth clade with gyalectoid ascomata and found it to be related to <tp:taxon-name>Coccotremataceae</tp:taxon-name>. The latter clade was distinguished as the genus <italic><tp:taxon-name>Gyalectaria</tp:taxon-name></italic> and was placed in <tp:taxon-name>Coccotremataceae</tp:taxon-name>. However, the two remaining major clades that are not closely related to <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str., the <italic><tp:taxon-name>Variolaria</tp:taxon-name></italic> and <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> groups identified in <xref ref-type="bibr" rid="B39">Schmitt and Lumbsch (2004)</xref>, have not yet been reclassified. In continuation of our studies on pertusarialean fungi, we are here addressing the issue of monophyly and classification of the so-called <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> clade of <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>. Thisis a group of pertusarialean lichenized fungi characterized by disciform apothecia, non-amyloid hymenial gel, strongly amyloid asci, 1-2-spored asci, and 1- or 2-celled ascospores with more or less thick, 1-layered walls (<xref ref-type="bibr" rid="B39">Schmitt and Lumbsch 2004</xref>). Chemically, the clade is characterized by the presence of lecanoric acid as major metabolite. Recent collections of <italic><tp:taxon-name>Pertusaria culbersonii</tp:taxon-name></italic>, a neotropical species with lecanoric acid, prompted us to address the phylogeny of this group and to classify those <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> species belonging to the <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> group. We have compiled a data set of 29 pertusarialean fungi including all but two species (<italic><tp:taxon-name>Pertusaria kasandjeffii</tp:taxon-name></italic> and <italic><tp:taxon-name>Pertusaria philippina</tp:taxon-name></italic> – no fresh material available) that were thought to belong to the <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> group based on phenotypical evidence.</p>
+        </sec>
+        <sec sec-type="Materials and methods">
+            <title>Materials and methods</title>
+            <sec sec-type="Taxon sampling and molecular methods">
+                <title>Taxon sampling and molecular methods</title>
+                <p>We assembled a four-locus data set consisting of mtSSU rDNA, nuLSU rDNA, and the protein-coding genes <italic>RPB1</italic> and <italic>MCM7</italic>. The alignment contained 31 species. Specimens and sequences used for molecular analyses are listed in <xref ref-type="table" rid="T1">Table 1</xref>. Two sequences<!--PageBreak--><!--PageBreak--> of <tp:taxon-name>Parmeliaceae</tp:taxon-name> (<tp:taxon-name>Lecanoromycetes</tp:taxon-name>) were used as outgroup, since <tp:taxon-name>Lecanoromycetes</tp:taxon-name> was shown to be a sister-group of <tp:taxon-name>Ostropomycetidae</tp:taxon-name> to which <tp:taxon-name>Pertusariales</tp:taxon-name> belongs (<xref ref-type="bibr" rid="B15">Grube et al. 2004</xref>; <xref ref-type="bibr" rid="B28">Miadlikowska et al. 2006</xref>; <xref ref-type="bibr" rid="B37">Schmitt et al. 2009</xref>). Molecular methods were the same as in a previous study (<xref ref-type="bibr" rid="B38">Schmitt et al. 2010</xref>).</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+								<label>Table 1.</label>
+                <caption><p>Species and sequences used in this study. New sequences are indicated in bold.</p></caption>
+                <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Name</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Phylogenetic lineage</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Family</bold></th>
+                                <th rowspan="1" colspan="1"><bold>nuLSU</bold></th>
+                                <th rowspan="1" colspan="1"><bold>mtSSU</bold></th>
+                                <th rowspan="1" colspan="1"><bold>1<italic>RPB</italic></bold></th>
+                                <th rowspan="1" colspan="1"><bold>7<italic>MCM</italic></bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria culbersonii</tp:taxon-name></italic>*</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Varicellaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JX101871" xlink:type="simple">JX101871</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JX101873" xlink:type="simple">JX101873</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JX101875" xlink:type="simple">JX101875</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JX101874" xlink:type="simple">JX101874</ext-link></bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria hemisphaerica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Varicellaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF381556" xlink:type="simple">AF381556</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF381563" xlink:type="simple">AF381563</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ902341" xlink:type="simple">DQ902341</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980998" xlink:type="simple">GU980998</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria lactea</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Varicellaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF381557" xlink:type="simple">AF381557</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF381564" xlink:type="simple">AF381564</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870971" xlink:type="simple">DQ870971</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981000" xlink:type="simple">GU981000</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria rhodocarpa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Varicellaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF381559" xlink:type="simple">AF381559</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF381569" xlink:type="simple">AF381569</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria velata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Varicellaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300855" xlink:type="simple">AY300855</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980981" xlink:type="simple">GU980981</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870982" xlink:type="simple">DQ870982</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981005" xlink:type="simple">GU981005</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">“<italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>” <italic>amara</italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Variolaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF274101" xlink:type="simple">AF274101</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300900" xlink:type="simple">AY300900</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870965" xlink:type="simple">DQ870965</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ272423" xlink:type="simple">GQ272423</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">“<italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>” <italic>corallina</italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Variolaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300850" xlink:type="simple">AY300850</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300901" xlink:type="simple">AY300901</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870967" xlink:type="simple">DQ870967</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980997" xlink:type="simple">GU980997</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">“<italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>” <italic>scaberula</italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Variolaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF274099" xlink:type="simple">AF274099</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF431959" xlink:type="simple">AF431959</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870980" xlink:type="simple">DQ870980</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981003" xlink:type="simple">GU981003</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">“<italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic>” <italic>subventosa</italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Variolaria</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1">?</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300854" xlink:type="simple">AY300854</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300905" xlink:type="simple">AY300905</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870981" xlink:type="simple">DQ870981</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981004" xlink:type="simple">GU981004</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Circinaria contorta</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Megasporaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ986782" xlink:type="simple">DQ986782</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ986876" xlink:type="simple">DQ986876</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ986852" xlink:type="simple">DQ986852</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980989" xlink:type="simple">GU980989</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Circinaria hispida</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Megasporaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780305" xlink:type="simple">DQ780305</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HM060722" xlink:type="simple">HM060722</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870933" xlink:type="simple">DQ870933</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780273" xlink:type="simple">DQ780273</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lobothallia radiosa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Megasporaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780306" xlink:type="simple">DQ780306</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780274" xlink:type="simple">DQ780274</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870954" xlink:type="simple">DQ870954</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ272397" xlink:type="simple">GQ272397</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ochrolechia parella</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Ochrolechiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF274097" xlink:type="simple">AF274097</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980977" xlink:type="simple">GU980977</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870959" xlink:type="simple">DQ870959</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ272421" xlink:type="simple">GQ272421</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ochrolechia subpallescens</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Ochrolechiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980985" xlink:type="simple">GU980985</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980978" xlink:type="simple">GU980978</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981008" xlink:type="simple">GU981008</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980994" xlink:type="simple">GU980994</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ochrolechia upsaliensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Ochrolechiaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980986" xlink:type="simple">GU980986</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980979" xlink:type="simple">GU980979</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981009" xlink:type="simple">GU981009</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980995" xlink:type="simple">GU980995</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coccotrema cucurbitula</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Coccotremataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF274092" xlink:type="simple">AF274092</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF329161" xlink:type="simple">AF329161</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870939" xlink:type="simple">DQ870939</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980990" xlink:type="simple">GU980990</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coccotrema maritimum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Coccotremataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF329164" xlink:type="simple">AF329164</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF329163" xlink:type="simple">AF329163</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980991" xlink:type="simple">GU980991</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Coccotrema pocillarium</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Coccotremataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF274093" xlink:type="simple">AF274093</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF329166" xlink:type="simple">AF329166</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ870940" xlink:type="simple">DQ870940</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980992" xlink:type="simple">GU980992</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gyalectaria diluta</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Coccotremataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980982" xlink:type="simple">GU980982</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980974" xlink:type="simple">GU980974</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gyalectaria gyalectoides</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Coccotremataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980983" xlink:type="simple">GU980983</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980975" xlink:type="simple">GU980975</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981006" xlink:type="simple">GU981006</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980993" xlink:type="simple">GU980993</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gyalectaria jamesii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Coccotremataceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980984" xlink:type="simple">GU980984</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980976" xlink:type="simple">GU980976</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981007" xlink:type="simple">GU981007</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Thamnolia vermicularis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Icmadophilaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY961599" xlink:type="simple">AY961599</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY853345" xlink:type="simple">AY853345</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ915599" xlink:type="simple">DQ915599</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Icmadophila ericetorum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Icmadophilaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ883694" xlink:type="simple">DQ883694</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ986897" xlink:type="simple">DQ986897</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ883723" xlink:type="simple">DQ883723</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Dibaeis baeomyces</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Icmadophilaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF279385" xlink:type="simple">AF279385</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY300883" xlink:type="simple">AY300883</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ842011" xlink:type="simple">DQ842011</ext-link></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Agyrium rufum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Agyriaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF581826" xlink:type="simple">EF581826</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF581823" xlink:type="simple">EF581823</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF581822" xlink:type="simple">EF581822</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980988" xlink:type="simple">GU980988</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Miltidea ceroplasta</tp:taxon-name></italic>**</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Miltideaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HQ391558" xlink:type="simple">HQ391558</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HQ391557" xlink:type="simple">HQ391557</ext-link></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JQ900620" xlink:type="simple">JQ900620</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">N/A</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pertusaria hermaka</tp:taxon-name></italic>***</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pertusaria</tp:taxon-name> s. str. </td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pertusariaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780334" xlink:type="simple">DQ780334</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780299" xlink:type="simple">DQ780299</ext-link></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/JX101872" xlink:type="simple">JX101872</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980999" xlink:type="simple">GU980999</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pertusaria paramerae</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pertusaria</tp:taxon-name> s. str. </td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pertusariaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780328" xlink:type="simple">DQ780328</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU980980" xlink:type="simple">GU980980</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981012" xlink:type="simple">GU981012</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981001" xlink:type="simple">GU981001</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Pertusaria pustulata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pertusaria</tp:taxon-name> s. str. </td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Pertusariaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780332" xlink:type="simple">DQ780332</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ780297" xlink:type="simple">DQ780297</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981013" xlink:type="simple">GU981013</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU981002" xlink:type="simple">GU981002</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Parmeliopsis hyperopta</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">outgroup</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Parmeliaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY607823" xlink:type="simple">AY607823</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY611167" xlink:type="simple">AY611167</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF092142" xlink:type="simple">EF092142</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ272426" xlink:type="simple">GQ272426</ext-link></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Everniopsis trulla</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">outgroup</td>
+                                <td rowspan="1" colspan="1"><tp:taxon-name>Parmeliaceae</tp:taxon-name></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF108290" xlink:type="simple">EF108290</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF108289" xlink:type="simple">EF108289</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EF105429" xlink:type="simple">EF105429</ext-link></td>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ272396" xlink:type="simple">GQ272396</ext-link></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table-wrap-foot>
+                        <p>*source: Costa Rica, <italic>R. Lücking 15424</italic> (F)</p>
+                        <p>**source: Australia, <italic>H.T. Lumbsch 20004b, S. Parnmen &amp; T. Widhelm</italic> (F)</p>
+                        <p>***source: Australia, <italic>A. Mangold</italic>, 22 March 2005 (MIN)</p>
+                    </table-wrap-foot>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Sequence alignments and phylogenetic analysis">
+                <title>Sequence alignments and phylogenetic analysis</title>
+                <p>We assembled partial sequences using Geneious Pro 5.4.3 (<xref ref-type="bibr" rid="B12">Drummond et al. 2011</xref>) and edited conflicts manually. We aligned the sequences using Clustal W (<xref ref-type="bibr" rid="B44">Thompson et al. 1994</xref>) (nuLSU, <italic>RPB1</italic>, <italic>MCM7</italic>) or PRANK (<xref ref-type="bibr" rid="B22">Loytynoja and Goldman 2005</xref>, <xref ref-type="bibr" rid="B23">2010</xref>) (mtSSU). MtSSU sequences are highly variable and contain substantial length polymorphisms that disrupt the alignment. Thus, we eliminated unreliably aligned sites from the mtSSU alignment using the program Aliscore 2.0 (<xref ref-type="bibr" rid="B29">Misof and Misof 2009</xref>). Aliscore settings were: window size of six positions, and gaps treated as ambiguous characters (-N option invoked). After cutting 1084 unreliably aligned positions, 698 positions (39%) of the original mtSSU alignment were left.</p>
+                <p>We analyzed the alignments using maximum likelihood (ML) and Bayesian inference. To test for potential conflict between data sets, we performed ML analyses on the individual alignments and examined the trees for conflicts supported by 75% bootstrap support. ModelTest (<xref ref-type="bibr" rid="B32">Posada and Crandall 1998</xref>) selected the following models as best fits for our data: GTR+G+I for nuLSU, <italic>RPB1</italic>, <italic>MCM7</italic>, and GTR+G for mtSSU. The individual alignments were analyzed in Geneious using MrBayes 3.1 (<xref ref-type="bibr" rid="B20">Huelsenbeck and Ronquist 2001</xref>) with the following settings: 1,100,000 generations starting with a random tree and employing 12 simultaneous chains. Two runs were executed, and every 1000<sup>th</sup> tree was saved into a file. The first 100 trees were discarded as burn in. We checked the traces in Geneious to ensure that stationarity was achieved after the first 100,000 generations. MrBayes settings for the concatenated alignment were the same as above but with 8,000,000 generations and the data split into 8 partitions (mtSSU, nuLSU, and each codon position of <italic>RPB1</italic> and <italic>MCM7</italic>). We used the model GTR+I+G and the burn in was set to 1000. Of the remaining trees, a majority rule consensus tree with average branch lengths was calculated. Posterior probabilities were obtained for each clade. Only clades with posterior probabilities equal or above 0.95 in the Bayesian analysis or bootstrap support equal or above 75 % under ML were considered as strongly supported.</p>
+                <p>The ML analysis of the concatenated alignment was performed with the program RAxML (<xref ref-type="bibr" rid="B42">Stamatakis 2006</xref>) using the default rapid hill-climbing algorithm. The model of nucleotide substitution chosen was GTRMIX. The data set was partitioned into eight parts (mtSSU, nLSU and each codon position of <italic>RPB1</italic> and <italic>MCM7</italic>). Rapid bootstrap estimates were carried out for 2000 pseudoreplicates. Phylogenetic trees were visualized using the program TreeView (<xref ref-type="bibr" rid="B31">Page 1996</xref>).</p>
+                <p>As in previous studies (e.g. <xref ref-type="bibr" rid="B39">Schmitt and Lumbsch 2004</xref>) the lecanoric acid-containing species of <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> clustered outside <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str., and instead with the genus <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>, hence contradicting current classification. Thus, we tested whether our data <!--PageBreak-->are sufficient to reject monophyly of <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str. + lecanoric acid containing <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> spp. For hypothesis testing, we used two different methods: i) Shimodaira-Hasegawa (SH) test (<xref ref-type="bibr" rid="B41">Shimodaira and Hasegawa 2001</xref>) and ii) expected likelihood weight (ELW) test (<xref ref-type="bibr" rid="B43">Strimmer and Rambaut 2002</xref>). The SH and ELW test were performed using Tree-PUZZLE 5.2 (<xref ref-type="bibr" rid="B36">Schmidt et al. 2002</xref>) with the combined data set, comparing the best tree agreeing with the null hypotheses, and the unconstrained ML tree. These trees were inferred in Tree-PUZZLE using the GTR+I+G nucleotide substitution model.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>We obtained six new sequences indicated in <xref ref-type="table" rid="T1">Table 1</xref>. The combined alignment of the nuLSU, mtSSU rDNA, <italic>RPB1</italic>, and <italic>MCM7</italic> included 2790 unambiguously aligned nucleotide position characters, 1226 of which were variable. The single locus ML topologies did not show any conflicts and hence a concatenated analysis was performed. The maximum likelihood tree did not contradict the Bayesian tree topologies and thus only the majority-rule consensus tree of the Bayesian tree sampling is shown here (<xref ref-type="fig" rid="F1">Fig. 1</xref>). In the phylogenetic tree, species of the <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>-group form a strongly supported monophyletic group, including <italic><tp:taxon-name>Pertusaria culbersonii</tp:taxon-name></italic>. The <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>-group is sister to the <italic><tp:taxon-name>Variolaria</tp:taxon-name></italic>-group, but this relationship lacks support. The genus <italic><tp:taxon-name>Ochrolechia</tp:taxon-name></italic> is a well-supported sister-group to <tp:taxon-name>Megasporaceae</tp:taxon-name> (<italic><tp:taxon-name>Circinaria</tp:taxon-name></italic> and <italic><tp:taxon-name>Lobothallia</tp:taxon-name></italic>), and this clade is sister to the <italic><tp:taxon-name>Varicellaria-</tp:taxon-name></italic> and <italic><tp:taxon-name>Variolaria</tp:taxon-name></italic>-groups, but again this relationship lacks support. <italic><tp:taxon-name>Agyrium</tp:taxon-name></italic> and <italic><tp:taxon-name>Miltidea</tp:taxon-name></italic> form a supported sister-group, which is strongly supported sister to the well-supported, monophyletic <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str. The well-supported, monophyletic genera <italic><tp:taxon-name>Coccotrema</tp:taxon-name></italic> and <italic><tp:taxon-name>Gyalectaria</tp:taxon-name></italic> have a well-supported sister-group relationship. The sister-group relationship of <tp:taxon-name>Coccotremataceae</tp:taxon-name> and the clade including <italic><tp:taxon-name>Agyrium</tp:taxon-name></italic>, <italic><tp:taxon-name>Miltidea</tp:taxon-name></italic>, and <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str. lacks support. A placement of the <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic> clade in <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> s.str. is rejected significantly (p≤0.001 in both tests) using alternative hypothesis testing.</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Phylogeny of pertusarialean fungi based on mtSSU, nuLSU, <italic>RPB1</italic> and <italic>MCM7</italic> sequences. This is a 50% majority rule consensus tree based on 14,000 trees from a Bayesian analysis. Values above the branches are posterior probabilities/ML bootstrap support (ML based on 2000 replicates).</p></caption>
+                <graphic xlink:href="MycoKeys-004-023-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p>The current study confirms previous results on the polyphyly of <italic><tp:taxon-name>Pertusaria</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B24">Lumbsch and Schmitt 2001</xref>, <xref ref-type="bibr" rid="B25">2002</xref>; <xref ref-type="bibr" rid="B26">Lumbsch et al. 2006</xref>; <xref ref-type="bibr" rid="B39">Schmitt and Lumbsch 2004</xref>; <xref ref-type="bibr" rid="B40">Schmitt et al. 2006</xref>, <xref ref-type="bibr" rid="B38">2010</xref>). It also confirms that species with lecanoric acid as major constituent and disciform apothecia are closely related to <italic><tp:taxon-name>Varicellaria rhodocarpa</tp:taxon-name></italic> and therefore should be included in the genus <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>. Our taxon sampling included all but two species putatively belonging to the <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>-group and hence we feel confident to draw formal nomenclatural consequences.</p>
+            <p>We will address the issue of the phylogeny and classification of the species-rich <italic><tp:taxon-name>Variolaria</tp:taxon-name></italic>-group in the future using an extended and geographically balanced taxon sampling. Our study shows that additional, molecular markers will be necessary to el<!--PageBreak-->ucidate the phylogenetic relationships of major clades within <tp:taxon-name>Pertusariales</tp:taxon-name> (incl. <tp:taxon-name>Agyriales</tp:taxon-name>) (<xref ref-type="bibr" rid="B18">Hodkinson and Lendemer 2011</xref>), since the backbone of the phylogeny of the order almost entirely lacks support.</p>
+        </sec>
+        <sec sec-type="Taxonomic consequences and key to the species">
+            <title>Taxonomic consequences and key to the species</title>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+								</tp:taxon-name>
+								<tp:taxon-authority>Nyl. Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 119. 1858.</tp:taxon-authority>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Type species">
+                    <title>Type species.</title>
+                    <p><italic><tp:taxon-name>Varicellaria microsticta</tp:taxon-name></italic> Nyl. Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 119. 1858. [=<italic><tp:taxon-name>Varicellaria rhodocarpa</tp:taxon-name></italic> (Körb.) Th.Fr.]</p>
+                    <p><italic>=Clausaria</italic> Nyl. Annls Sci. Nat., Bot., sér. 4 15: 45. 1861.</p>
+                    <p>Type species. <italic><tp:taxon-name>Clausaria fallens</tp:taxon-name></italic> Nyl., Ann. Sci. Nat., Bot., sér. 4 15: 45. 1861. [=<italic><tp:taxon-name>Varicellaria velata</tp:taxon-name></italic> (Turner) Schmitt &amp; Lumbsch]</p>
+                    <p>The genus in its enlarged circumscription includes species with disciform ascomata, non-amyloid hymenial gel, strongly amyloid, 1-2-spored asci, and 1- or 2-celled ascospores with thick, 1-layered walls. All species contain lecanoric acid, and may also contain lichexanthone or variolaric acid. Currently, we accept seven species in this genus. The accepted names and authorities are listed below.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">culbersonii</tp:taxon-name-part>
+                    <object-id xlink:type="simple">Mycobank: MB800038</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Vězda) Schmitt &amp; Lumbsch</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym.</title>
+                    <p><italic><tp:taxon-name>Pertusaria culbersonii</tp:taxon-name></italic> Vězda. Lich. sel. exs. 60: 4 (no. 1487). 1977. Type. Costa Rica, San José, Cerro de la Muerte, 3330m alt., 1976, on soil, <italic>W.L. Culberson 13195J</italic> (holotype PRA-V).</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">hemisphaerica</tp:taxon-name-part>
+                    <object-id xlink:type="simple">Mycobank: MB800039</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Flörke) Schmitt &amp; Lumbsch</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym.</title>
+                    <p><italic><tp:taxon-name>Variolaria hemisphaerica</tp:taxon-name></italic> Flörke. Deutsche Lich. 2: 6. 1815. Type. Germany, Berlin [Flörke, Deutsche Lichenen exs. 29] (isotype BM).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Synonym">
+                    <title>Synonym.</title>
+                    <p><italic><tp:taxon-name>Pertusaria hemisphaerica</tp:taxon-name></italic> (Flörke) Erichsen. Hedwigia 72: 85. 1932.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">kasandjeffii</tp:taxon-name-part>
+                    <object-id xlink:type="simple">Mycobank: MB800040</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Szatala) Schmitt &amp; Lumbsch</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym.</title>
+                    <p><italic><tp:taxon-name>Pertusaria kasandjeffii</tp:taxon-name></italic> Szatala. Magy. Bot. Lapok 29: 83. 1930. Type. Bulgaria, Cepelarska planina, in monte Turluka, par Pamsakli, 1500m alt., 6.1929, <italic>Szatala</italic> (isotype HBG-1233).</p>
+                    <p>This species is only known from a few localities in Bulgaria and Romania (<xref ref-type="bibr" rid="B17">Hanko 1983</xref>). Since no fresh material was available, we could not generate molecular data. However, the species agrees morphologically and chemically with the <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>-group (<xref ref-type="fig" rid="F2">Fig. 2</xref>) and in fact its distinction from <italic><tp:taxon-name>Pertusaria lactea</tp:taxon-name></italic> is not entirely clear. Both taxa contain lecanoric and variolaric acid, but <italic><tp:taxon-name>Pertusaria kasandjeffii</tp:taxon-name></italic> differs in being esorediate and having a thick, bulbate thallus. Additional collections are required to test whether <italic><tp:taxon-name>Pertusaria kasandjeffii</tp:taxon-name></italic> is indeed different from <italic><tp:taxon-name>Pertusaria lactea</tp:taxon-name></italic>.<!--PageBreak--><!--PageBreak--></p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p>The species of <italic><tp:taxon-name>Varicellaria</tp:taxon-name></italic>. <bold>A</bold> <italic><tp:taxon-name>Varicellaria culbersonii</tp:taxon-name></italic>. Costa Rica, Buck 44182 (F) <bold>B</bold> <italic><tp:taxon-name>Varicellaria hemisphaerica</tp:taxon-name></italic>. Germany, 15.4.2004, Schmitt (FR) <bold>C, D</bold> <italic><tp:taxon-name>Varicellaria kasandjeffii</tp:taxon-name></italic>. Isotype. Bulgaria, Cepalarska planina: in monte Turluka, par Pasmakali, 1500 m, 9.6.1929, <italic>Szatala</italic> (HBG-1233) <bold>E</bold> <italic><tp:taxon-name>Varicellaria lactea</tp:taxon-name></italic>. Spain, Schmitt 5.6.2003 (FR) <bold>F</bold> <italic><tp:taxon-name>Varicellaria philippina</tp:taxon-name></italic>. Holotype. Philippines, Mindanao Dist. Lanao, Camp Keithley by lake Lanao, Sept. 1907, M.S. Clemens, (TUR-V-0006709) <bold>G</bold> <italic><tp:taxon-name>Varicellaria rhodocarpa</tp:taxon-name></italic>. Sweden, Printzen 6908 (FR) <bold>H</bold> <italic><tp:taxon-name>Varicellaria velata</tp:taxon-name></italic>. Colombia, Moncada &amp; Davila 1537 (F). Scale bar: 1mm. Images were taken with an Olympus SC30 camera under an Olympus SZX7 stereomicroscope.</p></caption>
+                        <graphic xlink:href="MycoKeys-004-023-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">lactea</tp:taxon-name-part>
+                    <object-id xlink:type="simple">Mycobank: MB800041</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(L.) Schmitt &amp; Lumbsch</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym.</title>
+                    <p><italic><tp:taxon-name>Lichen lacteus</tp:taxon-name></italic> L., Mant. Pl. 1: 132. 1767. Type. Sweden, Västergötland, Mularp, 6.08.1922, <italic>Vrang</italic> [=Malme, Lich. Suec. Exs. 848] (neotype UPS, designated by <xref ref-type="bibr" rid="B21">Jørgensen et al. (1994)</xref>).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Synonyms">
+                    <title>Synonyms.</title>
+                    <p><italic><tp:taxon-name>Lepra lactea</tp:taxon-name></italic> (L.) F.H.Wigg. Prim. fl. Holsat.: 97. 1780. <italic><tp:taxon-name>Variolaria lactea</tp:taxon-name></italic> (L.) Pers. Ann. Bot. 1: 24. 1794. <italic><tp:taxon-name>Psora lactea</tp:taxon-name></italic> (L.) P.Gaertn., G.Mey. &amp; Scherb. Ökonom.-techn. Fl. Wetterau 3: 214. 1801. <italic><tp:taxon-name>Zeora lactea</tp:taxon-name></italic> (L.) Arnold. Flora, Jena 53: 214. 1870. <italic><tp:taxon-name>Pertusaria lactea</tp:taxon-name></italic> (L.) Arnold. Verh. zool.-bot. Ges. Wien 22: 283. 1872. <italic><tp:taxon-name>Ochrolechia lactea</tp:taxon-name></italic> (L.) Matzer &amp; Hafellner. Bibl. Lichenol. 37: 101. 1990.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">philippina</tp:taxon-name-part>
+                    <object-id xlink:type="simple">Mycobank: MB 800589</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Vain.) Schmitt &amp; Lumbsch</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym. </title>
+                    <p><italic><tp:taxon-name>Pertusaria philippina</tp:taxon-name></italic> Vain. Philipp. J. Sci., C, Bot. 8: 131. 1913. Type. Philippines, Mindanao, Lanao, Castra Keithley at Lake Lanao, 1907, <italic>Clemens 1302</italic> (holotype TUR-V 6391!).</p>
+                    <p>This species is only known from the Philippines (<xref ref-type="bibr" rid="B46">Wainio 1913</xref>) and Papua New Guinea (<xref ref-type="bibr" rid="B13">Elix et al. 1997</xref>). We could not generate molecular data since no fresh material was available. Morphologically and chemically the species agrees with <italic><tp:taxon-name>Pertusaria velata</tp:taxon-name></italic> (<xref ref-type="fig" rid="F2">Fig. 2</xref>), but differs in having 2-spored asci.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">rhodocarpa</tp:taxon-name-part>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Körb.) Th.Fr. Lich. Scand. (Uppsala) 1: 322. 1871.</tp:taxon-authority>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym.</title>
+                    <p><italic><tp:taxon-name>Pertusaria rhodocarpa</tp:taxon-name></italic> Körb. Syst. lich. germ.: 384. 1855.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Synonyms">
+                    <title>Synonyms.</title>
+                    <p><italic><tp:taxon-name>Varicellaria microsticta</tp:taxon-name></italic> Nyl. Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 119. 1858. <italic><tp:taxon-name>Varicellaria kemensis</tp:taxon-name></italic> Räsänen. Ann. Soc. zool.-bot. Fenn. Vanamo 3: 295. 1926.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Varicellaria</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">velata</tp:taxon-name-part>
+                    <object-id xlink:type="simple">Mycobank: MB800042</object-id>
+								</tp:taxon-name>
+								<tp:taxon-authority>(Turner) Schmitt &amp; Lumbsch</tp:taxon-authority>
+								<tp:taxon-status xlink:type="simple">comb. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Basionym">
+                    <title>Basionym.</title>
+                    <p><italic><tp:taxon-name>Parmelia velata</tp:taxon-name></italic> Turner. Trans. Linn. Soc. London 9: 143. 1808. Type. Great Britain, England, Sussex, 1805, <italic>Borrer</italic> (holotype BM-4109).</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Synonyms">
+                    <title>Synonyms.</title>
+                    <p><italic><tp:taxon-name>Lichen velatus</tp:taxon-name></italic> (Turner) Sm. &amp; Sowerby. Engl. Bot. 29: tab. 2062. 1809. <italic><tp:taxon-name>Variolaria velata</tp:taxon-name></italic> (Turner) Ach. Lich. univ.: 696. 1810. <italic><tp:taxon-name>Pertusaria velata</tp:taxon-name></italic> (Turner) Nyl. Lich. Scand. (Uppsala): 179. 1861.</p>
+                    <p><!--PageBreak--><italic><tp:taxon-name>Pertusaria conglobata</tp:taxon-name></italic> (Ach.) Th.Fr. Lichenogr. Scand. 1: 321. 1871. <italic><tp:taxon-name>Variolaria conglobata</tp:taxon-name></italic> Ach. Syn. Lich.: 132. 1814.</p>
+                    <p><italic><tp:taxon-name>Pertusaria haematommoides</tp:taxon-name></italic> Zahlbr., Feddes Rep. 33: 50. 1933. Type. Taiwan, Rengechi, <italic>Asahina 263</italic> (W – holotype!).</p>
+                    <p><italic><tp:taxon-name>Pertusaria obvelata</tp:taxon-name></italic> Nyl. Bih. K. svenska Vetensk. Akad. Handl. 3: 1–156. 1888.</p>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <sec sec-type="Key to the species of Varicellaria">
+                <title>Key to the species of Varicellaria</title>
+                <table-wrap content-type="key" position="float" orientation="portrait">
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td rowspan="1" colspan="1">1a</td>
+                                <td rowspan="1" colspan="1">Ascospores 2-celled, thallus esorediate or rarely sorediate, containing lecanoric acid, growing on soil, detritus or mosses in arctic-alpine habitats of the northern Hemisphere</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria rhodocarpa</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">1b</td>
+                                <td rowspan="1" colspan="1">Ascospores 1-celled, thallus esorediate or sorediate, chemistry and habitat various</td>
+                                <td rowspan="1" colspan="1">2</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2a</td>
+                                <td rowspan="1" colspan="1">Thallus esorediate</td>
+                                <td rowspan="1" colspan="1">3</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">2b</td>
+                                <td rowspan="1" colspan="1">Thallus sorediate</td>
+                                <td rowspan="1" colspan="1">6</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3a</td>
+                                <td rowspan="1" colspan="1">Thallus thin, coarsely wrinkled to rimose-cracked, containing lecanoric acid, ± lichexanthone, and ± variolaric acid</td>
+                                <td rowspan="1" colspan="1">4</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">3b</td>
+                                <td rowspan="1" colspan="1">Thallus thick, bullate, apothecia rare or unknown, when present 1-1.5 mm in diam., lacking lichexanthones, Neotropical or restricted to eastern Europe</td>
+                                <td rowspan="1" colspan="1">5</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">4a</td>
+                                <td rowspan="1" colspan="1">Asci 1-spored, cosmopolitan</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria velata</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">4b</td>
+                                <td rowspan="1" colspan="1">Asci 2-spored, so far only known from Philippines and Papua New Guinea</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria philippina</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">5a</td>
+                                <td rowspan="1" colspan="1">Growing on siliceous rocks, known only from the Balkan region of Europe</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria kasandjeffii</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">5b</td>
+                                <td rowspan="1" colspan="1">Growing on soil, detritus or mosses, known from high altitudes in Central America</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria culbersonii</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">6a</td>
+                                <td rowspan="1" colspan="1">Thallus containing lecanoric acid, on bark, rarely on rocks</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria hemisphaerica</tp:taxon-name></italic></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1">6b</td>
+                                <td rowspan="1" colspan="1">Thallus containing lecanoric acid and variolaric acid, on rocks, rarely on bark</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Varicellaria lactea</tp:taxon-name></italic></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We thank Armin Mangold (Berlin) and Todd Widhelm (Omaha) for collecting material used in this study, and Miklós Bálint (Frankfurt) for assisting with running phylogenetic analyses on the “FUCHS” computing cluster of the Center for Scientific Computing, Frankfurt am Main. Matthias Schultz (Hamburg), Seppo Huhtinen (Turku), and Anton Igersheim (Vienna) kindly sent type material on loan, and Klaus Kalb (Neumarkt) provided literature. This study was funded by ‘LOEWE, Landes-Offensive zur Entwicklung Wissenschaftlich-ökonomischer Exzellenz’ of Hesse’s Ministry of Higher Education, Research, and the Arts. A.S-D. was supported by a stipend from Deutsche Bundesstiftung Umwelt (DBU).<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Amo de Paz</surname> <given-names>G</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name><name name-style="western"><surname>Cubas</surname> <given-names>P</given-names></name><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name></person-group> (<year>2010a</year>)<article-title> The morphologically deviating genera <italic>Omphalodiella</italic> and <italic>Placoparmelia</italic> belong to <italic>Xanthoparmelia</italic> (Parmeliaceae).</article-title> <source>Bryologist </source> <volume>113</volume>: <fpage>376</fpage>-<lpage>386</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1639/0007-2745-113.2.376">10.1639/0007-2745-113.2.376</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Amo de Paz</surname> <given-names>G</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name><name name-style="western"><surname>Cubas</surname> <given-names>P</given-names></name><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name></person-group> (<year>2010b</year>)<article-title> The genus <italic>Karoowia</italic> (Parmeliaceae, Ascomycota) includes unrelated clades nested within <italic>Xanthoparmelia</italic>.</article-title> <source>Australian Systematic Botany </source> <volume>23</volume>: <fpage>173</fpage>-<lpage>184</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1071/SB09055">10.1071/SB09055</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Archer</surname> <given-names>AW</given-names></name><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name></person-group> (<year>2011</year>)<source> A preliminary world-wide key to the lichen genus <italic>Pertusaria</italic>. <ext-link ext-link-type="uri" xlink:href="http://www.rbgsyd.nsw.gov.au/science/Plant_Diversity_Research/Key_to_Pertusaria">http://www.rbgsyd.nsw.gov.au/science/Plant_Diversity_Research/Key_to_Pertusaria</ext-link> </source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Divakar</surname> <given-names>PK</given-names></name><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2005</year>)<article-title> Molecular phylogeny of parmotremoid lichens (Ascomycota, Parmeliaceae).</article-title> <source>Mycologia </source> <volume>97</volume>: <fpage>150</fpage>-<lpage>159</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/mycologia.97.1.150">10.3852/mycologia.97.1.150</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Divakar</surname> <given-names>PK</given-names></name><name name-style="western"><surname>Esslinger</surname> <given-names>TL</given-names></name><name name-style="western"><surname>Hawksworth</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2004a</year>)<article-title> <italic>Melanelixia</italic> and <italic>Melanohalea</italic>, two new genera segregated from <italic>Melanelia</italic> (Parmeliaceae) based on molecular and morphological data.</article-title> <source>Mycological Research </source> <volume>108</volume>: <fpage>873</fpage>-<lpage>884</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0953756204000723">10.1017/S0953756204000723</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Hawksworth</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2004b</year>)<article-title> A molecular phylogeny and a new classification of parmelioid lichens containing <italic>Xanthoparmelia</italic>-type lichenan (Ascomycota: Lecanorales).</article-title> <source>Taxon </source> <volume>53</volume>: <fpage>959</fpage>-<lpage>975</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/4135563">10.2307/4135563</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ree</surname> <given-names>RH</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2006</year>)<article-title> Major clades of parmeliold lichens (Parmeliaceae, Ascomycota) and the evolution of their morphological and chemical diversity.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>39</volume>: <fpage>52</fpage>-<lpage>69</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2005.12.015">10.1016/j.ympev.2005.12.015</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Kauff</surname> <given-names>F</given-names></name><name name-style="western"><surname>Divakar</surname> <given-names>PK</given-names></name><name name-style="western"><surname>Amo</surname> <given-names>G</given-names></name><name name-style="western"><surname>Arguello</surname> <given-names>A</given-names></name><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Cubas</surname> <given-names>P</given-names></name><name name-style="western"><surname>del Prado</surname> <given-names>R</given-names></name><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Esslinger</surname> <given-names>TL</given-names></name><name name-style="western"><surname>Ferencova</surname> <given-names>Z</given-names></name><name name-style="western"><surname>Hawksworth</surname> <given-names>DL</given-names></name><name name-style="western"><surname>Lutzoni</surname> <given-names>F</given-names></name><name name-style="western"><surname>Millanes</surname> <given-names>AM</given-names></name><name name-style="western"><surname>Molina</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Perez-Ortega</surname> <given-names>S</given-names></name><name name-style="western"><surname>Wedin</surname> <given-names>M</given-names></name><name name-style="western"><surname>Ahti</surname> <given-names>T</given-names></name><name name-style="western"><surname>Bungartz</surname> <given-names>F</given-names></name><name name-style="western"><surname>Calvelo</surname> <given-names>S</given-names></name><name name-style="western"><surname>Aptroot</surname> <given-names>A</given-names></name><name name-style="western"><surname>Barreno</surname> <given-names>E</given-names></name><name name-style="western"><surname>Candan</surname> <given-names>M</given-names></name><name name-style="western"><surname>Cole</surname> <given-names>M</given-names></name><name name-style="western"><surname>Ertz</surname> <given-names>D</given-names></name><name name-style="western"><surname>Goffinet</surname> <given-names>B</given-names></name><name name-style="western"><surname>Lindblom</surname> <given-names>L</given-names></name><name name-style="western"><surname>Lücking</surname> <given-names>R</given-names></name><name name-style="western"><surname>Mattsson</surname> <given-names>JE</given-names></name><name name-style="western"><surname>Messuti</surname> <given-names>MI</given-names></name><name name-style="western"><surname>Miadlikowska</surname> <given-names>J</given-names></name><name name-style="western"><surname>Piercey-Normore</surname> <given-names>M</given-names></name><name name-style="western"><surname>Rico</surname> <given-names>V</given-names></name><name name-style="western"><surname>Sipman</surname> <given-names>HJM</given-names></name><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name><name name-style="western"><surname>Spribille</surname> <given-names>T</given-names></name><name name-style="western"><surname>Thell</surname> <given-names>A</given-names></name><name name-style="western"><surname>Thor</surname> <given-names>G</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2010</year>)<article-title> Phylogenetic generic classification of parmelioid lichens (Parmeliaceae, Ascomycota) based on molecular, morphological and chemical evidence.</article-title> <source>Taxon </source> <volume>59</volume>: <fpage>1735</fpage>-<lpage>1753</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name><name name-style="western"><surname>Mattsson</surname> <given-names>JE</given-names></name><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Divakar</surname> <given-names>PK</given-names></name><name name-style="western"><surname>Articus</surname> <given-names>K</given-names></name><name name-style="western"><surname>Wiklund</surname> <given-names>E</given-names></name><name name-style="western"><surname>Bawingan</surname> <given-names>PA</given-names></name><name name-style="western"><surname>Wedin</surname> <given-names>M</given-names></name></person-group> (<year>2007</year>)<article-title> Testing morphology-based hypotheses of phylogenetic relationships in Parmeliaceae (Ascomycota) using three ribosomal markers and the nuclear <italic>RPB1</italic> gene.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>44</volume>: <fpage>812</fpage>-<lpage>824</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2006.11.029">10.1016/j.ympev.2006.11.029</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Crewe</surname> <given-names>AT</given-names></name><name name-style="western"><surname>Purvis</surname> <given-names>WO</given-names></name><name name-style="western"><surname>Wedin</surname> <given-names>M</given-names></name></person-group> (<year>2006</year>)<article-title> Molecular phylogeny of Acarosporaceae (Ascomycota) with focus on the proposed genus <italic>Polysporinopsis</italic>.</article-title> <source>Mycological Research </source> <volume>110</volume>: <fpage>521</fpage>-<lpage>526</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.mycres.2006.01.010">10.1016/j.mycres.2006.01.010</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Divakar</surname> <given-names>PK</given-names></name><name name-style="western"><surname>Crespo</surname> <given-names>A</given-names></name><name name-style="western"><surname>Blanco</surname> <given-names>O</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2006</year>)<source> Phylogenetic significance of morphological characters in the tropical <italic>Hypotrachyna</italic> clade of parmelioid lichens (Parmeliaceae, Ascomycota). Molecular Phylogenetics and Evolution 40: 448–458. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2006.03.024" xlink:type="simple">10.1016/j.ympev.2006.03.024</ext-link></source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drummond</surname> <given-names>A</given-names></name><name name-style="western"><surname>Ashton</surname> <given-names>B</given-names></name><name name-style="western"><surname>Buxton</surname> <given-names>S</given-names></name><name name-style="western"><surname>Cheung</surname> <given-names>M</given-names></name><name name-style="western"><surname>Cooper</surname> <given-names>A</given-names></name><name name-style="western"><surname>Duran</surname> <given-names>C</given-names></name><name name-style="western"><surname>Field</surname> <given-names>M</given-names></name><name name-style="western"><surname>Heled</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kearse</surname> <given-names>M</given-names></name><name name-style="western"><surname>Markowitz</surname> <given-names>S</given-names></name><name name-style="western"><surname>Moir</surname> <given-names>R</given-names></name><name name-style="western"><surname>Stones-Havas</surname> <given-names>S</given-names></name><name name-style="western"><surname>Sturrock</surname> <given-names>S</given-names></name><name name-style="western"><surname>Thierer</surname> <given-names>T</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>)<source> Geneious v5.4. Available from <ext-link ext-link-type="uri" xlink:href="http://www.geneious.com">http://www.geneious.com</ext-link> .</source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Elix</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Aptroot</surname> <given-names>A</given-names></name><name name-style="western"><surname>Archer</surname> <given-names>AW</given-names></name></person-group> (<year>1997</year>)<article-title> The lichen genus <italic>Pertusaria</italic> (lichenised Ascomycotina) in Papua New Guinea and Australia: twelve new species and thirteen new reports.</article-title> <source>Mycotaxon </source> <volume>64</volume>: <fpage>17</fpage>-<lpage>35</lpage>.</mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ertz</surname> <given-names>D</given-names></name><name name-style="western"><surname>Tehler</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>)<article-title> The phylogeny of Arthoniales (Pezizomycotina) inferred from nucLSU and <italic>RPB2</italic> sequences.</article-title> <source>Fungal Diversity </source> <volume>49</volume>: <fpage>47</fpage>-<lpage>71</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s13225-010-0080-y">10.1007/s13225-010-0080-y</ext-link></mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grube</surname> <given-names>M</given-names></name><name name-style="western"><surname>Baloch</surname> <given-names>E</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2004</year>)<source> The phylogeny of Porinaceae (Ostropomycetidae) suggests a neotenic origin of perithecia in Lecanoromycetes. Mycological Research 108: 1111–1118. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0953756204000826">10.1017/S0953756204000826</ext-link></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gueidan</surname> <given-names>C</given-names></name><name name-style="western"><surname>Savic</surname> <given-names>S</given-names></name><name name-style="western"><surname>Thus</surname> <given-names>H</given-names></name><name name-style="western"><surname>Roux</surname> <given-names>C</given-names></name><name name-style="western"><surname>Keller</surname> <given-names>C</given-names></name><name name-style="western"><surname>Tibell</surname> <given-names>L</given-names></name><name name-style="western"><surname>Prieto</surname> <given-names>M</given-names></name><name name-style="western"><surname>Heidmarsson</surname> <given-names>S</given-names></name><name name-style="western"><surname>Breuss</surname> <given-names>O</given-names></name><name name-style="western"><surname>Orange</surname> <given-names>A</given-names></name><name name-style="western"><surname>Fröberg</surname> <given-names>L</given-names></name><name name-style="western"><surname>Wynns</surname> <given-names>AA</given-names></name><name name-style="western"><surname>Navarro-Rosines</surname> <given-names>P</given-names></name><name name-style="western"><surname>Krzewicka</surname> <given-names>B</given-names></name><name name-style="western"><surname>Pykala</surname> <given-names>J</given-names></name><name name-style="western"><surname>Grube</surname> <given-names>M</given-names></name><name name-style="western"><surname>Lutzoni</surname> <given-names>F</given-names></name></person-group> (<year>2009</year>)<article-title> Generic classification of the Verrucariaceae (Ascomycota) based on molecular and morphological evidence: recent progress and remaining challenges.</article-title> <source>Taxon </source> <volume>58</volume>: <fpage>184</fpage>-<lpage>208</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hanko</surname> <given-names>B</given-names></name></person-group> (<year>1983</year>)<article-title> Die Chemotypen der Flechtengattung <italic>Pertusaria</italic> in Europa.</article-title> <source>Bibliotheca Lichenologica </source> <volume>19</volume>: <fpage>1</fpage>-<lpage>297</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hodkinson</surname> <given-names>BP</given-names></name><name name-style="western"><surname>Lendemer</surname> <given-names>JC</given-names></name></person-group> (<year>2011</year>)<article-title> The orders of Ostropomycetidae (Lecanoromycetes, Ascomycota): recognition of Sarrameanales and Trapeliales with a request to retain Pertusariales over Agyriales.</article-title> <source>Phytologia </source> <volume>93</volume>: <fpage>407</fpage>-<lpage>412</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Högnabba</surname> <given-names>F</given-names></name></person-group> (<year>2006</year>)<article-title> Molecular phylogeny of the genus <italic>Stereocaulon</italic> (Stereocaulaceae, lichenized ascomycetes).</article-title> <source>Mycological Research </source> <volume>110</volume>: <fpage>1080</fpage>-<lpage>1092</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.mycres.2006.04.013">10.1016/j.mycres.2006.04.013</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huelsenbeck</surname> <given-names>JP</given-names></name><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name></person-group> (<year>2001</year>)<article-title> MRBAYES: Bayesian inference of phylogenetic trees.</article-title> <source>Bioinformatics </source> <volume>17</volume>: <fpage>754</fpage>-<lpage>755</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/17.8.754">10.1093/bioinformatics/17.8.754</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Jørgensen</surname> <given-names>PM</given-names></name><name name-style="western"><surname>James</surname> <given-names>PW</given-names></name><name name-style="western"><surname>Jarvis</surname> <given-names>CR</given-names></name></person-group> (<year>1994</year>)<article-title> Linnaean lichen names and their typification.</article-title> <source>Biological Journal of the Linnean Society </source> <volume>115</volume>: <fpage>261</fpage>-<lpage>405</lpage>.</mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Loytynoja</surname> <given-names>A</given-names></name><name name-style="western"><surname>Goldman</surname> <given-names>N</given-names></name></person-group> (<year>2005</year>)<article-title> An algorithm for progressive multiple alignment of sequences with insertions.</article-title> <source>Proceedings of the National Academy of Sciences of the United States of America </source> <volume>102</volume>: <fpage>10557</fpage>-<lpage>10562</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.0409137102">10.1073/pnas.0409137102</ext-link></mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Loytynoja</surname> <given-names>A</given-names></name><name name-style="western"><surname>Goldman</surname> <given-names>N</given-names></name></person-group> (<year>2010</year>)<source> webPRANK: a phylogeny-aware multiple sequence aligner with interactive alignment browser. BMC Bioinformatics 11: 579. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2105-11-579">10.1186/1471-2105-11-579</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name></person-group> (<year>2001</year>)<article-title> Molecular data suggest that the lichen genus <italic>Pertusaria</italic> is not monophyletic.</article-title> <source>Lichenologist </source> <volume>33</volume>: <fpage>161</fpage>-<lpage>170</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1006/lich.2000.0309">10.1006/lich.2000.0309</ext-link></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name></person-group> (<year>2002</year>)<article-title> Molecular data shake the Pertusariaceae tree into order.</article-title> <source>Lichenology </source> <volume>1</volume>: <fpage>37</fpage>-<lpage>43</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name><name name-style="western"><surname>Barker</surname> <given-names>D</given-names></name><name name-style="western"><surname>Pagel</surname> <given-names>M</given-names></name></person-group> (<year>2006</year>)<article-title> Evolution of micromorphological and chemical characters in the lichen-forming fungal family Pertusariaceae.</article-title> <source>Biological Journal of the Linnean Society </source> <volume>89</volume>: <fpage>615</fpage>-<lpage>626</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1095-8312.2006.00696.x">10.1111/j.1095-8312.2006.00696.x</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Messuti</surname> <given-names>MI</given-names></name><name name-style="western"><surname>Archer</surname> <given-names>AW</given-names></name></person-group> (<year>2009</year>)<source> ¿Cuántos taxones pueden incluirse teóricamente en el género <italic>Pertusaria</italic>? Glalia 2: 1–9.</source></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Miadlikowska</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kauff</surname> <given-names>F</given-names></name><name name-style="western"><surname>Hofstetter</surname> <given-names>V</given-names></name><name name-style="western"><surname>Fraker</surname> <given-names>E</given-names></name><name name-style="western"><surname>Grube</surname> <given-names>M</given-names></name><name name-style="western"><surname>Hafellner</surname> <given-names>J</given-names></name><name name-style="western"><surname>Reeb</surname> <given-names>V</given-names></name><name name-style="western"><surname>Hodkinson</surname> <given-names>BP</given-names></name><name name-style="western"><surname>Kukwa</surname> <given-names>M</given-names></name><name name-style="western"><surname>Lücking</surname> <given-names>R</given-names></name><name name-style="western"><surname>Hestmark</surname> <given-names>G</given-names></name><name name-style="western"><surname>Otalora</surname> <given-names>MG</given-names></name><name name-style="western"><surname>Rauhut</surname> <given-names>A</given-names></name><name name-style="western"><surname>Büdel</surname> <given-names>B</given-names></name><name name-style="western"><surname>Scheidegger</surname> <given-names>C</given-names></name><name name-style="western"><surname>Timdal</surname> <given-names>E</given-names></name><name name-style="western"><surname>Stenroos</surname> <given-names>S</given-names></name><name name-style="western"><surname>Brodo</surname> <given-names>I</given-names></name><name name-style="western"><surname>Perlmutter</surname> <given-names>GB</given-names></name><name name-style="western"><surname>Ertz</surname> <given-names>D</given-names></name><name name-style="western"><surname>Diederich</surname> <given-names>P</given-names></name><name name-style="western"><surname>Lendemer</surname> <given-names>JC</given-names></name><name name-style="western"><surname>May</surname> <given-names>P</given-names></name><name name-style="western"><surname>Schoch</surname> <given-names>CL</given-names></name><name name-style="western"><surname>Arnold</surname> <given-names>AE</given-names></name><name name-style="western"><surname>Gueidan</surname> <given-names>C</given-names></name><name name-style="western"><surname>Tripp</surname> <given-names>E</given-names></name><name name-style="western"><surname>Yahr</surname> <given-names>R</given-names></name><name name-style="western"><surname>Robertson</surname> <given-names>C</given-names></name><name name-style="western"><surname>Lutzoni</surname> <given-names>F</given-names></name></person-group> (<year>2006</year>)<article-title> New insights into classification and evolution of the Lecanoromycetes (Pezizomycotina, Ascomycota) from phylogenetic analyses of three ribosomal RNA- and two protein-coding genes.</article-title> <source>Mycologia </source> <volume>98</volume>: <fpage>1088</fpage>-<lpage>1103</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/mycologia.98.6.1088">10.3852/mycologia.98.6.1088</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Misof</surname> <given-names>B</given-names></name><name name-style="western"><surname>Misof</surname> <given-names>K</given-names></name></person-group> (<year>2009</year>)<source> A Monte Carlo approach successfully identifies randomness in multiple sequence alignments: a more objective means of data exclusion. Systematic Biology 58: 21–34. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/sysbio/syp006">10.1093/sysbio/syp006</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Muggia</surname> <given-names>L</given-names></name><name name-style="western"><surname>Gueidan</surname> <given-names>C</given-names></name><name name-style="western"><surname>Grube</surname> <given-names>M</given-names></name></person-group> (<year>2010</year>)<article-title> Phylogenetic placement of some morphologically unusual members of Verrucariales.</article-title> <source>Mycologia </source> <volume>102</volume>: <fpage>835</fpage>-<lpage>846</lpage>.doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/09-153">10.3852/09-153</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Page</surname> <given-names>RDM</given-names></name></person-group> (<year>1996</year>)<article-title> TreeView: an application to display phylogenetic trees on personal computers.</article-title> <source>Computer Applied Biosciences </source> <volume>12</volume>: <fpage>357</fpage>-<lpage>358</lpage>.</mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name><name name-style="western"><surname>Crandall</surname> <given-names>KA</given-names></name></person-group> (<year>1998</year>)<article-title> MODELTEST: testing the model of DNA substitution.</article-title> <source>Bioinformatics </source> <volume>14</volume>: <fpage>817</fpage>-<lpage>818</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/14.9.817">10.1093/bioinformatics/14.9.817</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Printzen</surname> <given-names>C</given-names></name></person-group> (<year>2010</year>)<article-title> Lichen systematics: The role of morphological and molecular data to reconstruct phylogenetic relationships.</article-title> In: <person-group><name name-style="western"><surname>Lüttge</surname> <given-names>U</given-names></name><name name-style="western"><surname>Beyschlag</surname> <given-names>W</given-names></name><name name-style="western"><surname>Büdel</surname> <given-names>B</given-names></name><name name-style="western"><surname>Francis</surname> <given-names>D</given-names></name></person-group> (<role>Eds</role>). <issue-title>.</issue-title> <source>Progress in Botany 71</source>: <fpage>233</fpage>-<lpage>275</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rivas Plata</surname> <given-names>E</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2011</year>)<article-title> Parallel evolution and phenotypic divergence in lichenized fungi: a case study in the lichen-forming fungal family Graphidaceae (Ascomycota: Lecanoromycetes: Ostropales).</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>61</volume>: <fpage>45</fpage>-<lpage>63</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2011.04.025">10.1016/j.ympev.2011.04.025</ext-link></mixed-citation></ref>
+            <ref id="B35"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rivas Plata</surname> <given-names>E</given-names></name><name name-style="western"><surname>Lücking</surname> <given-names>R</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2012</year>)<article-title> A new classification for the family Graphidaceae (Ascomycota: Lecanoromycetes: Ostropales).</article-title> <source>Fungal Diversity </source> <volume>52</volume>: <fpage>107</fpage>-<lpage>121</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s13225-011-0135-8">10.1007/s13225-011-0135-8</ext-link></mixed-citation></ref>
+            <ref id="B36"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmidt</surname> <given-names>HA</given-names></name><name name-style="western"><surname>Strimmer</surname> <given-names>K</given-names></name><name name-style="western"><surname>Vingron</surname> <given-names>M</given-names></name><name name-style="western"><surname>von Haeseler</surname> <given-names>A</given-names></name></person-group> (<year>2002</year>)<source> TREE-PUZZLE: maximum likelihood phylogenetic analysis using quartets and parallel computing. Bioinformatics 18: 502–504. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/18.3.502">10.1093/bioinformatics/18.3.502</ext-link></mixed-citation></ref>
+            <ref id="B37"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name><name name-style="western"><surname>del Prado</surname> <given-names>R</given-names></name><name name-style="western"><surname>Grube</surname> <given-names>M</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2009</year>)<article-title> Repeated evolution of closed fruiting bodies is linked to ascoma development in the largest group of lichenized fungi (Lecanoromycetes, Ascomycota).</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>52</volume>: <fpage>34</fpage>-<lpage>44</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2009.03.017">10.1016/j.ympev.2009.03.017</ext-link></mixed-citation></ref>
+            <ref id="B38"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name><name name-style="western"><surname>Fankhauser</surname> <given-names>JD</given-names></name><name name-style="western"><surname>Sweeney</surname> <given-names>K</given-names></name><name name-style="western"><surname>Spribille</surname> <given-names>T</given-names></name><name name-style="western"><surname>Kalb</surname> <given-names>K</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2010</year>)<article-title> Gyalectoid <italic>Pertusaria</italic> species form a sister-clade to <italic>Coccotrema</italic> (Ostropomycetidae, Ascomycota).</article-title> <source>Mycology </source> <volume>1</volume>: <fpage>75</fpage>-<lpage>83</lpage>.</mixed-citation></ref>
+            <ref id="B39"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2004</year>)<article-title> Molecular phylogeny of the Pertusariaceae supports secondary chemistry as an important systematic character set in lichen-forming ascomycetes.</article-title> <source>Molecular Phylogenetics and Evolution </source> <volume>33</volume>: <fpage>43</fpage>-<lpage>55</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ympev.2004.04.014">10.1016/j.ympev.2004.04.014</ext-link></mixed-citation></ref>
+            <ref id="B40"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schmitt</surname> <given-names>I</given-names></name><name name-style="western"><surname>Yamamoto</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Lumbsch</surname> <given-names>HT</given-names></name></person-group> (<year>2006</year>)<source> Phylogeny of Pertusariales (Ascomycotina): Resurrection of Ochrolechiaceae and new circumscription of Megasporaceae. Journal of the Hattori Botanical Laboratory: 753–764.</source></mixed-citation></ref>
+            <ref id="B41"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Shimodaira</surname> <given-names>H</given-names></name><name name-style="western"><surname>Hasegawa</surname> <given-names>M</given-names></name></person-group> (<year>2001</year>)<article-title> CONSEL: for assessing the confidence of phylogenetic tree selection.</article-title> <source>Bioinformatics </source> <volume>17</volume>: <fpage>1246</fpage>-<lpage>1247</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/17.12.1246">10.1093/bioinformatics/17.12.1246</ext-link></mixed-citation></ref>
+            <ref id="B42"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stamatakis</surname> <given-names>A</given-names></name></person-group> (<year>2006</year>)<article-title> RAxML-VI-HPC: Maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models.</article-title> <source>Bioinformatics </source> <volume>22</volume>: <fpage>2688</fpage>-<lpage>2690</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btl446">10.1093/bioinformatics/btl446</ext-link></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B43"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Strimmer</surname> <given-names>K</given-names></name><name name-style="western"><surname>Rambaut</surname> <given-names>A</given-names></name></person-group> (<year>2002</year>)<article-title> Inferring confidence sets of possibly misspecified gene trees.</article-title> <source>Proceedings of the Royal Society of London Series B, Biological Sciences </source> <volume>269</volume>: <fpage>137</fpage>-<lpage>142</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1098/rspb.2001.1862">10.1098/rspb.2001.1862</ext-link></mixed-citation></ref>
+            <ref id="B44"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname> <given-names>JD</given-names></name><name name-style="western"><surname>Higgins</surname> <given-names>DG</given-names></name><name name-style="western"><surname>Gibson</surname> <given-names>TJ</given-names></name></person-group> (<year>1994</year>)<article-title> CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice.</article-title> <source>Nucleic Acids Research </source> <volume>22</volume>: <fpage>4673</fpage>-<lpage>4680</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/22.22.4673">10.1093/nar/22.22.4673</ext-link></mixed-citation></ref>
+            <ref id="B45"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Tehler</surname> <given-names>A</given-names></name><name name-style="western"><surname>Wedin</surname> <given-names>M</given-names></name></person-group> (<year>2008</year>)<article-title> Systematics of lichenized fungi.</article-title> In: <person-group><name name-style="western"><surname>Nash TH</surname> <given-names>III</given-names></name></person-group> (<role>Ed</role>). <issue-title> Lichen Biology Second Edition.</issue-title> <source>Cambridge University Press, Cambridge. viii+486 pages</source>: <fpage>336</fpage>-<lpage>352</lpage>.</mixed-citation></ref>
+            <ref id="B46"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wainio</surname> <given-names>EA</given-names></name></person-group> (<year>1913</year>)<article-title> Lichenes insularum philippinarum.</article-title> <source>Philippine Journal of Science, Section C Botany </source> <volume>8</volume>: <fpage>99</fpage>-<lpage>137</lpage>.</mixed-citation></ref>
+            <ref id="B47"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wedin</surname> <given-names>M</given-names></name><name name-style="western"><surname>Döring</surname> <given-names>H</given-names></name><name name-style="western"><surname>Könberg</surname> <given-names>K</given-names></name><name name-style="western"><surname>Gilenstam</surname> <given-names>G</given-names></name></person-group> (<year>2005</year>)<source> Generic delimitations in the family Stictidaceae (Ostropales, Ascomycota): the <italic>Stictis-Conotrema</italic> problem. Lichenologist 37: 67–75. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0024282904014653">10.1017/S0024282904014653</ext-link></mixed-citation></ref>
+            <ref id="B48"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Westberg</surname> <given-names>M</given-names></name><name name-style="western"><surname>Crewe</surname> <given-names>AT</given-names></name><name name-style="western"><surname>Purvis</surname> <given-names>OW</given-names></name><name name-style="western"><surname>Wedin</surname> <given-names>M</given-names></name></person-group> (<year>2010</year>)<article-title> <italic>Silobia</italic>, a new genus for the <italic>Acarospora smaragdula</italic> complex (Ascomycota, Acarosporales) and a revision of the group in Sweden.</article-title> <source>Lichenologist </source> <volume>43</volume>: <fpage>7</fpage>-<lpage>25</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0024282910000617">10.1017/S0024282910000617</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

@@ -1,0 +1,207 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="editorial" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.1.2058</article-id>
+            <title-group>
+                <article-title>MycoKeys, or why we need a new journal in mycology?</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lumbsch</surname>
+                        <given-names>Thorsten</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Miller</surname>
+                        <given-names>Andrew N.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Begerow</surname>
+                        <given-names>Dominik</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Penev</surname>
+                        <given-names>Lyubomir</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A4">4</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1"><label>1</label>The Field Museum, Chicago, USA</aff>
+            <aff id="A2"><label>2</label>Illinois Natural History Survey, Champaign, USA</aff>
+            <aff id="A3"><label>3</label>Ruhr-University, Bochum, Germany</aff>
+            <aff id="A4"><label>4</label>Pensoft Publishers, Sofia, Bulgaria</aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Thorsten Lumbsch (<email xlink:type="simple">tlumbsch@fieldmuseum.org</email>).</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2011</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>14</day>
+                <month>9</month>
+                <year>2011</year>
+            </pub-date>
+            <issue>1</issue>
+            <fpage>1</fpage>
+            <lpage>6</lpage>
+            <history>
+                <date date-type="received">
+                    <day>11</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>13</day>
+                    <month>9</month>
+                    <year>2011</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Thorsten Lumbsch, Andrew N. Miller, Dominik Begerow, Lyubomir Penev</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+        </article-meta>
+    </front>
+    <body>
+        <p>The launch of MycoKeys coincided with several revolutionary changes to the <ext-link ext-link-type="uri" xlink:href="http://ibot.sav.sk/icbn/main.htm">International Code of Botanical Nomenclature (ICBN)</ext-link> (<xref ref-type="bibr" rid="B2">Knapp et al. 2011</xref> and <xref ref-type="bibr" rid="B1">Hawksworth 2011</xref>, in this volume, <xref ref-type="bibr" rid="B4">Miller et al. 2011</xref>) that occurred during the Nomenclature Section of the XVIII International Botanical Congress (IBC2011) in Melbourne, Australia. The path to the present launch, however was paved years ago by the lively discussions on electronic publication and dissemination of biodiversity information in the Internet era (e.g., <xref ref-type="bibr" rid="B3">Knapp and Wright 2010</xref>, <xref ref-type="bibr" rid="B5">Penev et al. 2010a</xref>), as well as by the successful start of its sister journals, <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/phytokeys">PhytoKeys</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pensoft.net/journals/zookeys">ZooKeys</ext-link>.</p>
+        <p>In short, there are several challenges in the publishing practices in mycology that both mycologists and publishers now face: (1) Allowance of electronic publication of nomenclatural acts and its successful application in practice; (2) Mandatory electronic registration for nomenclatural acts for fungi in electronic registers such as MycoBank (effective on and after 1st of January 2013); (3) Removal of Article 59 of the Vienna Code that allowed existence of more than one valid name for the different forms (asexual and sexual) of a fungus species; the elimination of Article 59 is often interpreted as the “one fungus - one name” rule; (4) Open access publishing of information and data as already established best practice in academic communication (<xref ref-type="bibr" rid="B8">Suber 2010</xref>); (5) Forthcoming Web 2.0 and Linked Open data (LOD) era allows permanent cross-linking and data exchange between the leading biodiversity data holders, such as the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">GBIF</ext-link>), Encyclopedia of Life (<ext-link ext-link-type="uri" xlink:href="http://www.eol.org">EOL</ext-link>), <ext-link ext-link-type="uri" xlink:href="http://www.mycobank.org">MycoBank</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org">Index Fungorum</ext-link>, the Global Information System for Lichenized and Non-Lichenized Ascomycetes (<ext-link ext-link-type="uri" xlink:href="http://www.lias.net">LIAS</ext-link>), <ext-link ext-link-type="uri" xlink:href="http://www.genbank.org">Genbank</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.plazi.org">Plazi</ext-link> the Wiki environment (<ext-link ext-link-type="uri" xlink:href="http://www.species-id.net">Species-Id</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.species.wikimedia.org">Wikispecies</ext-link>) and many others (<xref ref-type="bibr" rid="B5">Penev et al. 2010a</xref>; see also <xref ref-type="fig" rid="F1">Fig. 1</xref>); (6) Semantic markup <!--PageBreak-->of published texts permit unprecedented increase of visibility, citations and re-use of the biodiversity information (<xref ref-type="bibr" rid="B6">Penev et al. 2010b</xref>).</p>
+        <fig id="F1" position="float" orientation="portrait">
+            <label>Figure 1.</label>
+            <caption><p>Pensoft Taxon Profile (PTP) for the genus <italic><tp:taxon-name>Aspergillus</tp:taxon-name></italic> (<tp:taxon-name>Eurotiomycetes</tp:taxon-name>) obtained dynamically from external web resources. The profile is generated by clicking on any taxon name published in a MycoKeys paper, in this case in the paper by <xref ref-type="bibr" rid="B7">Raja et al. (2011)</xref>. The links on the left bar, if in bold font, lead to various biodiversity platforms where information on this taxon is available; links in normal font indicate that there is no information on the taxon in the particular platform. The PTP tool is available also as standalone application at <ext-link ext-link-type="uri" xlink:href="http://www.ptp.pensoft.eu" xlink:type="simple">http://www.ptp.pensoft.eu</ext-link></p></caption>
+            <graphic xlink:href="MycoKeys-001-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+        </fig>
+        <p>There are also other exciting and novel advances in biodiversity science that change the field with a speed never seen before. Electronic media helps not only in fast and efficient publication and communication between researchers but becomes themselves tools and platforms for indexing, aggregating and retrieval of information, providing unique opportunities to accelerate biodiversity research and understanding. The research process itself is accelerated by methods to increase the speed and efficiency of sampling and discovery of new taxa, as well as with their identification through an array of new techniques such as DNA sequencing.</p>
+        <p><italic>MycoKeys</italic> is launched to respond to the challenges described above through a transformative publishing model with innovative approaches to publication and dissemination. The journal will publish papers across all disciplines dealing with taxonomy, systematics, evolution, phylogeny, biogeography, taxon-based ecology, and conservation of the monophyletic kingdom Fungi. <italic>MycoKeys</italic> will publish taxonomic or ecological data on any taxon of any geological age from any part of the world with no limit to manuscript size. Special attention will be paid to works offering integrative and inter-disciplinary approaches that promote innovative ways of presenting the research information.</p>
+        <p>Mycokeys will consider publishing works on the following topics:</p>
+        <list list-type="bullet">
+            <list-item>
+                <p>•	Descriptions of new taxa, if they are accompanied with proper diagnoses and/or keys to distinguish them from close relatives or similar taxa, and if DNA sequence data are deposited in Genbank prior to publication. All new taxa need to be registered at Mycobank and Mycobank numbers indicated in the manuscript. New taxa should ideally be described in connection with a phylogenetic analysis or evidence that the barcode gene (ITS) is unique for the new taxon.</p>
+            </list-item>
+            <list-item>
+                <p>•	Taxonomic revisions of extant (or ‘’recent’’) and fossil fungal groups</p>
+            </list-item>
+            <list-item>
+                <p>•	Checklists and catalogues</p>
+            </list-item>
+            <list-item>
+                <p>•	Phylogenetic and evolutionary analyses, if alignments are deposited in TreeBase (with accession number listed in the text).</p>
+            </list-item>
+            <list-item>
+                <p>•	Papers in descriptive and/or historical biogeography</p>
+            </list-item>
+            <list-item>
+                <p>•	Methodology papers, including description of new software, if released as an open source license and released as supplementary material to the article.</p>
+            </list-item>
+            <list-item>
+                <p>•	Data mining and literature surveys</p>
+            </list-item>
+            <list-item>
+                <p>•	Monographs, conspecti, atlases</p>
+            </list-item>
+            <list-item>
+                <p>•	Primer notes</p>
+            </list-item>
+            <list-item>
+                <p>•	Letters to the Editor and “Points of View” commentaries</p>
+            </list-item>
+            <list-item>
+                <p>•	Collections of papers, Festschrift volumes, conference proceedings</p>
+            </list-item>
+            <list-item>
+                <p>•	Data papers (manuscripts describing  large datasets datesets published through the GBIF, Barcode of Life, or other international data repositories)</p>
+            </list-item>
+        </list>
+        <p>Extensive overviews on a taxon in a country or larger region are welcome. Short mycological contributions may be considered if they are based on significant or une<!--PageBreak--><!--PageBreak-->xpected discoveries. Regular contributions may eventually be published in special issues devoted to a region/country.</p>
+        <p>In addition <italic>MycoKeys</italic> will respond to the present-day cultural and technological shift in scholarly publishing and communication through:</p>
+        <list list-type="bullet">
+            <list-item>
+                <p>•	Mandatory open access to all journal articles, providing an unlimited and barrier-free distribution of published content</p>
+            </list-item>
+            <list-item>
+                <p>•	Pre-publication recording of all new names in Mycobank as well as rapid post-publication registration in Index Fungorum and LIAS</p>
+            </list-item>
+            <list-item>
+                <p>•	Inclusion of the Mycobank registration numbers in the original descriptions (protologues)</p>
+            </list-item>
+            <list-item>
+                <p>•	All new taxa and other taxon descriptions and associated images are provided to the Encylopedia of Life on the day of publication</p>
+            </list-item>
+            <list-item>
+                <p>•	All taxon treatments are provided to the <ext-link ext-link-type="uri" xlink:href="http://www.plazi.org">Plazi</ext-link> treatment repository</p>
+            </list-item>
+            <list-item>
+                <p>•	All new taxa are exported to the Wiki environment (<ext-link ext-link-type="uri" xlink:href="http://www.species-id.net">Species-Id</ext-link>) on the day of publication; the link to the Wiki version of a treatment is included in the protologue and citation of the original description is always explicitly shown in the Wiki version</p>
+            </list-item>
+            <list-item>
+                <p>•	An established infrastructure for data publishing in cooperation with the <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">GBIF</ext-link>, the <ext-link ext-link-type="uri" xlink:href="http://www.barcoding.si.edu/">Consortium for Barcode of Life</ext-link>, and <ext-link ext-link-type="uri" xlink:href="http://www.datadryad.org">Dryad Data Repository</ext-link></p>
+            </list-item>
+            <list-item>
+                <p>•	Data matrices and primary data files for interactive keys (e.g., Lucid, Intkey, MX, and others) can be published as supplementary files to facilitate use and reuse by future workers</p>
+            </list-item>
+            <list-item>
+                <p>•	Immediate alert service on new publications through email, RSS, Twitter, Facebook, Mendeley, and other networks</p>
+            </list-item>
+            <list-item>
+                <p>•	Immediate distribution and dissemination of your publication to scientific databases, indices and search engines (<ext-link ext-link-type="uri" xlink:href="http://www.isiwebofknowledge.com/">ISI Web of Knowledge</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://scholar.google.com/">Google Scholar</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.cabi.org/default.aspx?site=170&amp;page=1016&amp;pid=125">CABI Abstracts</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.doaj.org/">DOAJ</ext-link>, and others)</p>
+            </list-item>
+            <list-item>
+                <p>•	Archiving of your publication, electronically and in print, in trusted (e-) archives and libraries, in the first case <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/">PubMedCentral</ext-link></p>
+            </list-item>
+            <list-item>
+                <p>•	Continuous development and implementation of cutting-edge publishing technologies: XML-based editorial work flow and mark up process, data publication and various semantic enhancements to published texts to ensure a pleasant and efficient reading process as well as a wide dissemination of separate parts of a logically ‘atomised’ article’s content</p>
+            </list-item>
+            <list-item>
+                <p>•	Automated cross-linking of any taxon mentioned in the MycoKeys papers through the <ext-link ext-link-type="uri" xlink:href="http://ptp.pensoft.eu/">Pensoft Taxon Profile</ext-link> (<xref ref-type="fig" rid="F1">Fig. 1</xref>) with major indexing and aggregation platforms such as the <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/">GBIF</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.eol.org/">EOL</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.mycobank.org">MycoBank</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org">Index Fungorum</ext-link>, the International Plant Name Index (<ext-link ext-link-type="uri" xlink:href="http://www.ipni.org/">IPNI</ext-link>), <ext-link ext-link-type="uri" xlink:href="http://www.zoobank.org/">ZooBank</ext-link>, the National Center for Biodiversity Information (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/">NCBI</ext-link>), <ext-link ext-link-type="uri" xlink:href="http://www.genbank.org/">Genbank</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org/">Barcode of Life</ext-link>, the Biodiversity Heritage Library (<ext-link ext-link-type="uri" xlink:href="http://www.biodiversitylibrary.org/">BHL</ext-link>), <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pubmed/">PubMed</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/">PubMedCentral</ext-link>, and others</p>
+            </list-item>
+            <list-item>
+                <p>•	Publication of identical content in four different formats to serve different target user groups: (1) full-colour, high-resolution print version; (2) PDF for reference to the printed version and easy archiving; (3) HTML for easy <!--PageBreak-->reading, browsing and applying semantic enhancements to the text; and (4) XML to provide a machine-readable file for archiving and data mining</p>
+            </list-item>
+            <list-item>
+                <p>•	Quick turnaround time; papers published within one to three weeks time after acceptance</p>
+            </list-item>
+            <list-item>
+                <p>•	No restrictions and no charges for colour either in the online or in the printed version</p>
+            </list-item>
+        </list>
+        <p>On behalf of its authors, <italic>MycoKeys</italic> will place special effort on increasing public awareness of published scientific discoveries through an established system of press releases to science news distributors, mass media, blogs, social networks and others.</p>
+        <p>A new journal can only succeed when it is appreciated by an enthusiastic community of authors, reviewers, editors and readers. We are confident that the new opportunities offered by <italic>MycoKeys</italic> will be embraced and warmly welcomed by all mycologosts to the great benefit of scientists, research funders and society in general.</p>
+        <p>Finally, we would like to thank all of the authors, editors and readers of MycoKeys for their support of the journal, as well as the translators of the paper of <xref ref-type="bibr" rid="B2">Knapp et al. (2011)</xref>: Li-Bing Zhang (Chinese), Jefferson Prado, Regina Y. Hirai, and Cíntia Kameyama (Portuguese),Irina Belyaeva and Maria Vorontsova (Russian), and Carmen Ulloa Ulloa, Lourdes Rico Arce, and Renée H. Fortunato (Spanish). Special thanks are due to all teams that made possible the establishment of the innovative workflow of Pensoft’s journals: <ext-link ext-link-type="uri" xlink:href="http://www.plazi.org">Plazi</ext-link>, the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/">GBIF</ext-link>), the Encyclopedia of Life (<ext-link ext-link-type="uri" xlink:href="http://www.eol.org/">EOL</ext-link>), the Biodiversity Heritage Library (<ext-link ext-link-type="uri" xlink:href="http://www.biodiversitylibrary.org/">BHL</ext-link>), the National Library of Medicine of the U.S. (<ext-link ext-link-type="uri" xlink:href="http://www.nlm.nih.gov/">NLM</ext-link>), and the <ext-link ext-link-type="uri" xlink:href="http://www.vbrant.eu">ViBRANT</ext-link> EU FP7 project.</p>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hawksworth</surname> <given-names>DL</given-names></name></person-group> (<year>2011</year>)<article-title> A new dawn for the naming of fungi: impacts of decisions made in Melbourne in July 2011 on the future publication and regulation of fungal names.</article-title> <source>MycoKeys </source> <volume>1</volume>: <fpage>7</fpage>-<lpage>20</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/mycokeys.1.2062" xlink:type="simple">10.3897/mycokeys.1.2062</ext-link></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>McNeill</surname> <given-names>J</given-names></name><name name-style="western"><surname>Turland</surname> <given-names>N</given-names></name></person-group> (<year>2011</year>)<article-title> Changes to publication requirements made at the XVIII International Botanical Congress in Melbourne - what does e-publication mean for you?</article-title> <source>MycoKeys</source> <volume>1</volume>: <fpage>21</fpage>-<lpage>28</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/mycokeys.1.1961" xlink:type="simple">10.3897/mycokeys.1.1961</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>Wright</surname> <given-names>D</given-names></name></person-group> (<year>2010</year>)<article-title> E-publish or perish?</article-title> In: <person-group><name name-style="western"><surname>Polaszek</surname> <given-names>A</given-names></name></person-group> (<role>Ed</role>). <issue-title>Systema Naturae 250: The Linnean Ark.</issue-title> <source>Taylor and Francis</source>: <fpage>83</fpage>-<lpage>93</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Miller</surname> <given-names>J</given-names></name><name name-style="western"><surname>Funk</surname> <given-names>V</given-names></name><name name-style="western"><surname>Wagner</surname> <given-names>W</given-names></name><name name-style="western"><surname>Barrie</surname> <given-names>F</given-names></name><name name-style="western"><surname>Hoch</surname> <given-names>P</given-names></name><name name-style="western"><surname>Herendeen</surname> <given-names>P</given-names></name></person-group> (<year>2011</year>)<article-title> Outcomes of the 2011 Botanical Nomenclature Section at the XVIII International Botanical Congress.</article-title> <source>PhytoKeys </source> <volume>5</volume>: <fpage>1</fpage>-<lpage>3</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/phytokeys.5.1850" xlink:type="simple">10.3897/phytokeys.5.1850</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name><name name-style="western"><surname>Kress</surname> <given-names>W</given-names></name><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>Li</surname> <given-names>DZ</given-names></name><name name-style="western"><surname>Renner</surname> <given-names>S</given-names></name></person-group> (<year>2010a</year>)<article-title> Fast, linked, and open – the future of taxonomic publishing for plants: launching the journal PhytoKeys.</article-title> <source>PhytoKeys </source> <volume>1</volume>: <fpage>1</fpage>-<lpage>14</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/phytokeys.1.642" xlink:type="simple">10.3897/phytokeys.1.642</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Penev</surname> <given-names>L</given-names></name><name name-style="western"><surname>Agosti</surname> <given-names>D</given-names></name><name name-style="western"><surname>Georgiev</surname> <given-names>T</given-names></name><name name-style="western"><surname>Catapano</surname> <given-names>T</given-names></name><name name-style="western"><surname>Miller</surname> <given-names>J</given-names></name><name name-style="western"><surname>Blagoderov</surname> <given-names>V</given-names></name><name name-style="western"><surname>Roberts</surname> <given-names>D</given-names></name><name name-style="western"><surname>Smith</surname> <given-names>VS</given-names></name><name name-style="western"><surname>Brake</surname> <given-names>I</given-names></name><name name-style="western"><surname>Ryrcroft</surname> <given-names>S</given-names></name><name name-style="western"><surname>Scott</surname> <given-names>B</given-names></name><name name-style="western"><surname>Johnson</surname> <given-names>NF</given-names></name><name name-style="western"><surname>Morris</surname> <given-names>RA</given-names></name><name name-style="western"><surname>Sautter</surname> <given-names>G</given-names></name><name name-style="western"><surname>Chavan</surname> <given-names>V</given-names></name><name name-style="western"><surname>Robertson</surname> <given-names>T</given-names></name><name name-style="western"><surname>Remsen</surname> <given-names>D</given-names></name><name name-style="western"><surname>Stoev</surname> <given-names>P</given-names></name><name name-style="western"><surname>Parr</surname> <given-names>C</given-names></name><name name-style="western"><surname>Knapp</surname> <given-names>S</given-names></name><name name-style="western"><surname>Kress</surname> <given-names>WJ</given-names></name><name name-style="western"><surname>Thompson</surname> <given-names>FC</given-names></name><name name-style="western"><surname>Erwin</surname> <given-names>T</given-names></name></person-group> (<year>2010b</year>)<article-title> Semantic tagging of and semantic enhancements to systematics papers. ZooKeys working example.</article-title> <source>ZooKeys </source> <volume>50</volume>: <fpage>1</fpage>-<lpage>16</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/zookeys.50.538" xlink:type="simple">10.3897/zookeys.50.538</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Raja</surname> <given-names>HA</given-names></name><name name-style="western"><surname>Schoch</surname> <given-names>CL</given-names></name><name name-style="western"><surname>Hustad</surname> <given-names>VP</given-names></name><name name-style="western"><surname>Shearer</surname> <given-names>CA</given-names></name><name name-style="western"><surname>Miller</surname> <given-names>AN</given-names></name></person-group> (<year>2011</year>)<article-title> Testing the phylogenetic utility of MCM7 in the Ascomycota.</article-title> <source>MycoKeys </source> <volume>1</volume>: <fpage>63</fpage>-<lpage>94</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/mycokeys.1.1966" xlink:type="simple">10.3897/mycokeys.1.1966</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Suber</surname> <given-names>P</given-names></name></person-group> (<year>2010</year>)<source> Open Access Overview: Focusing on open access to peer-reviewed research articles and their preprints.</source> <ext-link ext-link-type="uri" xlink:href="http://www.earlham.edu/~peters/fos/overview.htm" xlink:type="simple">http://www.earlham.edu/~peters/fos/overview.htm</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

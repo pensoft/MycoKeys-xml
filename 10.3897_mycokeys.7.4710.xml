@@ -1,0 +1,668 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title>MycoKeys</journal-title>
+                <abbrev-journal-title>MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.7.4710</article-id>
+            <title-group>
+                <article-title>Three new species of foetid
+                    <italic>Gymnopus</italic> in New Zealand</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Cooper</surname>
+                        <given-names>Jerry A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Leonard</surname>
+                        <given-names>Pat L.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Landcare Research, PO Box 40, Lincoln, 7640, New Zealand
+            </aff>
+            <aff id="A2">
+                <label>2</label>Motueka, New Zealand
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Jerry Cooper (<email xlink:type="simple">cooperj@landcareresearch.co.nz</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: S. Redhead</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2013</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>26</day>
+                <month>6</month>
+                <year>2013</year>
+            </pub-date>
+            <issue>7</issue>
+            <fpage>31</fpage>
+            <lpage>44</lpage>
+            <history>
+                <date date-type="received">
+                    <day>18</day>
+                    <month>1</month>
+                    <year>2013</year>
+                </date>
+                <date date-type="accepted">
+                    <day>24</day>
+                    <month>6</month>
+                    <year>2013</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Jerry A. Cooper, Pat L. Leonard</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>We describe three new species, <italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic>, <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> and <italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic>, from New Zealand that are similar to <italic><tp:taxon-name>Gymnopus foetidus</tp:taxon-name></italic> (= <italic><tp:taxon-name>Micromphale foetidum</tp:taxon-name></italic>), growing on wood, with an insititious stipe and foetid odour. The position of these species within the /gymnopoid clade is confirmed by ITS sequence analysis.</p>
+            </abstract>
+            <kwd-group>
+                <label>Key words</label>
+                <kwd><italic>Gymnopus</italic></kwd>
+                <kwd><italic>Micromphale</italic></kwd>
+                <kwd>New Zealand</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The new species we describe are members of the family <tp:taxon-name>Omphalotaceae</tp:taxon-name>, Matheney et al. (2006) and have the morphological characteristics of <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> section <italic><tp:taxon-name>Vestipedes</tp:taxon-name></italic> subsection <italic><tp:taxon-name>Impudicae</tp:taxon-name></italic> (Antonín &amp; Noordeloos 2010) which contains <italic><tp:taxon-name>Micromphale foetidum</tp:taxon-name></italic> (Sowerby) Singer, the type species of the formerly recognised genus <italic><tp:taxon-name>Micromphale</tp:taxon-name></italic> (e.g. in the sense of <xref ref-type="bibr" rid="B15">Singer 1986</xref>). Fruitbodies of the group often have a foetid odour when crushed, described as like rotting cabbage or garlic. The only existing records of this group in New Zealand were found to be misapplications of names applied to northern hemisphere species.</p>
+            <p><xref ref-type="bibr" rid="B12">Moncalvo et al. (2002)</xref> investigated nLSU rDNA sequence data for a large number of agarics and recognised a /micromphale clade containing <!--PageBreak--><italic><tp:taxon-name>Micromphale foetidum</tp:taxon-name></italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF261328" xlink:type="simple">AF261328</ext-link>). The clade also contained <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> pro parte, <italic><tp:taxon-name>Caripia</tp:taxon-name></italic>, <italic><tp:taxon-name>Setulipes</tp:taxon-name></italic> and <italic><tp:taxon-name>Micromphale</tp:taxon-name></italic>. Their /micromphale clade was nested within a broader /lentinuloid clade including <italic><tp:taxon-name>Rhodocollybia</tp:taxon-name></italic>, <italic><tp:taxon-name>Marasmiellus ramealis</tp:taxon-name></italic> (Bull.) Singer, <italic><tp:taxon-name>Marasmius scorodonius</tp:taxon-name></italic> (Fr.) Fr. and <italic><tp:taxon-name>Lentinula</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B8">Mata et al. (2004)</xref>, based on an LSU analysis, also identified a clade containing sequences of <italic><tp:taxon-name>Micromphale foetidum</tp:taxon-name></italic> and material named as <italic><tp:taxon-name>Setulipes androsaceus</tp:taxon-name></italic> (L.) Antonín and <italic><tp:taxon-name>Gymnopus fusipes</tp:taxon-name></italic> (Bull.) Gray, the type species of those respective genera. They adopted a broad concept of <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> incorporating these genera together with <italic><tp:taxon-name>Marasmiellus</tp:taxon-name></italic>. <xref ref-type="bibr" rid="B17">Wilson and Desjardin (2005)</xref> used LSU to examine the group and identified a /gymnopus clade containing <italic><tp:taxon-name>Gymnopus fusipes</tp:taxon-name></italic>, <italic><tp:taxon-name>Micromphale foetidum</tp:taxon-name></italic>, <italic><tp:taxon-name>Setulipes androsaceus</tp:taxon-name></italic> at its core with <italic><tp:taxon-name>Micromphale perforans</tp:taxon-name></italic> (Hoffm.) Gray lying on its boundary. These results were broadly supported by <xref ref-type="bibr" rid="B9">Mata et al. (2006)</xref> in their analysis using ITS1–5.8–ITS2 but they demonstrate clustering of <italic><tp:taxon-name>Gymnopus fusipes</tp:taxon-name></italic>, <italic><tp:taxon-name>Setulipes androsaceus</tp:taxon-name></italic> and <italic><tp:taxon-name>Micromphale</tp:taxon-name></italic> on the periphery of a concentration of <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic>-labelled samples. On the basis of these results the currently generally accepted concept of <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> is broad (e.g. <xref ref-type="bibr" rid="B13">Noordeloos 2012</xref>), and incorporates a number of previously recognised genera. <xref ref-type="bibr" rid="B5">Hughes et al. (2010)</xref> erected the genus <italic><tp:taxon-name>Connopus</tp:taxon-name></italic> to accommodate the <italic><tp:taxon-name>Gymnopus acervatus</tp:taxon-name></italic> group within the gymnopoid clade and presented LSU and ITS data indicating its placement close to <italic><tp:taxon-name>Rhodocollybia</tp:taxon-name></italic>. Their LSU analysis supports a core gymnopoid clade containing <italic><tp:taxon-name>Gymnopus fusipes</tp:taxon-name></italic>, <italic><tp:taxon-name>Setulipes androsaceus</tp:taxon-name></italic>, which once again places <italic><tp:taxon-name>Micromphale foetidum</tp:taxon-name></italic> and <italic><tp:taxon-name>Micromphale perforans</tp:taxon-name></italic> on a boundary with a sister group containing <italic><tp:taxon-name>Rhodocollybia</tp:taxon-name></italic>, <italic><tp:taxon-name>Marasmiellus juniperinus</tp:taxon-name></italic> Murrill and various <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> species. The /gymnopus, cladeas interpreted by Hughes et al.,contains significant substructure. A multi-gene analysis including more representatives may indicate the recognition of further segregates at genus-level. In this paper we accept our newly described species within the current broad concept of <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> whilst recognising their close alliance to the historical concept of the genus <italic><tp:taxon-name>Micromphale</tp:taxon-name></italic>.</p>
+            <p>For this study we analysed ITS1–5.8–ITS2 data for related New Zealand collections together with representative sequences from Genbank, many from the studies cited above. The structure of our ITS tree is consistent with these previous analyses, and once again identifies a /micromphale clade closely linked to core <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> species. ITS data generated for a number of representative collections of our newly described taxa support species concepts based on morphology.</p>
+        </sec>
+        <sec sec-type="Materials and methods">
+            <title>Materials and methods</title>
+            <sec sec-type="Morphological protocols">
+                <title>Morphological protocols</title>
+                <p>Spore dimensions are stated as the mean ± 1.5 SD of 20 measurements, thus covering 86% of measurements under an assumed normal distribution model. Fresh or dried material was examined mounted in 10% KOH or Melzer’s reagent. Material was hand-sectioned. Some micrographs were obtained under DIC conditions. Measurements were always taken without DIC optics and an extended objective iris in order to maximise boundary contrast.</p>
+                <!--PageBreak-->
+            </sec>
+            <sec sec-type="Phylogenetic protocols">
+                <title>Phylogenetic protocols</title>
+                <p>DNA extraction and sequencing followed the protocols outlined in <xref ref-type="bibr" rid="B2">Cooper and Leonard (2012)</xref>. We downloaded from Genbank selected sequences used in cited publications, together with close BLAST matches, <xref ref-type="table" rid="T1">Table 1</xref>. General sequence management was carried out using Geneious (<xref ref-type="bibr" rid="B3">Drummond et al. 2011</xref>). Data exchange between applications was facilitated using Alter (<xref ref-type="bibr" rid="B4">Glez-Peña et al. 2010</xref>). Sequence alignment was carried out using MAFFT within Geneious (<xref ref-type="bibr" rid="B6">Katoh et al. 2002</xref>). A maximum likelihood analysis was executed using RAxML (<xref ref-type="bibr" rid="B16">Stamatakis 2006</xref>), with 100 bootstrap runs, launched from Topali 2.5 (<xref ref-type="bibr" rid="B11">Milne et al. 2004</xref>). The substitution model of GTR+G was recommended by Topali 2.5. We selected a sequence of <italic><tp:taxon-name>Anthracophyllum archeri</tp:taxon-name></italic> (Berk.) Pegler as the outgroup.</p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table 1.</label>
+                    <caption><p>ITS Sequences used in the analysis. New sequences generated for this analysis are in bold.&lt;br/&gt;</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Genbank #</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Collection #</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Organism</bold></th>
+                                <th rowspan="1" colspan="1"><bold>PDD Voucher#</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Country</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ444308" xlink:type="simple">DQ444308</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN50049</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Anthracophyllum archeri</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ480112" xlink:type="simple">DQ480112</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN58672</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus alkalivirens</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Greenland</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ480114" xlink:type="simple">DQ480114</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN55834</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus alpinus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Scotland</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY256691" xlink:type="simple">AY256691</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN57012</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus aquosus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Germany</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449971" xlink:type="simple">DQ449971</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59738</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus aquosus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248409" xlink:type="simple">KC248409</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>PL6304</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_101750">PDD 101750</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248389" xlink:type="simple">KC248389</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>PL126406</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_101754">PDD 101754</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248400" xlink:type="simple">KC248400</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>PL189402</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_76358">PDD 76358</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248403" xlink:type="simple">KC248403</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC9334</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_80771">PDD 80771</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248405" xlink:type="simple">KC248405</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10084</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87181">PDD 87181</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248404" xlink:type="simple">KC248404</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10336</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87424">PDD 87424</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248394" xlink:type="simple">KC248394</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10395</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87483">PDD 87483</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248408" xlink:type="simple">KC248408</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10817</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87661">PDD 87661</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248392" xlink:type="simple">KC248392</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>RHP13063</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_90101">PDD 90101</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248391" xlink:type="simple">KC248391</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>KWH12891</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_90119">PDD 90119</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248393" xlink:type="simple">KC248393</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>RHP12871</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_90132">PDD 90132</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248397" xlink:type="simple">KC248397</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC11005</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95459">PDD 95459</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248395" xlink:type="simple">KC248395</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC11093</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95544">PDD 95544</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY256690" xlink:type="simple">AY256690</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN57012</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus dryophilus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449974" xlink:type="simple">DQ449974</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN58087</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus dryophilus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Costa Rica</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF505778" xlink:type="simple">AF505778</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59141</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus dysodes</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Costa Rica</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY256694" xlink:type="simple">AY256694</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59457</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus earleae</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449973" xlink:type="simple">DQ449973</ext-link></td>
+                                <td rowspan="1" colspan="1">TFB10718</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus exculptus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Greenland</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF505780" xlink:type="simple">AF505780</ext-link></td>
+                                <td rowspan="1" colspan="1">FB11434</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus foetidum</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY256710" xlink:type="simple">AY256710</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59217</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus fusipes</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">France</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248407" xlink:type="simple">KC248407</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC9585</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_81086">PDD 81086</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248410" xlink:type="simple">KC248410</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10225</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87315">PDD 87315</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248411" xlink:type="simple">KC248411</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>PL25404</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_101753">PDD 101753</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248406" xlink:type="simple">KC248406</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10089</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87186">PDD 87186</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248398" xlink:type="simple">KC248398</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10310</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87398">PDD 87398</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248401" xlink:type="simple">KC248401</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10322</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87410">PDD 87410</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248399" xlink:type="simple">KC248399</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10815</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87659">PDD 87659</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248402" xlink:type="simple">KC248402</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10816</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87660">PDD 87660</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248396" xlink:type="simple">KC248396</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC10495</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87675">PDD 87675</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KC248390" xlink:type="simple">KC248390</ext-link></bold></td>
+                                <td rowspan="1" colspan="1"><bold>JAC11038</bold></td>
+                                <td rowspan="1" colspan="1"><bold><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic></bold></td>
+                                <td rowspan="1" colspan="1"><bold><ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95489">PDD 95489</ext-link></bold></td>
+                                <td rowspan="1" colspan="1">New Zealand</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF505779" xlink:type="simple">AF505779</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN56658</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus impudicus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Costa Rica</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449986" xlink:type="simple">DQ449986</ext-link></td>
+                                <td rowspan="1" colspan="1">Duke RV94154</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus iocephalus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY256693" xlink:type="simple">AY256693</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59532</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus junquilleus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449960" xlink:type="simple">DQ449960</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN50620</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus ocior</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Switzerland</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449972" xlink:type="simple">DQ449972</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN56321</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus subsulphureus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY263453" xlink:type="simple">AY263453</ext-link></td>
+                                <td rowspan="1" colspan="1">AWW115</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Gymnopus vitellinipes</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Java/Bali</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AY256708" xlink:type="simple">AY256708</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59540</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Marasmiellus juniperinus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU234007" xlink:type="simple">GU234007</ext-link></td>
+                                <td rowspan="1" colspan="1">JB14</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Marasmius androsaceus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Sweden</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ444312" xlink:type="simple">DQ444312</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN50482</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Marasmius androsaceus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">UK</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ444311" xlink:type="simple">DQ444311</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN50704</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Marasmius androsaceus</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">USA</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/DQ449990" xlink:type="simple">DQ449990</ext-link></td>
+                                <td rowspan="1" colspan="1">TENN59293</td>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Micromphale brassicolens</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">Austria</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+                <!--PageBreak-->
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <p>Our analysis places the New Zealand taxa in a monophyletic clade close to <italic><tp:taxon-name>Gymnopus foetidum</tp:taxon-name></italic> and <italic><tp:taxon-name>Gymnopus brassicolens</tp:taxon-name></italic> historically recognised in the genus <italic><tp:taxon-name>Micromphale</tp:taxon-name></italic> (<xref ref-type="fig" rid="F1">Fig. 1</xref>). The combination of sequence data and morphological analysis of many collections indicate two major groups which we equate with the newly described species <italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic> and <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic>. In addition we recognise a further species, <italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic>, which is poorly distinguished from <italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic> on the basis of ITS sequences but which is morphologically consistently different. Minor sequence variation in the <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> group does not correlate with morphology and we choose to recognise these specimens as a single species. More information and images of collections may be found on the Landcare Research website (Systematics Collections Data).</p>
+            <fig id="F1" position="float" orientation="portrait">
+                <label>Figure 1.</label>
+                <caption><p>Maximum likelihood cladogram of selected ITS sequences, with bootstrap proportion. Red bar = <italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic>, green bar = <italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic>, blue bar = <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic></p></caption>
+                <graphic xlink:href="MycoKeys-007-031-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+            </fig>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gymnopus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">ceraceicola</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Gymnopus_ceraceicola</object-id>
+                        <object-id xlink:type="simple">Holotype: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87181">PDD 87181</ext-link>. Registration identifier: IF550091</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> is distinguished from related New Zealand species by the combination of pruinose, central stipe and dark pileus.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Macromorphology">
+                    <title>Macromorphology.</title>
+                    <p>Pileus 5–20 mm, generally broadly convex to applanate, but sometimes campanulate when young, brick to purplish chestnut, minutely felty, radially furrowed and striate towards the margin, margin slightly fimbriate. Lamellae cream, creamy yellow to vinaceous buff, waxy, adnate. Lamellae present, in series of <!--PageBreak-->three: intercalated short/long/short. Stipe central, cartilaginous, 10–20 × 1–2 mm, equal, brown vinaceous, sometimes paler towards apex or base, always entirely finely pruinose. Stipe base insititious and always associated with a thin waxy to chalky cream layer of partially gelatinised hyphae covering the substrate. This layer is often extensive, with a distinct margin, and often green with algal cells. Fruitbodies with garlic/rotten cabbage smell, especially when crushed.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Micromorphology">
+                    <title>Micromorphology.</title>
+                    <p>Pileipellis a partially gelatinised radially arranged clamped cutis of smooth hyphae to 5 µm diameter, with brown extra-cellular encrustation. Epidermal layer to 140 µm. Subepidermis of thick glassy–walled non-gelatinised smooth hyaline hyphae, weakly dextrinoid. Basidia clavate to 40 × 8 µm. Sterigmata to 7 µm, 4–spored. Basidioles cylindrical, tapering towards apex, 40 × 4 µm. Spores hyaline, lacrymoid, 7.9 ± 1 × 4.5 ± 0.6 µm, Q = 1.8 ± 0.1 including apiculus. Cheilocystidia and pleurocystidia not observed. Stipitipellis a cutis of brown parallel hyphae, to 5 µm wide. Caulocystidia smooth, hyaline, agglutinated into fascicles.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat.</title>
+                    <p>Colonies of a few to hundreds of fruitbodies on bark of fallen, dead branches and twigs, especially <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic>.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>Broadly distributed and common in both North and South Islands of New Zealand.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>Ceraceicola, indicating association with a basal waxy layer, although this feature is common to the three species described here.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes">
+                    <title>Notes.</title>
+                    <p>Sequence data indicate variability in the taxon but the morphological details are constant and we choose to recognise a single species. New Zealand records of <italic><tp:taxon-name>Gymnopus (Micromphale) foetidum</tp:taxon-name></italic> and <italic><tp:taxon-name>Gymnopus (Micromphale) brassicolens</tp:taxon-name></italic> are attributable to <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic>. Authentic New Zealand material of these two species has not been identified. <italic><tp:taxon-name>Gymnopus brassicolens</tp:taxon-name></italic> has paler pileus colours, non-gelatinized pileipellis, cheilocystidia and pileipellis elements with lateral projections, and larger basidiospores. <italic><tp:taxon-name>Gymnopus foetidus</tp:taxon-name></italic> is macroscopically similar but does not possess the agglutinate fascicles of caulocystidia of <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic>.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Specimens examined">
+                    <title>Specimens examined.</title>
+                    <p>New Zealand, North Island: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_40852">PDD 40852</ext-link>, on dead wood, Anawhata Rd., Waitakare Ranges, Collector P.R. Johnston &amp; G. Samuels, 9 June 1981. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_80771">PDD 80771</ext-link>, on dead wood of <italic><tp:taxon-name>Beilschmiedia tawa</tp:taxon-name></italic>, Erua Forest, Taupo, Collector J.A. Cooper (JAC9334), 4 April 2005. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87382">PDD 87382</ext-link>, on dead wood of <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>, Mt Holdsworth, Gentle Annie Track, Wairarapa, Collector J.A. Cooper (JAC10294), 11 May 2007. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87483">PDD 87483</ext-link>, on wood, Mt Holdsworth, Donnelly Flat Loop Track, Wairarapa, Collector G. Gates &amp; D. Ratkowsky (JAC10395), 7 May 2007. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87424">PDD 87424</ext-link>, on dead bark of <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic>, Mt Holdsworth, Gentle Annie Track, Wairarapa, Collector J.A. Cooper (JAC10336), 11 May 2007. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95544">PDD 95544</ext-link>, on bark of <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>, Rimutaka Forest Park, Wellington, Collector J.A. Cooper (JAC11093), 14 May 2009. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95545">PDD 95545</ext-link>, on bark of dead branch of <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>, Rimutaka Forest Park, Wellington, Collector J.A. Cooper (JAC11094), 14 May 2009.</p>
+                    <p>New Zealand, South Island: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_76357">PDD 76357</ext-link>, on dead twig of <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic>, Canaan Road Track, Nelson, Collector P.L. Leonard, 30 April 2002. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_96730">PDD 96730</ext-link>, on dead wood, Wangapeka, Nelson, collector P.L. Leonard (PL126406), 14 April, 2006. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_90101">PDD 90101</ext-link>=TENN 061068, on bark, vicinity of Seddonville, Charming Creek Track, Nelson, Collector R.H. Petersen (RHP 13063), 11 May 2006. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_76358">PDD 76358</ext-link>, on bark on dead branch of <italic><tp:taxon-name>Nothofagus menziesii</tp:taxon-name></italic>, Lake Daniels Track, Nelson, Collector P.L. Leonard (PL189402), 2 April 2002. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95459">PDD 95459</ext-link>, on bark of dead branch of <italic><tp:taxon-name>Nothofagus solandri</tp:taxon-name></italic>, Kowai Bush, Springfield, Mid Canterbury, Collector J.A. Cooper (JAC11005), 2 May 2009. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95462">PDD 95462</ext-link>, on bark of dead branch of <italic><tp:taxon-name>Nothofagus solandri</tp:taxon-name></italic>, Kowai Bush, Springfield, Mid Canterbury, Collector J.A. Cooper (JAC11008), 2 May 2009. <bold>Holotype</bold> <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87181">PDD 87181</ext-link>, on dead branch of <italic><tp:taxon-name>Nothofagus fusca</tp:taxon-name></italic>, Hinewai Reserve, Akaroa, Mid Canterbury, Collector J.A. Cooper (JAC10084), 3 June 2006. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87661">PDD 87661</ext-link>, on dead twigs of <italic><tp:taxon-name>Leptospermum scoparium</tp:taxon-name></italic>, Government Track, Waipori Falls Road, Dunedin, Collector K. Soop (JAC10817), 12 May 2008. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_96636">PDD 96636</ext-link>, on dead wood of <italic><tp:taxon-name>Nothofagus solandri</tp:taxon-name></italic>, Lake Hauroko, Fiordland, Collector P. White (JAC12522). 7 May 2012. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_90119">PDD 90119</ext-link>=TENN061007, on twigs, Vicinity of Te Anau, Kepler Track from Rainbow Reach, Fiordland, Collector K.W. Hughes (KWH12891), 30 April 2006. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_90132">PDD 90132</ext-link>=TENN060986, vicinity Manapouri, Borland Lodge, Nature Track, Fiordland, Collector R.H. Petersen (RHP12871), 29 April 2006.</p>
+                    <fig id="F2" position="float" orientation="portrait">
+                        <label>Figure 2.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> Holotype, <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87181">PDD 87181</ext-link>. Fruitbodies.</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F3" position="float" orientation="portrait">
+                        <label>Figure 3.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> Holotype, <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87181">PDD 87181</ext-link>. <bold>A</bold> Spores (KOH) <bold>B</bold> Agglutinated fascicles of caulocystidia on stipe (KOH).</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g003.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gymnopus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">imbricatus</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Gymnopus_imbricatus</object-id>
+                        <object-id xlink:type="simple">Holotype: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95489">PDD 95489</ext-link>. Registration identifier: IF550092</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic> is distinguished from related New Zealand species by the smooth stipe, larger basidiospores, and imbricate habit.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Macromorphology">
+                    <title>Macromorphology.</title>
+                    <p>Pileus 3–20 mm in diameter convex, cream to fawn, minutely felty, radially furrowed and striate towards the margin, margin fimbriate. Lamellae cream to creamy yellow, adnate. Lamellae present, in series of two: short/long. Stipe mostly eccentric, cartilaginous, to 3 × 0.5 mm, equal, umber to black, sometimes paler <!--PageBreak-->towards base, always entirely smooth. Stipe base insititious and usually associated with a thin waxy to chalky cream layer of partially gelatinised hyphae covering the substrate, usually green with algal cells. Fruitbodies with garlic/rotten cabbage smell, especially when crushed.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Micromorphology">
+                    <title>Micromorphology.</title>
+                    <p>Pileipellis a partially gelatinised irregular clamped cutis of hyphae 4 µm diameter, without intra or extracellular pigmentation, terminal layer with gelatinised coralloid elements, to 2 µm wide, and occasional small finger-like trichodermal elements to 20 µm. Epidermal layer to 25 µm. Subepidermis of thick glassy-walled non-gelatinised smooth hyaline hyphae, weakly dextrinoid. Basidia clavate to 50 × 10 µm. Sterigmata to 5 µm, 4–spored. Basidioles to 50 × 6 µm cylindrical and tapered towards apex. Spores hyaline, lacrymoid 9.8 ± 1.2 × 5.1 ± 0.4 µm, Q = 1.9 ± 0.3 including apiculus. Cheilocystidia and pleurocystidia not observed. Stipitipellis a cutis of parallel brown hyphae, to 6 µm wide. Caulocystidia absent.</p>
+                    <!--PageBreak-->
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat.</title>
+                    <p>Forming imbricate colonies of dozens to hundreds of fruitbodies on bark and decorticate wood of dead branches and twigs, especially <italic><tp:taxon-name>Kunzea</tp:taxon-name></italic> and <italic><tp:taxon-name>Leptospermum</tp:taxon-name></italic> but occurs with other trees. Also occurs at the stem base of live trees.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>Broadly distributed and common in both North and South Islands of New Zealand.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>Imbricatus, pertaining to the often tiered and overlapping eccentrically stemmed caps.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Specimens examined">
+                    <title>Specimens examined.</title>
+                    <p>New Zealand, North Island: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_80766">PDD 80766</ext-link>, on bark of <italic><tp:taxon-name>Beilschmedia tawa</tp:taxon-name></italic>, Erua Forest, Taupo, collector J.A. Cooper (JAC9329), 4 April, 2005. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87398">PDD 87398</ext-link>, bark on dead branch of <italic><tp:taxon-name>Nothofagus</tp:taxon-name></italic>, Waiohine Gorge, Wairarapa, Collector J.A. Cooper (JAC10310), 10 May 2007. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87410">PDD 87410</ext-link>, dead stems of <italic><tp:taxon-name>Ripogonum scandens</tp:taxon-name></italic>, Waiohine Gorge, Wairarapa, Collector J.A. Cooper (JAC10322), 10 May 2007.</p>
+                    <p>New Zealand, South Island: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_101753">PDD 101753</ext-link>, dead branches of <italic><tp:taxon-name>Nothofagus menziesii</tp:taxon-name></italic>, Riwaka Resurgence, Nelson, Collector P.L. Leonard (PL25404), 10 April, 2006. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_96141">PDD 96141</ext-link>, dead twigs of <italic><tp:taxon-name>Kunzea ericoides</tp:taxon-name></italic>, Mt Fyffe Track, Kaikoura, collector J.A. Cooper (JAC11734), 26 Feb. 2011. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_80154">PDD 80154</ext-link>, dead log of <italic><tp:taxon-name>Nothofagus menziesii</tp:taxon-name></italic>, Lewis Pass, Buller, collector J.A. Cooper (JAC8287), 24 November, 2001. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_80157">PDD 80157</ext-link>, on dead de-corticate log, Lyell Walkway, Nelson, collector J.A. Cooper (JAC80157), 25 November, 2001. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87675">PDD 87675</ext-link>, living stem of <italic><tp:taxon-name>Fuchsia excorticata</tp:taxon-name></italic>, Saddle Hill, Mid Canterbury, Collector J.A. Cooper (JAC10495), 22 May 2005. <bold>Holotype</bold> <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95489">PDD 95489</ext-link> (<xref ref-type="fig" rid="F4">Figs 4</xref> and <xref ref-type="fig" rid="F5">5</xref>), base of live trees of <italic><tp:taxon-name>Kunzea ericoides</tp:taxon-name></italic>, Kennedy’s Bush, Mid Canterbury, Collector J.A. Cooper (JAC11038), 24 May 2009. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_79799">PDD 79799</ext-link>, bark of dead tree, Kennedy’s Bush, Mid Canterbury, Collector J.A. Cooper (JAC8921), 20 March 2004. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87186">PDD 87186</ext-link>, on bark of living tree of <italic><tp:taxon-name>Kunzea ericoides</tp:taxon-name></italic>, Hinewai Reserve, Akaroa, Mid Canterbury, Collector J.A. Cooper (JAC10089), 3 June 2006. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87660">PDD 87660</ext-link>, fallen log, Racemans Track, Silverstream Valley, Dunedin, Collector S. Dodd (JAC10816), 13 May 2008. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87659">PDD 87659</ext-link>, on dead twigs of <italic><tp:taxon-name>Kunzea ericoides</tp:taxon-name></italic>, Evansdale Glen, Dunedin, Collector P.R. Johnston (JAC10815), 12 May 2008.</p>
+                    <fig id="F4" position="float" orientation="portrait">
+                        <label>Figure 4.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic>. <bold>A</bold> Holotype <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95489">PDD 95489</ext-link>. Fruitbodies, scale 1 cm <bold>B</bold> <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87186">PDD 87186</ext-link>. Scale 1 mm.</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g004.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F5" position="float" orientation="portrait">
+                        <label>Figure 5.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic> Holotype <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_95489">PDD 95489</ext-link>. Spores (in KOH).</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g005.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+            <tp:taxon-treatment>
+                <tp:nomenclature>
+                    <tp:taxon-name>
+                        <tp:taxon-name-part taxon-name-part-type="genus">Gymnopus</tp:taxon-name-part>
+                        <tp:taxon-name-part taxon-name-part-type="species">hakaroa</tp:taxon-name-part>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Gymnopus_hakaroa</object-id>
+                        <object-id xlink:type="simple">Holotype: <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87315">PDD 87315</ext-link>. Registration identifier: IF550093</object-id>
+                    </tp:taxon-name>
+                    <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                </tp:nomenclature>
+                <tp:treatment-sec sec-type="Diagnosis">
+                    <title>Diagnosis.</title>
+                    <p><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> is distinguished from <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> by smaller stature and a pruinose stipe lacking fascicles of agglutinate caulocystidia. It is distinguished from <italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic> by non-imbricate growth, a consistently central stipe, and smaller basidiospores.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Macromorphology">
+                    <title>Macromorphology.</title>
+                    <p>Pileus 3–10 mm diam. convex, rusty tawny to umber, minutely felty, weakly radially furrowed and striate towards the margin. Lamella cream to yellow, waxy. Lamellae present, in series of three: intercalated short/long/short. Stipe central, cartilaginous, to 5 × 0.6 mm, equal, umber to black, paler towards base, smooth to minutely pruinose. Stipe base insititious and always associated with an obvious waxy to chalky cream layer of partially gelatinised hyphae covering the substrate, <!--PageBreak-->usually green with algal cells. Fruitbodies with garlic/rotten cabbage smell, especially when crushed.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Micromorphology">
+                    <title>Micromorphology.</title>
+                    <p>Pileipellis a partially gelatinised radially arranged clamped cutis of smooth hyphae to 3 µm in diameter, with brown extra-cellular encrustation. Epidermal layer to 80 µm. Subepidermis of thick glassy-walled non-gelatinised smooth hyaline hyphae, to 3 µm in diameter, weakly dextrinoid. Basidia clavate to 40 × 8 µm. <!--PageBreak-->Sterigmata to 7 µm, 2–4-spored. Basidioles cylindrical and tapered towards apex 40 × 6 µm. Spores hyaline, lacrymoid 8.3 ± 1 × 4.8 ± 0.3 µm, including apiculus, Q = 1.7 ± 0.2. Cheilocystidia and pleurocystidia not observed. Stipitipellis a cutis of hyaline to pale brown hyphae, to 5 µm wide. Stipe without caulocystidia.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Habitat">
+                    <title>Habitat.</title>
+                    <p>Forming imbricate colonies of dozens to hundreds of fruitbodies on decorticate dead wood.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Distribution">
+                    <title>Distribution.</title>
+                    <p>Currently <italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> is only known from a single location on the Canterbury Port Hills in the South Island of New Zealand.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Etymology">
+                    <title>Etymology.</title>
+                    <p>Hakaroa, a Maori name for the Bank’s Peninsula region of New Zealand.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Notes">
+                    <title>Notes.</title>
+                    <p>Sequence data (<xref ref-type="fig" rid="F1">Fig. 1</xref>) indicates a close phylogenetic relationship to <italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic> but there are consistent and substantial morphological differences.</p>
+                </tp:treatment-sec>
+                <tp:treatment-sec sec-type="Specimens examined">
+                    <title>Specimens examined.</title>
+                    <p>New Zealand, South Island: Holotype <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87315">PDD 87315</ext-link> (<xref ref-type="fig" rid="F6">Figs 6</xref> and <xref ref-type="fig" rid="F7">7</xref>) on dead log, Kennedys Bush Reserve, Port Hills, Mid Canterbury, Collector J.A. Cooper (JAC10225), 11 Feb. 2007. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_81086">PDD 81086</ext-link> (<xref ref-type="fig" rid="F8">Fig. 8</xref>), on dead wood of <italic><tp:taxon-name>Kunzea ericoides</tp:taxon-name></italic>, Kennedys Bush Reserve, Port Hills, Mid Canterbury, Collector J.A. Cooper (JAC9585), 23 July, 2007. <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_96390">PDD 96390</ext-link>, on dead decorticate log of <italic><tp:taxon-name>Melicytus ramiflorus</tp:taxon-name></italic>, Kennedys Bush Reserve, Port Hills, Mid Canterbury, Collector J.A. Cooper (JAC11301), 17 April, 2010.</p>
+                    <fig id="F6" position="float" orientation="portrait">
+                        <label>Figure 6.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> <bold>A</bold> <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_81086">PDD 81086</ext-link>. Fruitbodies <bold>B</bold> scale= 2 mm</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g006.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F7" position="float" orientation="portrait">
+                        <label>Figure 7.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> Holotype <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87315">PDD 87315</ext-link>. Fruitbodies, showing waxy substratum.</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g007.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F8" position="float" orientation="portrait">
+                        <label>Figure 8.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> Holotype <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_87315">PDD 87315</ext-link>. Spores (KOH).</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g008.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F9" position="float" orientation="portrait">
+                        <label>Figure 9.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_96390">PDD 96390</ext-link>. Stipe base (arrow) with surrounding algal mat. Inset, primordial arising from algal mat.</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g009.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                    <fig id="F10" position="float" orientation="portrait">
+                        <label>Figure 10.</label>
+                        <caption><p><italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> <ext-link ext-link-type="uri" xlink:href="http://scd.landcareresearch.co.nz/specimen/PDD_96390">PDD 96390</ext-link>. Pockets of algal cells embedded in hyphal tissue of stem base (cotton blue stain).</p></caption>
+                        <graphic xlink:href="MycoKeys-007-031-g010.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                    </fig>
+                </tp:treatment-sec>
+            </tp:taxon-treatment>
+        </sec>
+        <sec sec-type="Dicussion">
+            <title>Dicussion</title>
+            <!--PageBreak-->
+            <p><!--PageBreak--><italic><tp:taxon-name>Gymnopus imbricatus</tp:taxon-name></italic>, as its name suggests forms dense populations of small imbricate fruitbodies. It is most commonly associated with tea-tree (<italic><tp:taxon-name>Kunzea ericoides</tp:taxon-name></italic> and <italic><tp:taxon-name>Leptospermum scoparium</tp:taxon-name></italic>) and often found on the bark at the base of living trees. <italic><tp:taxon-name>Gymnopus hakaroa</tp:taxon-name></italic> is larger, with a dark minutely pruinose cap and again forms dense populations on the bark of dead logs. These two species have smooth stems. <italic><tp:taxon-name>Gymnopus ceraceicola</tp:taxon-name></italic> is distinguished by larger fruitbodies, a pruinose stipe, and is more commonly associated with southern-beech forests on dead fallen logs. The species of <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> described here belong in the /micromphale clade of <xref ref-type="bibr" rid="B12">Moncalvo et al. (2002)</xref> and share the diagnostic feature of this clade of a foetid odour likely due to the presence of mercaptan-like compounds. In New Zealand this feature is shared with <italic><tp:taxon-name>Mycetinis curraniae</tp:taxon-name></italic> (G. Stev.) J.A. Cooper &amp; P. Leonard, a marasmioid fungus distinguished by its ornamented hymeniderm pileipellis. Another very distinctive character common to all three <italic><tp:taxon-name>Gymnopus</tp:taxon-name></italic> species, and visible in the accompanying photographs (<xref ref-type="fig" rid="F2">Figs 2</xref> and <xref ref-type="fig" rid="F6">6</xref>), is the presence of a waxy layer of partially gelatinised hyphae on the substrate from which the fruitbodies emerge. This layer is usually green from the presence of embedded algal cells. Interestingly, some published images of <italic><tp:taxon-name>Gymnopus foetidus</tp:taxon-name></italic> in the northern hemisphere also show a similar layer, e.g. <xref ref-type="bibr" rid="B1">Antonín and Noordeloos (2010)</xref>. Detailed examination of our material does show algal cells deeply embedded within the context of the waxy layer and the basal portion of the stipe (<xref ref-type="fig" rid="F9">Figs 9</xref> and <xref ref-type="fig" rid="F10">10</xref>), but it would seem unlikely that algal cells are present in sufficient numbers to confer any significant nutritional benefit to the fungus. The morphologically similar <italic><tp:taxon-name>Marasmiellus affixus</tp:taxon-name></italic> (Berk.) Singer, described from Australia and commonly known as the ‘little stinker’, is also associated with a waxy algae-infected layer. The association of <italic><tp:taxon-name>Marasmiellus affixus</tp:taxon-name></italic> with alga was noted by <xref ref-type="bibr" rid="B14">Singer (1973)</xref> and has been speculated to be a basidio-lichen, although this has not proven (<xref ref-type="bibr" rid="B7">Lepp 2011</xref>). A partial, poor quality ITS1 sequence for <italic><tp:taxon-name>Marasmiellus affixus</tp:taxon-name></italic> obtained during this work (not deposited) suggests it has affinity with <italic><tp:taxon-name>Marasmiellus ramealis</tp:taxon-name></italic> (Bull.) Singer rather than the taxa treated here.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>Thanks to Dukchul Park, Landcare Research, for DNA extraction and sequencing, and to Sapphire McMullen-Fisher for material of <italic><tp:taxon-name>Marasmiellus affixus</tp:taxon-name></italic>. The New Zealand Department of Conservation is thanked for permission to collect specimens from reserves and national parks that they manage. The first author was supported through the Landcare Research Systematics Portfolio, with Core funding support from the Science and Innovation Group of the New Zealand Ministry of Business, Innovation and Employment.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Antonín</surname> <given-names>V</given-names></name><name name-style="western"><surname>Noordeloos</surname> <given-names>ME</given-names></name></person-group> (<year>2010</year>) <source>A Monograph of Marasmioid and Collybioid fungi in Europe, IHW-Verlag.</source></mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Cooper</surname> <given-names>JA</given-names></name><name name-style="western"><surname>Leonard</surname> <given-names>PL</given-names></name></person-group> (<year>2012</year>) <article-title><italic>Boletopsis nothofagi</italic> sp. nov. associated with <italic>Nothofagus</italic> in the Southern Hemisphere.</article-title> <source>MycoKeys,</source> <volume>3</volume>: <fpage>13</fpage>-<lpage>22</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3897/mycokeys.3.2762" xlink:type="simple">10.3897/mycokeys.3.2762</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drummond</surname> <given-names>AJ</given-names></name><name name-style="western"><surname>Ashton</surname> <given-names>B</given-names></name><name name-style="western"><surname>Buxton</surname> <given-names>S</given-names></name><name name-style="western"><surname>Cheung</surname> <given-names>M</given-names></name><name name-style="western"><surname>Cooper</surname> <given-names>A</given-names></name><name name-style="western"><surname>Duran</surname> <given-names>C</given-names></name><name name-style="western"><surname>Field</surname> <given-names>M</given-names></name><name name-style="western"><surname>Heled</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kearse</surname> <given-names>M</given-names></name><name name-style="western"><surname>Markowitz</surname> <given-names>S</given-names></name><name name-style="western"><surname>Moir</surname> <given-names>R</given-names></name><name name-style="western"><surname>Stones-Havas</surname> <given-names>S</given-names></name><name name-style="western"><surname>Sturrock</surname> <given-names>S</given-names></name><name name-style="western"><surname>Thierer</surname> <given-names>T</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>A</given-names></name></person-group> (<year>2011</year>) <source>Geneious v5.4. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.geneious.com/" xlink:type="simple">http://www.geneious.com/</ext-link></source></mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Glez-Peña</surname> <given-names>D</given-names></name><name name-style="western"><surname>Gómez-Blanco</surname> <given-names>D</given-names></name><name name-style="western"><surname>Reboiro-Jato</surname> <given-names>M</given-names></name><name name-style="western"><surname>Fdez-Riverola</surname> <given-names>F</given-names></name><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name></person-group> (<year>2010</year>) <article-title>ALTER: program–oriented format conversion of DNA and protein alignments.</article-title> <source>Nucleic Acids Research</source> <volume>38</volume> (<issue>2</issue>): <fpage>14</fpage>-<lpage>18</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/gkq321" xlink:type="simple">10.1093/nar/gkq321</ext-link></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Hughes</surname> <given-names>KW</given-names></name><name name-style="western"><surname>Mather</surname> <given-names>DA</given-names></name><name name-style="western"><surname>Petersen</surname> <given-names>RH</given-names></name></person-group> (<year>2010</year>) <article-title>A new genus to accommodate <italic>Gymnopus acervatus</italic> (Agaricales).</article-title> <source>Mycologia,</source> <volume>102</volume>: <fpage>1463</fpage>-<lpage>1478</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/09-318" xlink:type="simple">10.3852/09-318</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Katoh</surname> <given-names>K</given-names></name><name name-style="western"><surname>Misawa</surname> <given-names>K</given-names></name><name name-style="western"><surname>Kuma</surname> <given-names>K</given-names></name><name name-style="western"><surname>Miyata</surname> <given-names>T</given-names></name></person-group> (<year>2002</year>) <article-title>MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform.</article-title> <source>Nucleic Acids Research</source> <volume>30</volume>: <fpage>3059</fpage>-<lpage>3066</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/gkf436" xlink:type="simple">10.1093/nar/gkf436</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lepp</surname> <given-names>H</given-names></name></person-group> (<year>2011</year>) <source>Is <italic>Marasmiellus affixus</italic> a Lichen? Fungimap Newsletter 44: 14.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mata</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Hughes</surname> <given-names>KW</given-names></name><name name-style="western"><surname>Petersen</surname> <given-names>RH</given-names></name></person-group> (<year>2004</year>) <source>Phylogenetic placement of <italic>Marasmiellus juniperinus</italic>. Mycoscience 45: 214–221. 10.1007/s10267-004-0170-3</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mata</surname> <given-names>JL</given-names></name><name name-style="western"><surname>Hughes</surname> <given-names>KW</given-names></name><name name-style="western"><surname>Petersen</surname> <given-names>RH</given-names></name></person-group> (<year>2006</year>) <article-title>An investigation of /omphalotaceae (Fungi: Euagarics) with emphasis on the genus <italic>Gymnopus</italic>.</article-title> <source>Sydowia</source> <volume>53</volume>: <fpage>191</fpage>-<lpage>289</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Matheny</surname> <given-names>PB</given-names></name><name name-style="western"><surname>Curtis</surname> <given-names>JC</given-names></name><name name-style="western"><surname>Hofstetter</surname> <given-names>V</given-names></name><name name-style="western"><surname>Aime</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Moncalvo</surname> <given-names>J-M</given-names></name><name name-style="western"><surname>Ge</surname> <given-names>ZW</given-names></name><name name-style="western"><surname>Yang</surname> <given-names>ZL</given-names></name><name name-style="western"><surname>Slot</surname> <given-names>JC</given-names></name><name name-style="western"><surname>Ammirati</surname> <given-names>JF</given-names></name><name name-style="western"><surname>Baroni</surname> <given-names>TJ</given-names></name><name name-style="western"><surname>Bougher</surname> <given-names>NL</given-names></name><name name-style="western"><surname>Hughes</surname> <given-names>KW</given-names></name><name name-style="western"><surname>Lodge</surname> <given-names>DJ</given-names></name><name name-style="western"><surname>Kerrigan</surname> <given-names>RW</given-names></name><name name-style="western"><surname>Seidl</surname> <given-names>MT</given-names></name><name name-style="western"><surname>Aanen</surname> <given-names>DK</given-names></name><name name-style="western"><surname>Dentis</surname> <given-names>M</given-names></name><name name-style="western"><surname>Danielle</surname> <given-names>G</given-names></name><name name-style="western"><surname>Desjardin</surname> <given-names>DE</given-names></name><name name-style="western"><surname>Kropp</surname> <given-names>BR</given-names></name><name name-style="western"><surname>Norvell</surname> <given-names>LL</given-names></name><name name-style="western"><surname>Parker</surname> <given-names>A</given-names></name><name name-style="western"><surname>Vellinga</surname> <given-names>EC</given-names></name><name name-style="western"><surname>Vilgalys</surname> <given-names>R. Hibbett DS</given-names></name></person-group> (<year>2006</year>) <article-title>Major clades of Agaricales: a multi-locus phylogenetic overview.</article-title> <source>Mycologia,</source> <volume>98</volume>: <fpage>982</fpage>-<lpage>995</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/mycologia.98.6.982" xlink:type="simple">10.3852/mycologia.98.6.982</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Milne</surname> <given-names>I</given-names></name><name name-style="western"><surname>Wright</surname> <given-names>F</given-names></name><name name-style="western"><surname>Rowe</surname> <given-names>G</given-names></name><name name-style="western"><surname>Marshal</surname> <given-names>DF</given-names></name><name name-style="western"><surname>Husmeier</surname> <given-names>D and McGuire G</given-names></name></person-group> (<year>2004</year>) <article-title>TOPALi: Software for Automatic Identification of Recombinant Sequences within DNA Multiple Alignments.</article-title> <source>Bioinformatics</source> <volume>20</volume> (<issue>11</issue>): <fpage>1806</fpage>-<lpage>1807</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/bth155" xlink:type="simple">10.1093/bioinformatics/bth155</ext-link></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Moncalvo</surname> <given-names>JM</given-names></name><name name-style="western"><surname>Vilgalys</surname> <given-names>R</given-names></name><name name-style="western"><surname>Redhead</surname> <given-names>SA</given-names></name><name name-style="western"><surname>Johnson</surname> <given-names>JE</given-names></name><name name-style="western"><surname>James</surname> <given-names>TY</given-names></name><name name-style="western"><surname>Aime</surname> <given-names>MC</given-names></name><name name-style="western"><surname>Hofstetter</surname> <given-names>V</given-names></name><name name-style="western"><surname>Verduin</surname> <given-names>SJW</given-names></name><name name-style="western"><surname>Larsson</surname> <given-names>E</given-names></name><name name-style="western"><surname>Baroni</surname> <given-names>TJ</given-names></name><name name-style="western"><surname>Thorn</surname> <given-names>RG</given-names></name><name name-style="western"><surname>Jacobsson</surname> <given-names>S</given-names></name><name name-style="western"><surname>Clémençon</surname> <given-names>H</given-names></name><name name-style="western"><surname>Miller</surname> <given-names>OK</given-names></name></person-group> (<year>2002</year>) <article-title>One hundred and seventeen clades of euagarics.</article-title> <source>Molecular Phylogenetics and Evolution</source> <volume>23</volume>: <fpage>357</fpage>-<lpage>400</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S1055-7903(02)00027-1" xlink:type="simple">10.1016/S1055-7903(02)00027-1</ext-link></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Noordeloos</surname> <given-names>ME</given-names></name></person-group> (<year>2012</year>) <article-title><italic>Gymnopus</italic> (Pers.) Roussel.</article-title> In <person-group><name name-style="western"><surname>Knudsen</surname>  <given-names>H</given-names></name><name name-style="western"><surname>Vesterholt</surname> <given-names>J</given-names></name></person-group> (<role>Eds</role>) (<year>2012</year>) <source>Funga Nordica, p. 341–349, Nordsvamp, Copenhagen.</source></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Singer</surname> <given-names>R</given-names></name></person-group> (<year>1973</year>) <article-title>A Monograph of the Neotropical Species of <italic>Marasmiellus</italic>. Beih. Nova Hedw.</article-title>  <volume>44</volume>: <fpage>1</fpage>-<lpage>339</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Singer</surname> <given-names>R</given-names></name></person-group> (<year>1986</year>) <source>Agaricales in modern taxonomy. 4<sup>th</sup> Ed., Cramer, Koenigstein.</source></mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Stamatakis</surname> <given-names>A</given-names></name></person-group> (<year>2006</year>) <article-title>RAxML-VI-HPC: Maximum Likelihood-based Phylogenetic Analyses with Thousands of Taxa and Mixed Models.</article-title> <source>Bioinformatics</source> <volume>22</volume> (<issue>21</issue>): <fpage>2688</fpage>-<lpage>2690</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btl446" xlink:type="simple">10.1093/bioinformatics/btl446</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wilson</surname> <given-names>AW</given-names></name><name name-style="western"><surname>Desjardin</surname> <given-names>DE</given-names></name></person-group> (<year>2005</year>) <article-title>Phylogenetic relationships in the gymnopoid and marasmioid fungi (Basidiomycetes, euagarics clade).</article-title> <source>Mycologia</source> <volume>97</volume>: <fpage>667</fpage>-<lpage>679</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3852/mycologia.97.3.667" xlink:type="simple">10.3852/mycologia.97.3.667</ext-link></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

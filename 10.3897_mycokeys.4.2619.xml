@@ -1,0 +1,202 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.4.2619</article-id>
+            <title-group>
+                <article-title>
+                    <italic>Cylindrocladiella hahajimaensis</italic>, a new species of 
+                    <italic>Cylindrocladiella</italic> transferred from 
+                    <italic>Verticillium</italic>
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Inderbitzin</surname>
+                        <given-names>Patrik</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Bostock</surname>
+                        <given-names>Richard M.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Subbarao</surname>
+                        <given-names>Krishna V.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Department of Plant Pathology, University of California Davis, One Shields Avenue, Davis, CA 95616, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: Krishna V. Subbarao (<email xlink:type="simple">kvsubbarao@ucdavis.edu</email>)
+                    </p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Andrew Miller</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>11</day>
+                <month>6</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>4</issue>
+            <fpage>1</fpage>
+            <lpage>8</lpage>
+            <history>
+                <date date-type="received">
+                    <day>5</day>
+                    <month>1</month>
+                    <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                    <day>6</day>
+                    <month>6</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Patrik Inderbitzin, Richard M. Bostock, Krishna V. Subbarao</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <label>Abstract</label>
+                <p>We used phylogenetic analyses based on ribosomal internal transcribed spacer (ITS) and beta-tubulin (<italic>TUB</italic>) sequences and determined that the correct name of <italic>‘Verticillium hahajimaense’</italic> was <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic>. A closest relative could not be determined, since <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> clustered within the <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex, a poorly resolved group of taxa. <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> differed from all other members of the <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex by at least 18 substitutions at the two loci. Morphological characters supported the placement within <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic>. In addition to the verticillate conidiophores mentioned in the type description, we found evidence for the presence of penicillate conidiophores. Other differences to the type description included the presence of yellow to brown-pigmented hyphae, and the hyaline instead of pigmented chlamydospores.</p>
+            </abstract>
+            <kwd-group>
+                <kwd>Ascomycetes</kwd>
+                <kwd>Nectriaceae</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>phylogenetics</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction">
+            <title>Introduction</title>
+            <p>The genus <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> comprises a small, monophyletic group of fungi in the <tp:taxon-name>Nectriaceae</tp:taxon-name> related to <italic><tp:taxon-name>Cylindrocladium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B11">Schoch et al. 2000</xref>). <italic><tp:taxon-name>Cylindrocladium</tp:taxon-name></italic> and <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> are morphologically similar, they form two different synanamorphs that resemble <italic><tp:taxon-name>Penicillium</tp:taxon-name></italic> and <italic><tp:taxon-name>Verticillium</tp:taxon-name></italic> in terms of branching pattern and phialide arrangement, but may bear long hyphal projections with swollen tips that are referred to <!--PageBreak-->as filaments with terminal vesicles. Chlamydospores may also be present (<xref ref-type="bibr" rid="B1">Boesewinkel 1982</xref>). Differences between <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> and <italic><tp:taxon-name>Cylindrocladium</tp:taxon-name></italic> include aspects of conidiophore branching, filament morphology, appearance in culture, and conidia morphology and size (<xref ref-type="bibr" rid="B1">Boesewinkel 1982</xref>). The teleomorph of <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> where known, belongs to <italic><tp:taxon-name>Nectricladiella</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B11">Schoch et al. 2000</xref>). <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> comprises ten species that have been isolated from soil as well as plant tissues where they may act as pathogens (<xref ref-type="bibr" rid="B13">van Coller et al. 2005</xref>; <xref ref-type="bibr" rid="B21">Zhang and Chi 1996</xref>).</p>
+            <p>Verticillate conidiophores that consist of narrow, elongate phialides arranged in whorls along a main axis, have evolved multiple times as determined by molecular data and phylogenetic analyses. Taxonomic conclusions from these studies have resulted in the traditional genus <italic><tp:taxon-name>Verticillium</tp:taxon-name></italic> being restricted to a small, monophyletic group of plant pathogens in the <tp:taxon-name>Plectosphaerellaceae</tp:taxon-name> (<xref ref-type="bibr" rid="B4">Gams et al. 2005</xref>; <xref ref-type="bibr" rid="B20">Zare et al. 2007</xref>) with the majority of former <italic><tp:taxon-name>Verticillium</tp:taxon-name></italic> species transferred to other genera, including <italic><tp:taxon-name>Lecanicillium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B3">Gams and Zare 2001</xref>; <xref ref-type="bibr" rid="B16">Zare and Gams 2001a</xref>; <xref ref-type="bibr" rid="B18">Zare and Gams 2008</xref>), <italic><tp:taxon-name>Pochonia</tp:taxon-name></italic> and <italic><tp:taxon-name>Haptocillium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B17">Zare and Gams 2001b</xref>; <xref ref-type="bibr" rid="B19">Zare et al. 2001</xref>), as well as <italic><tp:taxon-name>Gibellulopsis</tp:taxon-name></italic> and <italic><tp:taxon-name>Musicillium</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B20">Zare et al. 2007</xref>).</p>
+            <p>During recent studies of <italic><tp:taxon-name>Verticillium</tp:taxon-name></italic> evolution and taxonomy (<xref ref-type="bibr" rid="B6">Inderbitzin et al. 2011a</xref>; <xref ref-type="bibr" rid="B7">Inderbitzin et al. 2011b</xref>), we received the ex-holotype culture of ‘<italic><tp:taxon-name>Verticillium hahajimaense</tp:taxon-name></italic>’ isolated from soil in Japan using cucumber seeds as bait (<xref ref-type="bibr" rid="B14">Watanabe et al. 2001</xref>). Phylogenetic analyses showed that ‘<italic><tp:taxon-name>Verticillium hahajimaense</tp:taxon-name></italic>’ belonged to <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> instead as documented and discussed below.</p>
+        </sec>
+        <sec sec-type="methods">
+            <title>Methods</title>
+            <sec sec-type="Taxon sampling, origins of fungal strains and growth conditions">
+                <title>Taxon sampling, origins of fungal strains and growth conditions</title>
+                <p>An ex-holotype culture of ‘<italic><tp:taxon-name>Verticillium hahajimaense</tp:taxon-name></italic>’ (strain MAFF 238172, PD684) was obtained free of charge from the National Institute of Agrobiological Sciences Genebank (NIAS), Japan, single spore purified and maintained in a glycerol solution at -80°C (<xref ref-type="bibr" rid="B6">Inderbitzin et al. 2011a</xref>). For all 42 ingroup taxa used by <xref ref-type="bibr" rid="B13">van Coller et al. (2005)</xref>, ribosomal internal transcribed spacer sequences (ITS) and beta-tubulin sequences (<italic>TUB</italic>) were downloaded from GenBank.</p>
+            </sec>
+            <sec sec-type="DNA extraction, PCR amplification, and DNA sequencing">
+                <title>DNA extraction, PCR amplification, and DNA sequencing</title>
+                <p>For complete details see <xref ref-type="bibr" rid="B7">Inderbitzin et al. (2011b)</xref>. The ITS region was PCR amplified using primers ITS1-F (<xref ref-type="bibr" rid="B5">Gardes and Bruns 1993</xref>) and ITS4, and sequenced with ITS5 and ITS4 (<xref ref-type="bibr" rid="B15">White et al. 1990</xref>), part of <italic>TUB</italic> was PCR amplified and sequenced with VTubf2/VTubR (<xref ref-type="bibr" rid="B7">Inderbitzin et al. 2011b</xref>).<!--PageBreak--></p>
+            </sec>
+            <sec sec-type="Phylogenetic analyses">
+                <title>Phylogenetic analyses</title>
+                <p>Three different datasets were analyzed, the single locus datasets ITS and <italic>TUB</italic> using parsimony as implemented in PAUP v.4.0b 10 (<xref ref-type="bibr" rid="B12">Swofford 2002</xref>), as well as a the combined ITS plus <italic>TUB</italic> dataset, using parsimony and likelihood implementations in PAUP, and a Bayesian approach using MRBAYES v3.0b4 (<xref ref-type="bibr" rid="B10">Ronquist and Huelsenbeck 2003</xref>). The likelihood and Bayesian analyses used an optimal model of DNA evolution determined using MODELTEST 3.7 (<xref ref-type="bibr" rid="B9">Posada and Crandall 1998</xref>). DNA sequences were assembled and aligned in GENEIOUS v4.8.5 (<xref ref-type="bibr" rid="B2">Drummond et al. 2010</xref>). For complete details of phylogenetic analyses, see <xref ref-type="bibr" rid="B7">Inderbitzin et al. (2011b)</xref>.</p>
+            </sec>
+            <sec sec-type="Microscopy">
+                <title>Microscopy</title>
+                <p>Morphological observations were from cultures grown on PDA. Microscopy was performed using a Leica DM5000 B microscope (Leica Microsystems CMS GmbH, Wetzlar, Germany), with differential interference contrast (DIC) illumination of specimens mounted in water. Photographs were taken with a Leica DFC310 FX camera, using LEICA APPLICATION SUITE VERSION 3.6.0 software.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results">
+            <title>Results</title>
+            <sec sec-type="DNA sequence data obtained and phylogenetic analyses">
+                <title>DNA sequence data obtained and phylogenetic analyses</title>
+                <p>The ITS and <italic>TUB</italic> sequences of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> strain PD684 measured 462 and 480 bp in length, respectively (GenBank JN687561, JN687562), and were aligned with the <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> ingroup sequences by <xref ref-type="bibr" rid="B13">van Coller et al. (2005)</xref> resulting in 43 taxa datasets submitted to TreeBase (<ext-link ext-link-type="uri" xlink:href="http://purl.org/phylo/treebase/phylows/study/TB2:S11935" xlink:type="simple">http://purl.org/phylo/treebase/phylows/study/TB2:S11935</ext-link>). ITS and <italic>TUB</italic>-derived most parsimonious trees were identical on a 70% bootstrap support level (data not shown), and were combined into one, 950 character dataset that was analyzed using parsimony, likelihood and Bayesian inference of phylogeny, the latter two methods implementing a HKY+I+G model of nucleotide substitution. The 22 most parsimonious trees were 227 steps in length and differed by branches that were supported by less then 70% of the bootstrap replicates (data not shown). One most parsimonious tree was midpoint rooted and is shown in <xref ref-type="fig" rid="F1">Fig. 1</xref>. The most likely tree (-ln likelihood = 2580.47), and the Bayesian tree were congruent with the most parsimonious tree on 70% bootstrap and posterior probability levels, respectively (data not shown, but see <xref ref-type="fig" rid="F1">Fig. 1</xref> for support values). The tree topology obtained was as in van Coller (2005) for the taxa shared between the two studies, but with lower branch supports probably because our analyses included only two and not three loci. <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> grouped in a well supported, but poorly resolved clade together with <italic><tp:taxon-name>Cylindrocladiella lageniformis</tp:taxon-name></italic>, <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic>, <italic><tp:taxon-name>Nectricladiella infestans</tp:taxon-name></italic>, <italic><tp:taxon-name>Cylindrocladiella viticola</tp:taxon-name></italic> and a <!--PageBreak--><italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> sp. (<xref ref-type="fig" rid="F1">Fig. 1</xref>). This group, without <italic><tp:taxon-name>Cylindrocladiella lageniformis</tp:taxon-name></italic>, was referred to as the ‘<italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex’ by van Coller et al (2005). Among its closest relatives, <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> was most similar to <italic><tp:taxon-name>Nectricladiella infestans</tp:taxon-name></italic> from which it differed by 18 substitutions in the 950 bp, combined ITS and <italic>TUB</italic> dataset.<!--PageBreak--></p>
+                <fig id="F1" position="float" orientation="portrait">
+                    <label>Figure 1.</label>
+                    <caption><p>Phylogenetic position of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> within <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> based on a combined ITS and <italic>TUB</italic> dataset of 950 characters and 43 taxa. The tree is midpoint rooted. One of the most parsimonious trees is shown. Species names are followed by strain identifiers for each strain included in this study, identifiers in bold face represent ex-type cultures. <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> is underlined. The <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex is delimited by a vertical bar on the right. Numbers by the branches are parsimony, Bayesian and likelihood support values above 70 in that order, branches in bold had maximal support in all analyses.</p></caption>
+                    <graphic xlink:href="MycoKeys-004-001-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+            <sec sec-type="Taxonomy">
+                <title>Taxonomy</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Cylindrocladiella</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">hahajimaensis</tp:taxon-name-part>
+                        <object-id xlink:type="simple">Mycobank: MB483222</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>(Ts. Watanabe) Inderb., R.M.Bostock and K.V.Subbarao</tp:taxon-authority>
+                        <tp:taxon-status>comb. nov.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F2">Figures 2–4</xref>
+                        <tp:nomenclature-citation-list>
+                            <tp:nomenclature-citation><tp:taxon-name>ºVerticillium hahajimaense</tp:taxon-name><comment> Ts. Watanabe, Mycoscience 42: 594 (2001).</comment></tp:nomenclature-citation>
+                        </tp:nomenclature-citation-list>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Commentary">
+                        <title>Commentary:</title>
+                        <p><italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> was formerly placed in <italic><tp:taxon-name>Verticillium</tp:taxon-name></italic> because of the presence of verticillate conidiophores which were illustrated by Watanabe (2001), together with the chlamydospores and the conidia. We confirmed the presence of these structures, and also found evidence for the presence of penicillate conidi<!--PageBreak-->ophores (<xref ref-type="fig" rid="F2">Fig. 2</xref>). However, <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> strain PD684 conidiated sparsely, and we were unable to conclusively assess the morphology of the penicillate conidiophores. In agreement with Watanabe (2001), no filaments with terminal vesicles were seen. Watanabe (2001) described the colony color as ‘Sudan brown or snuff brown’, and the chlamydospores were described as brown. However, we found that the brown colony color was caused primarily by yellow to brown-pigmented hyphae (<xref ref-type="fig" rid="F2">Fig. 2</xref>) not mentioned by Watanabe (2001), the chlamydospores remained hyaline with a brown tinge after 27 days of incubation. We did not find any additional cultures of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> at CBS, NIAS or ATCC. More strains of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> will need to be examined to update the description of this fungus.</p>
+                        <fig id="F2" position="float" orientation="portrait">
+                            <label>Figures 2–4.</label>
+                            <caption><p>Select morphological features of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> strain PD684 (ex-holotype). <bold>2</bold> Potential penicillate conidiophore after eight days on PDA <bold>3</bold> Yellow-pigmented hypha after 15 days on PDA <bold>4</bold> A pair of thick-walled hyaline chlamydospores with brown tinge after 27 days on PDA. Scale bar = 10 µm; Imaging method: DIC.</p></caption>
+                            <graphic xlink:href="MycoKeys-004-001-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+        </sec>
+        <sec sec-type="Discussion">
+            <title>Discussion</title>
+            <p><italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> is the latest member of <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> which now consists of eleven species (<xref ref-type="bibr" rid="B13">van Coller et al. 2005</xref>; <xref ref-type="bibr" rid="B21">Zhang and Chi 1996</xref>). Our phylogenetic analyses showed that <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> was nested within <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> with high support (<xref ref-type="fig" rid="F1">Fig. 1</xref>), and was thus a member of this genus. Morphology did not contradict this placement. The original description of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> mentioned verticillate conidiophores and chlamydospores which are present in <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B1">Boesewinkel 1982</xref>). However, the original description did not mention other characteristics of <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> including penicillate conidiophores and filaments with terminal vesicles. We found evidence for penicillate conidiophores (<xref ref-type="fig" rid="F1">Fig. 1</xref>), but did not find any filaments with terminal vesicles. However, the ex-holotype culture we examined conidiated sparsely, preventing us from corroborating our observations and amending the <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> type description.</p>
+            <p>Our analyses included DNA sequence data derived from ex-type cultures of all known <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> species, except for <italic><tp:taxon-name>Cylindrocladiella tenuis</tp:taxon-name></italic> which has larger conidia than <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B21">Zhang and Chi 1996</xref>). Also, none of the species described by <xref ref-type="bibr" rid="B8">Lombard et al. (2012)</xref> were included in our analyses. This is because we were unable to replicate the topology of the phylogenetic tree in <xref ref-type="bibr" rid="B8">Lombard et al.’s (2012)</xref> figure 1, both based on DNA sequence data retrieved from GenBank, and based on a nexus file with MrBayes block provided by the authors. We do not know the cause of this divergence, but it was consistent and independent of the method of analysis and hardware used. Despite excluding the most recent data available, the analyses we presented here showed strong support that <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> belonged to <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic>, mainly to the <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex (<xref ref-type="bibr" rid="B13">van Coller et al. 2005</xref>), a group with uncertain species boundaries. <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic> differed from the most similar member of the <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex included in <xref ref-type="bibr" rid="B13">van Coller et al. (2005)</xref> by a considerable 18 nucleotide substitutions at ITS and <italic>TUB</italic>. More analyses with a larger number of isolates, including the species in <xref ref-type="bibr" rid="B8">Lombard et al. (2012)</xref> are needed to resolve the branching order and species boundaries in the <italic><tp:taxon-name>Cylindrocladiella infestans</tp:taxon-name></italic> species complex, and to determine whether any more recently described species of <italic><tp:taxon-name>Cylindrocladiella</tp:taxon-name></italic> may be synonyms of <italic><tp:taxon-name>Cylindrocladiella hahajimaensis</tp:taxon-name></italic>.<!--PageBreak--></p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We would like to thank the National Institute of Agrobiological Sciences Genebank (NIAS), Japan for providing the <italic>Cylindrocladiella hahajimaensis</italic> culture free of charge and Lorenzo Lombard and Pedro Crous for providing the nexus file. Funding was provided by the California Leafy Greens Board and the United States Department of Agriculture – National Institute of Food and Agriculture (USDA-NIFA).</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Boesewinkel</surname> <given-names>HJ</given-names></name></person-group> (<year>1982</year>)<article-title> <italic>Cylindrocladiella</italic>, a new genus to accommodate <italic>Cylindrocladium parvum</italic> and other small-spored species of <italic>Cylindrocladium</italic>.</article-title> <source>Canadian Journal of Botany </source> <volume>60</volume>: <fpage>2288</fpage>-<lpage>2294</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Drummond</surname> <given-names>AJ</given-names></name><name name-style="western"><surname>Ashton</surname> <given-names>B</given-names></name><name name-style="western"><surname>Buxton</surname> <given-names>S</given-names></name><name name-style="western"><surname>Cheung</surname> <given-names>M</given-names></name><name name-style="western"><surname>Cooper</surname> <given-names>A</given-names></name><name name-style="western"><surname>Heled</surname> <given-names>J</given-names></name><name name-style="western"><surname>Kearse</surname> <given-names>M</given-names></name><name name-style="western"><surname>Moir</surname> <given-names>R</given-names></name><name name-style="western"><surname>Stones-Havas</surname> <given-names>S</given-names></name><name name-style="western"><surname>Sturrock</surname> <given-names>S</given-names></name><name name-style="western"><surname>Thierer</surname> <given-names>T</given-names></name><name name-style="western"><surname>Wilson</surname> <given-names>A</given-names></name></person-group> (<year>2010</year>)<source> Geneious v4.8.5, Available from <ext-link ext-link-type="uri" xlink:href="http://www.geneious.com" xlink:type="simple">http://www.geneious.com</ext-link></source></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name></person-group> (<year>2001</year>)<article-title> A revision of <italic>Verticillium</italic> sect. <italic>Prostrata</italic>. III. Generic classification.</article-title> <source>Nova Hedwigia </source> <volume>72</volume>: <fpage>329</fpage>-<lpage>337</lpage>.</mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name><name name-style="western"><surname>Summerbell</surname> <given-names>RC</given-names></name></person-group> (<year>2005</year>)<source> Proposal to conserve the generic name <italic>Verticillium</italic> (anamorphic Ascomycetes) with a conserved type. Taxon 54: 179.</source></mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gardes</surname> <given-names>M</given-names></name><name name-style="western"><surname>Bruns</surname> <given-names>TD</given-names></name></person-group> (<year>1993</year>)<article-title> ITS primers with enhanced specificity of basidiomycetes: application to the identification of mycorrhizae and rusts.</article-title> <source>Molecular Ecology </source> <volume>2</volume>: <fpage>113</fpage>-<lpage>118</lpage>.</mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Inderbitzin</surname> <given-names>P</given-names></name><name name-style="western"><surname>Bostock</surname> <given-names>RM</given-names></name><name name-style="western"><surname>Davis</surname> <given-names>RM</given-names></name><name name-style="western"><surname>Usami</surname> <given-names>T</given-names></name><name name-style="western"><surname>Platt</surname> <given-names>HW</given-names></name><name name-style="western"><surname>Subbarao</surname> <given-names>KV</given-names></name></person-group> (<year>2011a</year>)<source> Phylogenetics and taxonomy of the fungal vascular wilt pathogen <italic>Verticillium</italic>, with the descriptions of five new species. PLoS ONE 6: e28341.</source></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Inderbitzin</surname> <given-names>P</given-names></name><name name-style="western"><surname>Davis</surname> <given-names>RM</given-names></name><name name-style="western"><surname>Bostock</surname> <given-names>RM</given-names></name><name name-style="western"><surname>Subbarao</surname> <given-names>KV</given-names></name></person-group> (<year>2011b</year>)<source> The ascomycete <italic>Verticillium longisporum</italic> is a hybrid and a plant pathogen with an expanded host range. PLoS ONE 6: e18260.</source></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lombard</surname> <given-names>L</given-names></name><name name-style="western"><surname>Shivas</surname> <given-names>R</given-names></name><name name-style="western"><surname>To-Anun</surname> <given-names>C</given-names></name><name name-style="western"><surname>Crous</surname> <given-names>P</given-names></name></person-group> (<year>2012</year>)<source> Phylogeny and taxonomy of the genus <italic>Cylindrocladiella</italic>. Mycological Progress: 1–34.</source></mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Posada</surname> <given-names>D</given-names></name><name name-style="western"><surname>Crandall</surname> <given-names>KA</given-names></name></person-group> (<year>1998</year>)<article-title> Modeltest: Testing the model of DNA substitution.</article-title> <source>Bioinformatics </source> <volume>14</volume>: <fpage>817</fpage>-<lpage>818</lpage>.</mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Ronquist</surname> <given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname> <given-names>JP</given-names></name></person-group> (<year>2003</year>)<article-title> MRBAYES 3: Bayesian phylogenetic inference under mixed models.</article-title> <source>Bioinformatics </source> <volume>19</volume>: <fpage>1572</fpage>-<lpage>1574</lpage>.</mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Schoch</surname> <given-names>CL</given-names></name><name name-style="western"><surname>Crous</surname> <given-names>PW</given-names></name><name name-style="western"><surname>Wingfield</surname> <given-names>MJ</given-names></name><name name-style="western"><surname>Wingfield</surname> <given-names>BD</given-names></name></person-group> (<year>2000</year>)<article-title> Phylogeny of <italic>Calonectria</italic> and selected hypocrealean genera with cylindrical macroconidia.</article-title> <source>Studies in Mycology </source> <volume>45</volume>: <fpage>45</fpage>-<lpage>62</lpage>.</mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Swofford</surname> <given-names>DL</given-names></name></person-group> (<year>2002</year>)<source> PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods). Version 4. Sinauer Associates, Sunderland, Massachusetts, pp.</source></mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>van Coller</surname> <given-names>GJ</given-names></name><name name-style="western"><surname>Denman</surname> <given-names>S</given-names></name><name name-style="western"><surname>Groenewald</surname> <given-names>JZ</given-names></name><name name-style="western"><surname>Lamprecht</surname> <given-names>SC</given-names></name><name name-style="western"><surname>Crous</surname> <given-names>PW</given-names></name></person-group> (<year>2005</year>)<article-title> Characterisation and pathogenicity of <italic>Cylindrocladiella</italic> spp. associated with root and cutting rot symptoms of grapevines in nurseries.</article-title> <source>Australasian Plant Pathology </source> <volume>34</volume>: <fpage>489</fpage>-<lpage>498</lpage>.</mixed-citation></ref>
+            <!--PageBreak-->
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Watanabe</surname> <given-names>T</given-names></name><name name-style="western"><surname>Watanabe</surname> <given-names>Y</given-names></name><name name-style="western"><surname>Fukatsu</surname> <given-names>T</given-names></name></person-group> (<year>2001</year>)<article-title> New species of <italic>Acremonium</italic>, <italic>Cylindrocarpon</italic> and <italic>Verticillium</italic> from soil in the Bonin (Ogasawara) Islands, Japan.</article-title> <source>Mycoscience </source> <volume>42</volume>: <fpage>1340</fpage>-<lpage>3540</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>White</surname> <given-names>TJ</given-names></name><name name-style="western"><surname>Bruns</surname> <given-names>TD</given-names></name><name name-style="western"><surname>Lee</surname> <given-names>SB</given-names></name><name name-style="western"><surname>Taylor</surname> <given-names>JW</given-names></name></person-group> (<year>1990</year>)<article-title> Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics.</article-title> In: <person-group><name name-style="western"><surname>Innis</surname> <given-names>MA</given-names></name><name name-style="western"><surname>Gelfand</surname> <given-names>DH</given-names></name><name name-style="western"><surname>Sninsky</surname> <given-names>JJ</given-names></name><name name-style="western"><surname>White</surname> <given-names>TJ</given-names></name></person-group> (<role>Eds</role>). <issue-title>PCR Protocols.</issue-title> <source>Academic Press, Inc., San Diego</source>: <fpage>315</fpage>-<lpage>322</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name></person-group> (<year>2001a</year>)<article-title> A revision of <italic>Verticillium</italic> section <italic>Prostrata</italic>. IV. The genera <italic>Lecanicillium</italic> and <italic>Simplicillium</italic> gen. nov.</article-title> <source>Nova Hedwigia </source> <volume>73</volume>: <fpage>1</fpage>-<lpage>50</lpage>.</mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name></person-group> (<year>2001b</year>)<article-title> A revision of <italic>Verticillium</italic> section <italic>Prostrata</italic>. VI. The genus <italic>Haptocillium</italic>.</article-title> <source>Nova Hedwigia </source> <volume>73</volume>: <fpage>271</fpage>-<lpage>292</lpage>.</mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name></person-group> (<year>2008</year>)<article-title> A revision of the <italic>Verticillium fungicola</italic> species complex and its affinity with the genus <italic>Lecanicillium</italic>.</article-title> <source>Mycological Research </source> <volume>112</volume>: <fpage>811</fpage>-<lpage>824</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name><name name-style="western"><surname>Evans</surname> <given-names>HC</given-names></name></person-group> (<year>2001</year>)<article-title> A revision of <italic>Verticillium</italic> section <italic>Prostrata</italic>. V. The genus <italic>Pochonia</italic>, with notes on <italic>Rotiferophthora</italic>.</article-title> <source>Nova Hedwigia </source> <volume>73</volume>: <fpage>51</fpage>-<lpage>86</lpage>.</mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zare</surname> <given-names>R</given-names></name><name name-style="western"><surname>Gams</surname> <given-names>W</given-names></name><name name-style="western"><surname>Starink-Willemse</surname> <given-names>M</given-names></name><name name-style="western"><surname>Summerbell</surname> <given-names>RC</given-names></name></person-group> (<year>2007</year>)<article-title> <italic>Gibellulopsis</italic>, a suitable genus for <italic>Verticillium nigrescens</italic>, and <italic>Musicillium</italic>, a new genus for <italic>V. theobromae</italic>.</article-title> <source>Nova Hedwigia </source> <volume>85</volume>: <fpage>463</fpage>-<lpage>489</lpage>.</mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhang</surname> <given-names>C</given-names></name><name name-style="western"><surname>Chi</surname> <given-names>P</given-names></name></person-group> (<year>1996</year>)<article-title> A new species of <italic>Cylindrocladiella</italic>, an unrecorded genus from China.</article-title> <source>Acta Mycologica Sinica </source> <volume>15</volume>: <fpage>170</fpage>-<lpage>172</lpage>.</mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>

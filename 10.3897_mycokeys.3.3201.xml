@@ -1,0 +1,548 @@
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "tax-treatment-NS0.dtd"><article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publisher-id">MycoKeys</journal-id>
+            <journal-title-group>
+                <journal-title xml:lang="en">MycoKeys</journal-title>
+                <abbrev-journal-title xml:lang="en">MycoKeys</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="ppub">1314-4057</issn>
+            <issn pub-type="epub">1314-4049</issn>
+            <publisher>
+                <publisher-name>Pensoft Publishers</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="doi">10.3897/mycokeys.3.3201</article-id>
+            <title-group>
+                <article-title>Two new species of 
+                    <italic>Lecanora</italic> sensu stricto (Lecanoraceae, Ascomycota) from east Africa
+                </article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Kirika</surname>
+                        <given-names>Paul</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Parnmen</surname>
+                        <given-names>Sittiporn</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+                <contrib contrib-type="author" xlink:type="simple">
+                    <name name-style="western">
+                        <surname>Lumbsch</surname>
+                        <given-names>Thorsten</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="A2">2</xref>
+                </contrib>
+            </contrib-group>
+            <aff id="A1">
+                <label>1</label>Botany Department, National Museums of Kenya, P.O. Box 40658–00100, Nairobi, Kenya
+            </aff>
+            <aff id="A2">
+                <label>2</label>Department of Botany, Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago, IL 60605, USA
+            </aff>
+            <author-notes>
+                <fn fn-type="corresp">
+                    <p>Corresponding author: H. Thorsten Lumbsch (<email xlink:type="simple">tlumbsch@fieldmuseum.org</email>)</p>
+                </fn>
+                <fn fn-type="edited-by">
+                    <p>Academic editor: Imke Schmitt</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2012</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>10</day>
+                <month>5</month>
+                <year>2012</year>
+            </pub-date>
+            <issue>3</issue>
+            <fpage>37</fpage>
+            <lpage>47</lpage>
+            <history>
+                <date date-type="received">
+                    <day>5</day>
+                    <month>4</month>
+                    <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                    <day>2</day>
+                    <month>5</month>
+                    <year>2012</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Paul Kirika, Sittiporn Parnmen, Thorsten Lumbsch</copyright-statement>
+                <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/3.0" xlink:type="simple">
+                    <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC-BY), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <p>Abstract</p>
+                <p>The new sorediate species <italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic> from Mount Kenya and <italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic> from the Rift Valley in Kenya are described. <italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic> has red-brown apothecia with a constricted base, a <italic>melacarpella</italic>–type amphithecium, <italic>pulicaris</italic>–type epihymenium, a hyaline hypothecium, and contains usnic acid as major constituent. <italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic> is characterized by having a dark hypothecium, <italic>pulicaris</italic>-type amphithecium, <italic>chlarotera</italic>-epihymenium, and contains atranorin and gangaleoidin. A phylogenetic analysis using maximum likelihood and a Bayesian approach based on DNA sequence data of mtSSU and ITS rDNA support that both new species belong to <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto and cluster with species containing usnic acid or having a dark hypothecium, respectively.</p>
+            </abstract>
+            <kwd-group>
+                <label>Keywords</label>
+                <kwd>Kenya</kwd>
+                <kwd>Lecanorales</kwd>
+                <kwd>new species</kwd>
+                <kwd>taxonomy</kwd>
+                <kwd>tropical lichens</kwd>
+            </kwd-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="Introduction"><title>Introduction</title>
+            <p><italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> is the major genus of <tp:taxon-name>Lecanoraceae</tp:taxon-name> (<xref ref-type="bibr" rid="B18">Lumbsch and Huhndorf 2010</xref>) and includes crustose (incl. placodioid) lichens with hyaline, usually non-septate ascospores, <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic>-type asci and mostly lecanorine apothecia. The morphological and chemical diversity is large in this heterogeneous genus and molecular data have supported that the genus as currently circumscribed is not monophyletic (<xref ref-type="bibr" rid="B2">Arup and Grube 1998</xref>; <xref ref-type="bibr" rid="B3">2000</xref>; <xref ref-type="bibr" rid="B7">Grube et al. 2004</xref>; <xref ref-type="bibr" rid="B13">Lumbsch 2002</xref>). The core group of <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto is characterized by the presence of calcium oxalate crystals in the amphithecium, filiform conidia, and the presence of atranorin and/or usnic acid. This agrees with an extend<!--PageBreak-->ed circumscription of the <italic><tp:taxon-name>Lecanora subfusca</tp:taxon-name></italic> group to include taxa containing usnic acid and a dark hypothecium (<xref ref-type="bibr" rid="B8">Guderley 1999</xref>; <xref ref-type="bibr" rid="B12">Lumbsch 1995</xref>; <xref ref-type="bibr" rid="B16">Lumbsch et al. 1995</xref>; <xref ref-type="bibr" rid="B17">Lumbsch et al. 1996</xref>; <xref ref-type="bibr" rid="B19">Lumbsch et al. 2003</xref>; <xref ref-type="bibr" rid="B27">Papong et al. in press</xref>). African species of <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto are poorly known but our recent studies resulted in the description of a new species and new records of <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> species for Kenya (<xref ref-type="bibr" rid="B11">Kirika et al. in press</xref>; <xref ref-type="bibr" rid="B14">Lumbsch et al. 2011</xref>). Among the collections from the Mount Kenya area and the Rift Valley we found two corticolous species, one sorediate taxon with usnic acid and a morphologically somewhat similar species with a dark hypothecium. The two taxa do not agree with known species (<xref ref-type="bibr" rid="B12">Lumbsch 1995</xref>; <xref ref-type="bibr" rid="B16">Lumbsch et al. 1995</xref>; <xref ref-type="bibr" rid="B17">Lumbsch et al. 1996</xref>; <xref ref-type="bibr" rid="B26">Papong et al. 2011</xref>; <xref ref-type="bibr" rid="B28">Papong and Lumbsch 2011</xref>) and consequently are described as new. To confirm the placement of the new species in <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto, we also generated DNA sequence data of the internal transcribed spacer region (ITS) and partial sequences of the small subunit of the mitochondrial ribosomal DNA (mtSSU) and performed a phylogenetic analysis with sequences available in Genbank.</p>
+        </sec>
+        <sec sec-type="materials|methods"><title>Materials and methods</title>
+            <sec sec-type="Taxon sampling and molecular methods"><title>Taxon sampling and molecular methods</title>
+                <p>The study is based on material deposited in EA and F and DNA sequences downloaded from Genbank. Sequences of five <italic><tp:taxon-name>Ramboldia</tp:taxon-name></italic> spp. were included as outgroup since the genus has been shown previously to be related to <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B10">Kalb et al. 2008</xref>). Sequence data of the two new species were assembled with sequences of the mitochondrial small subunit (mtSSU) and nuclear ITS rDNA downloaded from Genbank (<xref ref-type="table" rid="T1">Table 1</xref>). Sample preparation, DNA isolation, PCR and direct sequencing were performed as described previously (<xref ref-type="bibr" rid="B22">Mangold et al. 2008</xref>; <xref ref-type="bibr" rid="B31">Wirtz et al. 2012</xref>). Primers for amplification were: mr SSU1 (<xref ref-type="bibr" rid="B33">Zoller et al. 1999</xref>) and MSU7 (<xref ref-type="bibr" rid="B32">Zhou and Stanosz 2001</xref>) for mtSSU and ITS1F and ITS4 (<xref ref-type="bibr" rid="B6">Gardes and Bruns 1993</xref>) for ITS rDNA. Sequence fragments obtained were assembled with SeqMan 4.03 (DNASTAR) and manually adjusted.<!--PageBreak--></p>
+                <table-wrap id="T1" position="float" orientation="portrait">
+                    <label>Table1.</label>
+                    <caption><p> Species and specimens used in the present study. Newly obtained sequenced in bold.</p></caption>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <th rowspan="1" colspan="1"><bold>Species</bold></th>
+                                <th rowspan="1" colspan="1"><bold>Collection data</bold></th>
+                                <th rowspan="1" colspan="1"><bold>mtSSU acc. no.</bold></th>
+                                <th rowspan="1" colspan="1"><bold>ITS acc. no</bold></th>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora achroa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782663</td>
+                                <td rowspan="1" colspan="1">JN943714</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> aff. <italic>achroa</italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782662</td>
+                                <td rowspan="1" colspan="1">JQ782708</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora allophana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">AY567710</td>
+                                <td rowspan="1" colspan="1">AF070031</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora argentata</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782664</td>
+                                <td rowspan="1" colspan="1">JQ782704</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora argopholis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">DQ787358</td>
+                                <td rowspan="1" colspan="1">JQ782705</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora austrotropica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782665</td>
+                                <td rowspan="1" colspan="1">JQ782706</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora californica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782668</td>
+                                <td rowspan="1" colspan="1">JQ782707</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora campestris</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">DQ787362</td>
+                                <td rowspan="1" colspan="1">AF159930</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora elatinoides</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782669</td>
+                                <td rowspan="1" colspan="1">JQ782709</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora flavopallida</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782673</td>
+                                <td rowspan="1" colspan="1">JN943723</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora flavopallida</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782674</td>
+                                <td rowspan="1" colspan="1">JN943724</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora flavoviridis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782675</td>
+                                <td rowspan="1" colspan="1">JQ782711</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora gangaleoides</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782676</td>
+                                <td rowspan="1" colspan="1">JQ782712</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora helva</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782679</td>
+                                <td rowspan="1" colspan="1">JQ782716</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora helva</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782680</td>
+                                <td rowspan="1" colspan="1">JQ782715</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> aff. <italic>helva</italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782677</td>
+                                <td rowspan="1" colspan="1">JQ782713</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> aff. <italic>helva</italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782678</td>
+                                <td rowspan="1" colspan="1">JQ782714</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora hybocarpa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> DQ912273</td>
+                                <td rowspan="1" colspan="1">DQ782849</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Kenya, <italic>Kirika 1179</italic> (F)</td>
+                                <td rowspan="1" colspan="1"><bold>JQ900616</bold></td>
+                                <td rowspan="1" colspan="1"><bold>JQ900618</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora leproplaca</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782683</td>
+                                <td rowspan="1" colspan="1">JQ782718</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora leproplaca</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782684</td>
+                                <td rowspan="1" colspan="1">JQ782719</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora leprosa</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782682</td>
+                                <td rowspan="1" colspan="1">JQ782721</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora leprosa</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782685</td>
+                                <td rowspan="1" colspan="1">JQ782720</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1">Kenya, <italic>Kirika 2205</italic> (F)</td>
+                                <td rowspan="1" colspan="1"><bold>JQ900617</bold></td>
+                                <td rowspan="1" colspan="1"><bold>JQ900619</bold></td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora pacifica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782686</td>
+                                <td rowspan="1" colspan="1">JQ782722</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora paramerae</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1"> EF105418</td>
+                                <td rowspan="1" colspan="1">EF105413</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora phaeocardia</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782687</td>
+                                <td rowspan="1" colspan="1">JQ782724</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora phaeocardia</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782688</td>
+                                <td rowspan="1" colspan="1">JQ782723</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora plumosa</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782689</td>
+                                <td rowspan="1" colspan="1">JQ782725</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora plumosa</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782690</td>
+                                <td rowspan="1" colspan="1">JQ782726</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora pseudogangaleoides</tp:taxon-name></italic> ssp. <italic>verdonii</italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782691</td>
+                                <td rowspan="1" colspan="1">JQ782727</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora queenslandica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782692</td>
+                                <td rowspan="1" colspan="1">JQ782728</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sp.C</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782693</td>
+                                <td rowspan="1" colspan="1">JQ782729</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sp.E (sorediate)</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782694</td>
+                                <td rowspan="1" colspan="1">JQ782730</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora subimmergens</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782696</td>
+                                <td rowspan="1" colspan="1">JQ782732</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora subimmergens</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782695</td>
+                                <td rowspan="1" colspan="1">JQ782731</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora subimmersa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782697</td>
+                                <td rowspan="1" colspan="1">JQ782733</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora toroyensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782698</td>
+                                <td rowspan="1" colspan="1">JQ782734</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora tropica</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782699</td>
+                                <td rowspan="1" colspan="1">JN943720</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora ulrikii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782700</td>
+                                <td rowspan="1" colspan="1">-</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora vainioi</tp:taxon-name></italic>1</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782702</td>
+                                <td rowspan="1" colspan="1">JN943716</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora vainioi</tp:taxon-name></italic>2</td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782701</td>
+                                <td rowspan="1" colspan="1">JN943717</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Lecanora wilsonii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">JQ782703</td>
+                                <td rowspan="1" colspan="1">-</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ramboldia arandensis</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">EU075527</td>
+                                <td rowspan="1" colspan="1">EU075541</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ramboldia brunneocarpa</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">EU075528</td>
+                                <td rowspan="1" colspan="1">EU075542</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ramboldia laeta</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">EU075530</td>
+                                <td rowspan="1" colspan="1">EU075544</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ramboldia petraeoides</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">EU075531</td>
+                                <td rowspan="1" colspan="1">EU075545</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="1" colspan="1"><italic><tp:taxon-name>Ramboldia stuartii</tp:taxon-name></italic></td>
+                                <td rowspan="1" colspan="1"></td>
+                                <td rowspan="1" colspan="1">EU075535</td>
+                                <td rowspan="1" colspan="1">EU075549</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </table-wrap>
+            </sec>
+            <sec sec-type="Sequence alignments and phylogenetic analysis"><title>Sequence alignments and phylogenetic analysis</title>
+                <p>Alignments were done using Clustal W (<xref ref-type="bibr" rid="B30">Thompson et al. 1994</xref>). Ambiguously aligned regions were removed manually. The single locus and concatenated alignments were analyzed by maximum likelihood (ML) and a Bayesian approach (B/MCMC). To test for potential conflict, ML bootstrap analyses were performed on the individual data sets, and 75% bootstrap consensus trees were examined for conflict (<xref ref-type="bibr" rid="B21">Lutzoni et al. 2004</xref>). Maximum likelihood analyses were performed using the program GARLI (<xref ref-type="bibr" rid="B34">Zwickl 2006</xref>), employing <!--PageBreak-->the general time reversible model of nucleotide substitution (<xref ref-type="bibr" rid="B29">Rodriguez et al. 1990</xref>), including estimation of invariant sites, and assuming a discrete gamma distribution with six rate categories. Bootstrapping (<xref ref-type="bibr" rid="B5">Felsenstein 1985</xref>) was performed based on 2000 replicates. The B/MCMC analysis was conducted on the concatenated data set using MrBayes 3.1.2 (<xref ref-type="bibr" rid="B9">Huelsenbeck and Ronquist 2001</xref>), with the same substitution model as in the ML analysis. The dataset was portioned into the two parts (mtSSU, ITS) and each partition was allowed to have own parameters (<xref ref-type="bibr" rid="B23">Nylander et al. 2004</xref>). A run with 20,000,000 generations, starting with a random tree and employing 4 simultaneous chains, was executed. Every 100<sup>th</sup> tree was saved into a file. The first 500,000 generations (i.e. the first 5000 trees) were deleted as the “burn in” of the chain. We used AWTY (<xref ref-type="bibr" rid="B24">Nylander et al. 2007</xref>) to compare splits frequencies in the different runs and to plot cumulative split frequencies to ensure that equilibrium was reached. Of the remaining trees a majority rule consensus tree with average branch lengths was calculated using the sumt option of MrBayes. Posterior probabilities were obtained for each clade. Only clades that received bootstrap support equal or above 70% under ML and posterior probabilities ≥ 0.95 were considered as strongly supported. Phylogenetic trees were visualized using the program Treeview (<xref ref-type="bibr" rid="B25">Page 1996</xref>).</p>
+            </sec>
+            <sec sec-type="Anatomical and chemical studies"><title>Anatomical and chemical studies</title>
+                <p>Anatomical studies were conducted using standard light microscopy on hand-cut sections mounted in water. Secondary lichen substances were identified by high performance thin-layer chromatography (HPTLC) according to the standard methods (<xref ref-type="bibr" rid="B1">Arup et al. 1993</xref>).</p>
+            </sec>
+            <sec sec-type="Data resources"><title>Data resources</title>
+                <p>The data underpinning the analyses reported in this paper are deposited in the Dryad Data Repository at <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.10.5061/dryad.b1068" xlink:type="simple">doi: 10.10.5061/dryad.b1068</ext-link>.</p>
+            </sec>
+        </sec>
+        <sec sec-type="Results and discussion"><title>Results and discussion</title>
+            <sec sec-type="The Species"><title>The Species</title>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Lecanora</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">kenyana</tp:taxon-name-part>
+                        <object-id xlink:type="simple">Mycobank no. MB800051</object-id>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Lecanora_kenyana</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Kirika &amp; Lumbsch</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F1">Figure 1</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type"><title>Type.</title>
+                        <p> Kenya, Eastern Prov., Mount Kenya National Park, Chogoria Track, close to Chogoria Gate, open <italic><tp:taxon-name>Juniperus</tp:taxon-name></italic>-<italic><tp:taxon-name>Podocarpus</tp:taxon-name></italic> woodland, <named-content content-type="dwc:verbatimCoordinates">0°09'S, 37°26'E</named-content>, 2960m alt., 27.01.2010, on <italic><tp:taxon-name>Juniperus</tp:taxon-name></italic>, <italic>P. Kirika 1179, G. Mugambi &amp; H.T. Lumbsch</italic> (holotype EA, isotype F).<!--PageBreak--></p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p> Thallus crustose, verrucose to verruculose, thin to thick, glossy, whitish to greenish; margin indistinct; prothallus not visible; sorediate. Soralia roundish, concave, 0.5–1.2 mm diam., remaining distinct or coalescing, with granular soredia, yellowish green to yellowish gray. Apothecia sessile, strictly constricted at base, 0.6–2.0 mm diam., lecanorine; disc red-brown, shiny, plane, epruinose; margin concolourous with thallus, prominent, thick, smooth, entire to verruculose, flexuose. Amphithecial cortex uniform, gelatinous, inspersed with crystals, hyaline, 25–45 µm thick, with hyphae growing out basally. Amphithecium with small and large crystals (=<italic>melacarpella</italic>-type). Hypothecium hyaline, 25–30 µm high, parathecium hyaline, with yellowish crystals, 5–7 µm thick. Hymenium hyaline, 55–70 µm high, clear. Epihymenium red–brown, 10–12 µm thick, with numerous, small crystals; pigmentation and crystals dissolving in K (=<italic>pulicaris</italic>–type). Paraphyses sparingly branched, apically slightly swollen, hyaline. Asci clavate, 50–60 × 10–14 µm, 8–spored. Ascospores ellipsoid to narrowly ellipsoid, 12–17 × 4.5–6.5 µm. Pycnidia not seen.</p>
+                        <fig id="F1" position="float" orientation="portrait">
+                            <label>Figure 1, 2.</label>
+                            <caption><p> Morphology of the new <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> species. <bold>1</bold> <italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic>, isotype (F). <bold>2</bold> <italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic>, isotype (F). Scale bars = 1mm</p></caption>
+                            <graphic xlink:href="MycoKeys-003-037-g001.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                        </fig>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Chemistry"><title>Chemistry.</title>
+                        <p> Thallus and apothecial margin K+ yellow, C-, KC–, containing atranorin (minor), and usnic acid (major).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                        <p> The new species is named after the country Kenya where the new species has been found.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                        <p> <italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic> is characterized by relatively large, red-brown apothecia with a constricted base, a <italic>melacarpella</italic>-type amphithecium, <italic>pulicaris</italic>-type epihymenium, the presence of usnic acid as major constituent, and the presence of soralia. There are only few sorediate <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto species with usnic acid, including <italic><tp:taxon-name>Lecanora brodoana</tp:taxon-name></italic>, <italic><tp:taxon-name>Lecanora elatinoides</tp:taxon-name></italic>, <italic><tp:taxon-name>Lecanora floridula</tp:taxon-name></italic>, <italic><tp:taxon-name>Lecanora jamesii</tp:taxon-name></italic>, <italic><tp:taxon-name>Lecanora mobergiana</tp:taxon-name></italic>, and <italic><tp:taxon-name>Lecanora transvaalensis</tp:taxon-name></italic> (<xref ref-type="bibr" rid="B4">Brodo and Elix 1993</xref>; <xref ref-type="bibr" rid="B15">Lumbsch and Elix 1998</xref>; <xref ref-type="bibr" rid="B12">Lumbsch et al. 1995</xref>; <xref ref-type="bibr" rid="B20">Lumbsch and Nash 1995</xref>). The saxicolous <italic><tp:taxon-name>Lecanora brodoana</tp:taxon-name></italic> and <italic><tp:taxon-name>Lecanora mobergiana</tp:taxon-name></italic> differ in having an egranulose epihymenium among other characters, whereas <italic><tp:taxon-name>Lecanora elatinoides</tp:taxon-name></italic> (containing pannarin) and <italic><tp:taxon-name>Lecanora jamesii</tp:taxon-name></italic> (containing 2-<italic>O</italic>-methylsulphurellin) are readily distinguished by their alter<!--PageBreak-->native chemistry and smaller ascospores. Similar species include <italic><tp:taxon-name>Lecanora floridula</tp:taxon-name></italic> described from Florida (USA) and <italic><tp:taxon-name>Lecanora transvaalensis</tp:taxon-name></italic> from South Africa. The former species can be distinguished by having smaller apothecia (up to 1 mm), thinner and poorly developed amphithecial cortex, a <italic>chlarotera-</italic>type epihymenium, smaller ascospores, and the presence of unidentified triterpenes (<xref ref-type="bibr" rid="B16">Lumbsch et al. 1995</xref>). <italic><tp:taxon-name>Lecanora transvaalensis</tp:taxon-name></italic> differs from <italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic> in having smaller apothecia (up to 0.9 mm), a thinner and poorly developed amphithecial cortex, and smaller, broadly ellipsoid ascospores (9.5–11.5 × 7.0–8.5 µm). Further, it contains unidentified terpenoids (<xref ref-type="bibr" rid="B16">Lumbsch et al. 1995</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Ecology and distribution.</title>
+                        <p>At present this species is known from bark of juniper trees in open habitats at altitudes above 2800m in forests dominated by <italic><tp:taxon-name>Hagenia</tp:taxon-name></italic> and <italic><tp:taxon-name>Podocarpus</tp:taxon-name></italic>. Associated lichens included <italic><tp:taxon-name>Heterodermia leucomelos</tp:taxon-name></italic>, <italic><tp:taxon-name>Lecanora caesiorubella</tp:taxon-name></italic>, <italic><tp:taxon-name>Leptogium laceroides</tp:taxon-name></italic>, <italic><tp:taxon-name>Lobaria pulmonaria</tp:taxon-name></italic>, <italic><tp:taxon-name>Pannaria fulvescens</tp:taxon-name></italic>, <italic><tp:taxon-name>Physcia albata</tp:taxon-name></italic>, <italic><tp:taxon-name>Pseudocyphellaria aurata</tp:taxon-name></italic>, <italic><tp:taxon-name>Physcia crocata</tp:taxon-name></italic>, <italic><tp:taxon-name>Varicellaria velata</tp:taxon-name></italic>, and several <italic><tp:taxon-name>Usnea</tp:taxon-name></italic> spp.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Additional specimen examined"><title>Additional specimen examined.</title>
+                        <p> Kenya: Eastern Prov., Mt. Kenya National Park, Sirimon route, ca. 3km for KWS gate towards Old Moses Camp, <named-content content-type="dwc:verbatimCoordinates">00°00'N, 37°15'E</named-content>, mature montane forest with <italic><tp:taxon-name>Podocarpus</tp:taxon-name></italic>, <italic><tp:taxon-name>Olea</tp:taxon-name></italic>, <italic><tp:taxon-name>Hagenia</tp:taxon-name></italic> and <italic><tp:taxon-name>Arundinaria alpina</tp:taxon-name></italic>, 2870m, on bark, 7.10.2010, <italic>P. Kirika 2051, G. Mugambi, G. Gatere and M. Mutembei</italic> (EA).</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+                <tp:taxon-treatment>
+                    <tp:nomenclature>
+                        <tp:taxon-name>
+                            <tp:taxon-name-part taxon-name-part-type="genus">Lecanora</tp:taxon-name-part>
+                            <tp:taxon-name-part taxon-name-part-type="species">orientoafricana</tp:taxon-name-part>
+                        <object-id xlink:type="simple">Mycobank no. MB800052</object-id>
+                        <object-id xlink:type="simple">http://species-id.net/wiki/Lecanora_orientoafricana</object-id>
+                        </tp:taxon-name>
+                        <tp:taxon-authority>Kirika &amp; Lumbsch</tp:taxon-authority>
+                        <tp:taxon-status xlink:type="simple">sp. nov.</tp:taxon-status>
+                        <xref ref-type="fig" rid="F1">Figure 2</xref>
+                    </tp:nomenclature>
+                    <tp:treatment-sec sec-type="Type"><title>Type.</title>
+                        <p>Kenya, Rift Valley Prov., Cherangani Hills, Kerer forest, degraded montane forest, 3240m, on bark, 25.07.2011, <italic>P. Kirika</italic> 2205 (EA, holotype, F-isotype).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Description"><title>Description.</title>
+                        <p> Thallus crustose, verrucose to verruculose, thin to thick, glossy, whitish to greenish grey; margin indistinct; prothallus not visible; sorediate. Soralia roundish, 0.3–1.0 mm diam., with granulose soredia, light pale greenish white to grayish green. Apothecia sessile, constricted at base, 0.4–1.4 mm diam., lecanorine; disc light red-brown to brown, matt, plane or concave, sparsely grayish pruinose; margin concolourous with thallus, prominent, thick, smooth, verruculose. Amphithecial cortex uniform, gelatinous, inspersed with crystals, hyaline, 20–30 µm thick. Amphithecium with large crystals (=<italic>pulicaris</italic>–type). Hypothecium red-brown to yellowish brown, 30–40 µm high, parathecium hyaline, lacking crystals, 5–7 µm thick. Hymenium hyaline, 70–85 µm high, clear. Epihymenium red–brown, 10–12 µm thick, with coarse crystals; pigmentation and crystals dissolving in K (=<italic>chlarotera</italic>–type). Paraphyses sparingly branched, apically slightly swollen, hyaline. Asci clavate, 50–60 × 10–12 µm, 8–spored. Ascospores ellipsoid to broadly ellipsoid, 12.5–15.5 × 6.0–8.5 µm. Pycnidia not seen.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Chemistry"><title>Chemistry.</title>
+                        <p> Thallus and apothecial margin K+ yellow, C-, KC–, containing atranorin and gangaleoidin.</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Etymology"><title>Etymology.</title>
+                        <p> The new species is named after the area East Africa where it has been collected.<!--PageBreak--></p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Notes"><title>Notes.</title>
+                        <p> <italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic> is characterized by the presence of granular soredia, sparsely pruinose, brown apothecia, a <italic>pulicaris</italic>-type amphithecium, <italic>chlarotera</italic>-type epihymenium, dark hypothecium, broadly ellipsoid ascospores, and the presence of atranorin and gangaleoidin. Soredia are rare among <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto species with a dark hypothecium. Some specimens of <italic><tp:taxon-name>Lecanora coronulans</tp:taxon-name></italic> are sorediate, but this species is readily distinguished by epruinose apothecial discs, an egranulose epihymenium, and the presence of protoconstipatic acid and zeorin and major constituents in addition to atranorin (<xref ref-type="bibr" rid="B17">Lumbsch et al. 1996</xref>). Similar esorediate species include <italic><tp:taxon-name>Lecanora egranulosa</tp:taxon-name></italic> and <italic><tp:taxon-name>Lecanora phaeocardia</tp:taxon-name></italic>. The latter differs from <italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic> in having epruinose apothecial discs, a thinner amphithecial cortex, and alternative chemistry. <italic><tp:taxon-name>Lecanora egranulosa</tp:taxon-name></italic> is readily distinguished by darker, epruinose apothecial discs, an indistinct, thin amphithecial cortex, small crystals in the epihymenium, shorter ascospores, and the presence of zeorin (<xref ref-type="bibr" rid="B17">Lumbsch et al. 1996</xref>).</p>
+                    </tp:treatment-sec>
+                    <tp:treatment-sec sec-type="Distribution"><title>Ecology and distribution.</title>
+                        <p>This new species is currently only known from the type locality in the Rift Valley province of Kenya, where it was found growing on bark in a degraded montane forest dominated by <italic><tp:taxon-name>Podocarpus falcatus</tp:taxon-name></italic>, <italic><tp:taxon-name>Rapanea melanophloes</tp:taxon-name></italic> and <italic><tp:taxon-name>Faurea saligna</tp:taxon-name></italic> at an altitude of 3240m. Associated species included <italic><tp:taxon-name>Sphaerophorus melanocarpus</tp:taxon-name></italic>, <italic><tp:taxon-name>Pannaria cf. rubiginosa</tp:taxon-name></italic>, and <italic><tp:taxon-name>Ramalina</tp:taxon-name></italic> spp.</p>
+                    </tp:treatment-sec>
+                </tp:taxon-treatment>
+            </sec>
+            <sec sec-type="Phylogenetic study"><title>Phylogenetic study</title>
+                <p>Four new sequences were generated for this study and aligned with sequences downloaded from Genbank (<xref ref-type="table" rid="T1">Table 1</xref>). The single gene locus did not show any conflicts and hence the concatenated data set was analyzed. Our combined data set included 820 unambiguously aligned positions, 174 of which were constant. The ML tree had a likelihood value of –3718.083 and in the B/MCMC analysis of the combined data set, the likelihood parameters in the sample had the following mean (Variance): LnL = -3794.172 (0.21). The ML tree and the tree from the B/MCMC tree sampling were almost identical with no differences in well-supported clades. Thus, only the ML tree is shown here (<xref ref-type="fig" rid="F2">Fig. 3</xref>). In our analysis, species of the genus <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> form a strongly supported monophyletic group as in a previously published study (<xref ref-type="bibr" rid="B27">Papong et al. in press</xref>). Since <xref ref-type="bibr" rid="B27">Papong et al. (in press)</xref> discussed the relationships of the different <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> groups in detail, these discussions are not reiterated here, but we focus only on the relationships of the two newly described species here. <italic><tp:taxon-name>Lecanora kenyana</tp:taxon-name></italic> clusters strongly supported with <italic><tp:taxon-name>Lecanora ulrikii</tp:taxon-name></italic> and <italic><tp:taxon-name>Lecanora wilsonii</tp:taxon-name></italic>, two species which also contain usnic acid (<xref ref-type="bibr" rid="B16">Lumbsch et al. 1995</xref>; <xref ref-type="bibr" rid="B26">Papong et al. 2011</xref>; <xref ref-type="bibr" rid="B27">Papong et al. in press</xref>; <xref ref-type="bibr" rid="B28">Papong and Lumbsch 2011</xref>). <italic><tp:taxon-name>Lecanora orientoafricana</tp:taxon-name></italic> is sister to <italic><tp:taxon-name>Lecanora flavoviridis</tp:taxon-name></italic>, which also has a dark hypothecium (<xref ref-type="bibr" rid="B17">Lumbsch et al. 1996</xref>; <xref ref-type="bibr" rid="B27">Papong et al. in press</xref>). The molecular data support the placement of the new species in <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> sensu stricto. However, given the few sequences available from tropical <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> in Genbank, the molecular data cannot be used to confirm that the species have indeed not been described previously. We conclude that they are new based on our database of known <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> species and our examinations of type material of <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> spp. over more than 24 years.</p>
+                <fig id="F2" position="float" orientation="portrait">
+                    <label>Figure 3.</label>
+                    <caption><p> Phylogenetic placement of the two new <italic><tp:taxon-name>Lecanora</tp:taxon-name></italic> species as inferred from a concatenated alignment of mtSSU and ITS DNA sequences. This is the optimal tree under maximum likelihood. Branches in bold received likelihood bootstrap support values above 70%, and posterior probabilities equal or above 0.95</p></caption>
+                    <graphic xlink:href="MycoKeys-003-037-g002.jpg" position="float" orientation="portrait" xlink:type="simple"></graphic>
+                </fig>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <title>Acknowledgements</title>
+            <p>We wish to thank the Kenya Wildlife Service (KWS) and the Kenya Forest Service (KFS) for providing collecting permits and Nature Kenya for partially supporting fieldwork in the Rift valley. We also thank George Mugambi (Nairobi) for his help and support on field trips. This study was financially supported by The Field Museum/IDP Foundation, Inc. African Training Fund. The laboratory work was done at the Pritzker Laboratory for Molecular Systematics and Evolution at the Field Museum.<!--PageBreak--></p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="B1"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arup</surname><given-names>U</given-names></name><name name-style="western"><surname>Ekman</surname><given-names>S</given-names></name><name name-style="western"><surname>Lindblom</surname><given-names>L</given-names></name><name name-style="western"><surname>Mattsson</surname><given-names>J-E</given-names></name></person-group> (<year>1993</year>)<article-title> High performance thin layer chromatography (HPTLC), an improved technique for screening lichen substances.</article-title> <source>Lichenologist </source> <volume>25</volume>: <fpage>61</fpage>-<lpage>71</lpage>.</mixed-citation></ref>
+            <ref id="B2"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arup</surname><given-names>U</given-names></name><name name-style="western"><surname>Grube</surname><given-names>M</given-names></name></person-group> (<year>1998</year>)<article-title> Molecular systematics of <italic>Lecanora</italic> subgenus <italic>Placodium</italic>.</article-title> <source>Lichenologist </source> <volume>30</volume>: <fpage>415</fpage>-<lpage>425</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0024282992000410" xlink:type="simple">10.1017/S0024282992000410</ext-link></mixed-citation></ref>
+            <ref id="B3"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Arup</surname><given-names>U</given-names></name><name name-style="western"><surname>Grube</surname><given-names>M</given-names></name></person-group> (<year>2000</year>)<source> Is <italic>Rhizoplaca</italic> (Lecanorales, lichenized Ascomycota) a monophyletic genus? Canadian Journal of Botany 78: 318–327.</source></mixed-citation></ref>
+            <ref id="B4"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Brodo</surname><given-names>IM</given-names></name><name name-style="western"><surname>Elix</surname><given-names>JA</given-names></name></person-group> (<year>1993</year>)<article-title> <italic>Lecanora jamesii</italic> and the relationship between <italic>Lecanora</italic> s. str. and <italic>Straminella</italic>.</article-title> <source>Bibliotheca Lichenologica </source> <volume>53</volume>: <fpage>19</fpage>-<lpage>25</lpage>.</mixed-citation></ref>
+            <ref id="B5"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Felsenstein</surname><given-names>J</given-names></name></person-group> (<year>1985</year>)<article-title> Confidence-limits on phylogenies - an approach using the bootstrap.</article-title> <source>Evolution </source> <volume>39</volume>: <fpage>783</fpage>-<lpage>791</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/2408678" xlink:type="simple">10.2307/2408678</ext-link></mixed-citation></ref>
+            <ref id="B6"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Gardes</surname><given-names>M</given-names></name><name name-style="western"><surname>Bruns</surname><given-names>TD</given-names></name></person-group> (<year>1993</year>)<article-title> ITS primers with enhanced specificity for basidiomycetes - Application to the identification of mycorrhizae and rusts.</article-title> <source>Molecular Ecology </source> <volume>2</volume>: <fpage>113</fpage>-<lpage>118</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/j.1365-294X.1993.tb00005.x" xlink:type="simple">10.1111/j.1365-294X.1993.tb00005.x</ext-link></mixed-citation></ref>
+            <ref id="B7"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Grube</surname><given-names>M</given-names></name><name name-style="western"><surname>Baloch</surname><given-names>E</given-names></name><name name-style="western"><surname>Arup</surname><given-names>U</given-names></name></person-group> (<year>2004</year>)<article-title> A phylogenetic study of the <italic>Lecanora rupicola</italic> group (Lecanoraceae, Ascomycota).</article-title> <source>Mycological Research </source> <volume>108</volume>: <fpage>506</fpage>-<lpage>514</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0953756204009888" xlink:type="simple">10.1017/S0953756204009888</ext-link></mixed-citation></ref>
+            <ref id="B8"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Guderley</surname><given-names>R</given-names></name></person-group> (<year>1999</year>)<article-title> Die <italic>Lecanora subfusca-</italic>Gruppe in Süd- und Mittelamerika.</article-title> <source>Journal of the Hattori Botanical Laboratory </source> <volume>87</volume>: <fpage>131</fpage>-<lpage>257</lpage>.</mixed-citation></ref>
+            <ref id="B9"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name></person-group> (<year>2001</year>)<article-title> MRBAYES: Bayesian inference of phylogenetic trees.</article-title> <source>Bioinformatics </source> <volume>17</volume>: <fpage>754</fpage>-<lpage>755</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/17.8.754" xlink:type="simple">10.1093/bioinformatics/17.8.754</ext-link></mixed-citation></ref>
+            <ref id="B10"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kalb</surname><given-names>K</given-names></name><name name-style="western"><surname>Staiget</surname><given-names>B</given-names></name><name name-style="western"><surname>Elix</surname><given-names>JA</given-names></name><name name-style="western"><surname>Lange</surname><given-names>U</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>2008</year>)<article-title> A new circumscription of the genus <italic>Ramboldia</italic> (Lecanoraceae, Ascomycota) based on morphological and molecular evidence.</article-title> <source>Nova Hedwigia </source> <volume>86</volume>: <fpage>23</fpage>-<lpage>42</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1127/0029-5035/2008/0086-0023" xlink:type="simple">10.1127/0029-5035/2008/0086-0023</ext-link></mixed-citation></ref>
+            <ref id="B11"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Kirika</surname><given-names>P</given-names></name><name name-style="western"><surname>Mugambi</surname><given-names>GK</given-names></name><name name-style="western"><surname>Lücking</surname><given-names>R</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>in press</year>)<source> New records of lichen-forming fungi from Kenya. Journal of East African Natural History.</source></mixed-citation></ref>
+            <ref id="B12"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>1995</year>)<article-title> A new species in the <italic>Lecanora subfusca</italic> group containing usnic acid in addition to atranorin.</article-title> <source>Lichenologist </source> <volume>27</volume>: <fpage>161</fpage>-<lpage>167</lpage>.</mixed-citation></ref>
+            <ref id="B13"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>2002</year>)<source> How objective are genera in euascomycetes? Perspectives in Plant Ecology Evolution and Systematics 5: 91–101. </source>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1078/1433-8319-00025" xlink:type="simple">10.1078/1433-8319-00025</ext-link></mixed-citation></ref>
+            <ref id="B14"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Ahti</surname><given-names>T</given-names></name><name name-style="western"><surname>Altermann</surname><given-names>S</given-names></name><name name-style="western"><surname>Amo</surname><given-names>G</given-names></name><name name-style="western"><surname>Aptroot</surname><given-names>A</given-names></name><name name-style="western"><surname>Arup</surname><given-names>U</given-names></name><name name-style="western"><surname>Barcenas Peña</surname><given-names>A</given-names></name><name name-style="western"><surname>Bawingan</surname><given-names>PA</given-names></name><name name-style="western"><surname>Benatti</surname><given-names>MN</given-names></name><name name-style="western"><surname>Betancourt</surname><given-names>L</given-names></name><name name-style="western"><surname>Björk</surname><given-names>CR</given-names></name><name name-style="western"><surname>Boonpragob</surname><given-names>K</given-names></name><name name-style="western"><surname>Brand</surname><given-names>M</given-names></name><name name-style="western"><surname>Bungartz</surname><given-names>F</given-names></name><name name-style="western"><surname>Caceres</surname><given-names>M</given-names></name><name name-style="western"><surname>Candan</surname><given-names>M</given-names></name><name name-style="western"><surname>Chaves</surname><given-names>JL</given-names></name><name name-style="western"><surname>Clerc</surname><given-names>P</given-names></name><name name-style="western"><surname>Common</surname><given-names>R</given-names></name><name name-style="western"><surname>Coppins</surname><given-names>BJ</given-names></name><name name-style="western"><surname>Crespo</surname><given-names>A</given-names></name><name name-style="western"><surname>Dal Forno</surname><given-names>M</given-names></name><name name-style="western"><surname>Divakar</surname><given-names>PK</given-names></name><name name-style="western"><surname>Duya</surname><given-names>MV</given-names></name><name name-style="western"><surname>Elix</surname><given-names>JA</given-names></name><name name-style="western"><surname>Elvebakk</surname><given-names>A</given-names></name><name name-style="western"><surname>Fankhauser</surname><given-names>J</given-names></name><name name-style="western"><surname>Farkas</surname><given-names>E</given-names></name><name name-style="western"><surname>Ferraro</surname><given-names>LI</given-names></name><name name-style="western"><surname>Fischer</surname><given-names>E</given-names></name><name name-style="western"><surname>Galloway</surname><given-names>DJ</given-names></name><name name-style="western"><surname>Gaya</surname><given-names>E</given-names></name><name name-style="western"><surname>Giralt</surname><given-names>M</given-names></name><name name-style="western"><surname>Goward</surname><given-names>T</given-names></name><name name-style="western"><surname>Grube</surname><given-names>M</given-names></name><name name-style="western"><surname>Hafellner</surname><given-names>J</given-names></name><name name-style="western"><surname>Hernández</surname><given-names>J</given-names></name><name name-style="western"><surname>Herrera-Campos</surname><given-names>MA</given-names></name><name name-style="western"><surname>Kalb</surname><given-names>K</given-names></name><name name-style="western"><surname>Kärnefelt</surname><given-names>I</given-names></name><name name-style="western"><surname>Kantvilas</surname><given-names>G</given-names></name><name name-style="western"><surname>Killmann</surname><given-names>D</given-names></name><name name-style="western"><surname>Kirika</surname><given-names>P</given-names></name><name name-style="western"><surname>Knudsen</surname><given-names>K</given-names></name><name name-style="western"><surname>Komposch</surname><given-names>H</given-names></name><name name-style="western"><surname>Kondratyuk</surname><given-names>S</given-names></name><name name-style="western"><surname>Lawrey</surname><given-names>JD</given-names></name><name name-style="western"><surname>Mangold</surname><given-names>A</given-names></name><name name-style="western"><surname>Marcelli</surname><given-names>MP</given-names></name><name name-style="western"><surname>McCune</surname><given-names>B</given-names></name><name name-style="western"><surname>Michlig</surname><given-names>A</given-names></name><name name-style="western"><surname>Miranda Gonzalez</surname><given-names>R</given-names></name><name name-style="western"><surname>Moncada</surname><given-names>B</given-names></name><name name-style="western"><surname>Naikatini</surname><given-names>A</given-names></name><name name-style="western"><surname>Nelsen</surname><given-names>MP</given-names></name><name name-style="western"><surname>Øvstedal</surname><given-names>DO</given-names></name><name name-style="western"><surname>Palice</surname><given-names>Z</given-names></name><name name-style="western"><surname>Papong</surname><given-names>K</given-names></name><name name-style="western"><surname>Parnmen</surname><given-names>S</given-names></name><name name-style="western"><surname>Pérez-Ortega</surname><given-names>S</given-names></name><name name-style="western"><surname>Printzen</surname><given-names>C</given-names></name><name name-style="western"><surname>Rico</surname><given-names>VJ</given-names></name><name name-style="western"><surname>Rivas Plata</surname><given-names>E</given-names></name><name name-style="western"><surname>Robayo</surname><given-names>J</given-names></name><name name-style="western"><surname>Rosabal</surname><given-names>D</given-names></name><name name-style="western"><surname>Ruprecht</surname><given-names>U</given-names></name><name name-style="western"><surname>Salazar Allen</surname><given-names>N</given-names></name><name name-style="western"><surname>Sancho</surname><given-names>L</given-names></name><name name-style="western"><surname>Santos de Jesus</surname><given-names>L</given-names></name><name name-style="western"><surname>Santos Vieira</surname><given-names>T</given-names></name><name name-style="western"><surname>Schultz</surname><given-names>M</given-names></name><name name-style="western"><surname>Seaward</surname><given-names>MRD</given-names></name><name name-style="western"><surname>Sérusiaux</surname><given-names>E</given-names></name><name name-style="western"><surname>Schmitt</surname><given-names>I</given-names></name><name name-style="western"><surname>Sipman</surname><given-names>HJM</given-names></name><name name-style="western"><surname>Sohrabi</surname><given-names>M</given-names></name><name name-style="western"><surname>Søchting</surname><given-names>U</given-names></name><name name-style="western"><surname>Søgaard</surname><given-names>MZ</given-names></name><name name-style="western"><surname>Sparrius</surname><given-names>L</given-names></name><name name-style="western"><surname>Spielmann</surname><given-names>AA</given-names></name><name name-style="western"><surname>Spribille</surname><given-names>T</given-names></name><name name-style="western"><surname>Sutjaritturakan</surname><given-names>J</given-names></name><name name-style="western"><surname>Thammathaworn</surname><given-names>A</given-names></name><name name-style="western"><surname>Thell</surname><given-names>A</given-names></name><name name-style="western"><surname>Thor</surname><given-names>G</given-names></name><name name-style="western"><surname>Thüs</surname><given-names>H</given-names></name><name name-style="western"><surname>Timdal</surname><given-names>E</given-names></name><name name-style="western"><surname>Truong</surname><given-names>C</given-names></name><name name-style="western"><surname>Türk</surname><given-names>R</given-names></name><name name-style="western"><surname>Umaña Tenorio</surname><given-names>L</given-names></name><name name-style="western"><surname>Upreti</surname><given-names>DK</given-names></name><name name-style="western"><surname>van den Boom</surname><given-names>P</given-names></name><name name-style="western"><surname>Vivas Rebuelta</surname><given-names>M</given-names></name><name name-style="western"><surname>Wedin</surname><given-names>M</given-names></name><name name-style="western"><surname>Will-Wolf</surname><given-names>S</given-names></name><name name-style="western"><surname>Wirth</surname><given-names>V</given-names></name><name name-style="western"><surname>Wirtz</surname><given-names>N</given-names></name><name name-style="western"><surname>Yahr</surname><given-names>R</given-names></name><name name-style="western"><surname>Yeshitela</surname><given-names>K</given-names></name><name name-style="western"><surname>Ziemmeck</surname><given-names>F</given-names></name><name name-style="western"><surname>Lücking</surname><given-names>R</given-names></name></person-group> (<year>2011</year>)<article-title> One hundred new species of lichenized fungi: a signature of undiscovered global diversity.</article-title> <source>Phytotaxa </source> <volume>18</volume>: <fpage>1</fpage>-<lpage>127</lpage>.</mixed-citation></ref>
+            <ref id="B15"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Elix</surname><given-names>JA</given-names></name></person-group> (<year>1998</year>)<article-title> Five new species of <italic>Lecanora</italic> from Australia (lichenized Ascomycotina; Lecanoraceae).</article-title> <source>Mycotaxon </source> <volume>67</volume>: <fpage>391</fpage>-<lpage>403</lpage>.</mixed-citation></ref>
+            <ref id="B16"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Feige</surname><given-names>GB</given-names></name><name name-style="western"><surname>Elix</surname><given-names>JA</given-names></name></person-group> (<year>1995</year>)<article-title> A revision of the usnic acid containing taxa belonging to <italic>Lecanora</italic> sensu stricto (Lecanorales: Lichenized Ascomycotina).</article-title> <source>Bryologist </source> <volume>98</volume>: <fpage>561</fpage>-<lpage>577</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3243588" xlink:type="simple">10.2307/3243588</ext-link></mixed-citation></ref>
+            <ref id="B17"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Guderley</surname><given-names>R</given-names></name><name name-style="western"><surname>Elix</surname><given-names>JA</given-names></name></person-group> (<year>1996</year>)<article-title> A revision of some species in <italic>Lecanora</italic> sensu stricto with a dark hypothecium (Lecanorales, Ascomycotina).</article-title> <source>Bryologist </source> <volume>99</volume>: <fpage>269</fpage>-<lpage>291</lpage>.  doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3244300" xlink:type="simple">10.2307/3244300</ext-link></mixed-citation></ref>
+            <ref id="B18"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Huhndorf</surname><given-names>SM</given-names></name></person-group> (<year>2010</year>)<article-title> Myconet Volume 14. Part One. Outline of Ascomycota - 2009.</article-title> <source>Fieldiana (Life and Earth Sciences) </source> <volume>1</volume>: <fpage>1</fpage>-<lpage>42</lpage>.</mixed-citation></ref>
+            <ref id="B19"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Messuti</surname><given-names>MI</given-names></name><name name-style="western"><surname>Nash</surname><given-names>TH</given-names></name></person-group> (<year>2003</year>)<article-title> New or overlooked species in the <italic>Lecanora subfusca</italic> group from southwestern North America (Lecanorales, Ascomycotina).</article-title> <source>Bryologist </source> <volume>106</volume>: <fpage>552</fpage>-<lpage>559</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1639/0007-2745(2003)106[552:NOOSIT]2.0.CO;2" xlink:type="simple">10.1639/0007-2745(2003)106[552:NOOSIT]2.0.CO;2</ext-link></mixed-citation></ref>
+            <ref id="B20"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>Nash</surname><given-names>TH III</given-names></name></person-group> (<year>1995</year>)<article-title> New species and new records of <italic>Lecanora</italic> s. str. from western North America.</article-title> <source>Bryologist </source> <volume>98</volume>: <fpage>398</fpage>-<lpage>401</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.2307/3243379" xlink:type="simple">10.2307/3243379</ext-link></mixed-citation></ref>
+            <ref id="B21"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Lutzoni</surname><given-names>F</given-names></name><name name-style="western"><surname>Kauff</surname><given-names>F</given-names></name><name name-style="western"><surname>Cox</surname><given-names>C</given-names></name><name name-style="western"><surname>McLaughlin</surname><given-names>D</given-names></name><name name-style="western"><surname>Celio</surname><given-names>G</given-names></name><name name-style="western"><surname>Dentinger</surname><given-names>B</given-names></name><name name-style="western"><surname>Padamsee</surname><given-names>M</given-names></name><name name-style="western"><surname>Hibbett</surname><given-names>D</given-names></name><name name-style="western"><surname>James</surname><given-names>TY</given-names></name><name name-style="western"><surname>Baloch</surname><given-names>E</given-names></name><name name-style="western"><surname>Grube</surname><given-names>M</given-names></name><name name-style="western"><surname>Reeb</surname><given-names>V</given-names></name><name name-style="western"><surname>Hofstetter</surname><given-names>V</given-names></name><name name-style="western"><surname>Schoch</surname><given-names>C</given-names></name><name name-style="western"><surname>Arnold</surname><given-names>AE</given-names></name><name name-style="western"><surname>Miadlikowska</surname><given-names>J</given-names></name><name name-style="western"><surname>Spatafora</surname><given-names>J</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>D</given-names></name><name name-style="western"><surname>Hambleton</surname><given-names>S</given-names></name><name name-style="western"><surname>Crockett</surname><given-names>M</given-names></name><name name-style="western"><surname>Shoemaker</surname><given-names>R</given-names></name><name name-style="western"><surname>Sung</surname><given-names>G-H</given-names></name><name name-style="western"><surname>Lücking</surname><given-names>R</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name><name name-style="western"><surname>O’Donnell</surname><given-names>K</given-names></name><name name-style="western"><surname>Binder</surname><given-names>M</given-names></name><name name-style="western"><surname>Diederich</surname><given-names>P</given-names></name><name name-style="western"><surname>Ertz</surname><given-names>D</given-names></name><name name-style="western"><surname>Gueidan</surname><given-names>C</given-names></name><name name-style="western"><surname>Hansen</surname><given-names>K</given-names></name><name name-style="western"><surname>Harris</surname><given-names>RC</given-names></name><name name-style="western"><surname>Hosaka</surname><given-names>K</given-names></name><name name-style="western"><surname>Lim</surname><given-names>Y-W</given-names></name><name name-style="western"><surname>Matheny</surname><given-names>B</given-names></name><name name-style="western"><surname>Nishida</surname><given-names>H</given-names></name><name name-style="western"><surname>Pfister</surname><given-names>D</given-names></name><name name-style="western"><surname>Rogers</surname><given-names>J</given-names></name><name name-style="western"><surname>Rossman</surname><given-names>A</given-names></name><name name-style="western"><surname>Schmitt</surname><given-names>I</given-names></name><name name-style="western"><surname>Sipman</surname><given-names>H</given-names></name><name name-style="western"><surname>Stone</surname><given-names>J</given-names></name><name name-style="western"><surname>Sugiyama</surname><given-names>J</given-names></name><name name-style="western"><surname>Yahr</surname><given-names>R</given-names></name><name name-style="western"><surname>Vilgalys</surname><given-names>R</given-names></name></person-group> (<year>2004</year>)<article-title> Assembling the fungal tree of life: progress, classification, and evolution of subcellular traits.</article-title> <source>American Journal of Botany </source> <volume>91</volume>: <fpage>1446</fpage>-<lpage>1480</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3732/ajb.91.10.1446" xlink:type="simple">10.3732/ajb.91.10.1446</ext-link></mixed-citation></ref>
+            <ref id="B22"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Mangold</surname><given-names>A</given-names></name><name name-style="western"><surname>Martin</surname><given-names>MP</given-names></name><name name-style="western"><surname>Lücking</surname><given-names>R</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>2008</year>)<article-title> Molecular phylogeny suggests synonymy of Thelotremataceae within Graphidaceae (Ascomycota: Ostropales).</article-title> <source>Taxon  </source> <volume>57</volume>: <fpage>476</fpage>-<lpage>486</lpage>.</mixed-citation></ref>
+            <ref id="B23"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nylander</surname><given-names>JAA</given-names></name><name name-style="western"><surname>Ronquist</surname><given-names>F</given-names></name><name name-style="western"><surname>Huelsenbeck</surname><given-names>JP</given-names></name><name name-style="western"><surname>Nieves-Aldrey</surname><given-names>JL</given-names></name></person-group> (<year>2004</year>)<article-title> Bayesian phylogenetic analysis of combined data.</article-title> <source>Systematic Biology </source> <volume>53</volume>: <fpage>47</fpage>-<lpage>67</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10635150490264699" xlink:type="simple">10.1080/10635150490264699</ext-link></mixed-citation></ref>
+            <ref id="B24"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Nylander</surname><given-names>JAA</given-names></name><name name-style="western"><surname>Wilgenbusch</surname><given-names>JC</given-names></name><name name-style="western"><surname>Warren</surname><given-names>DL</given-names></name><name name-style="western"><surname>Swofford</surname><given-names>DL</given-names></name></person-group> (<year>2007</year>)<article-title> AWTY (Are We There Yet?): a system for graphical exploration of MCMC convergence in Bayesian phylogenetics.</article-title> <source>Bioinformatics </source> <volume>24</volume>: <fpage>581</fpage>-<lpage>583</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/bioinformatics/btm388" xlink:type="simple">10.1093/bioinformatics/btm388</ext-link></mixed-citation></ref>
+            <ref id="B25"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Page</surname><given-names>RDM</given-names></name></person-group> (<year>1996</year>)<article-title> Treeview: an application to display phylogenetic trees on personal computers.</article-title> <source>Computer Applied Biosciences </source> <volume>12</volume>: <fpage>357</fpage>-<lpage>358</lpage>.</mixed-citation></ref>
+            <ref id="B26"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Papong</surname><given-names>K</given-names></name><name name-style="western"><surname>Boonpragob</surname><given-names>K</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>2011</year>)<article-title> A new species and new records of <italic>Lecanora</italic> (Lecanoraceae, Ascomycota) from south-east Asia.</article-title> <source>Lichenologist </source> <volume>43</volume>: <fpage>47</fpage>-<lpage>50</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0024282910000496" xlink:type="simple">10.1017/S0024282910000496</ext-link></mixed-citation></ref>
+            <ref id="B27"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Papong</surname><given-names>K</given-names></name><name name-style="western"><surname>Boonpragob</surname><given-names>K</given-names></name><name name-style="western"><surname>Parnmen</surname><given-names>S</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>in press</year>)<source> Molecular phylogenetic studies on tropical species of <italic>Lecanora</italic> sensu stricto (Lecanoraceae, Ascomycota). Fungal Diversity.</source></mixed-citation></ref>
+            <ref id="B28"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Papong</surname><given-names>K</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>2011</year>)<article-title> A taxonomic survey of <italic>Lecanora</italic> sensu stricto in Thailand (Lecanoraceae; Ascomycota).</article-title> <source>Lichenologist </source> <volume>43</volume>: <fpage>299</fpage>-<lpage>320</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1017/S0024282911000247" xlink:type="simple">10.1017/S0024282911000247</ext-link></mixed-citation></ref>
+            <ref id="B29"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Rodriguez</surname><given-names>F</given-names></name><name name-style="western"><surname>Oliver</surname><given-names>JL</given-names></name><name name-style="western"><surname>Marin</surname><given-names>A</given-names></name><name name-style="western"><surname>Medina</surname><given-names>JR</given-names></name></person-group> (<year>1990</year>)<article-title> The general stochastic-model of nucleotide substitution.</article-title> <source>Journal of Theoretical Biology </source> <volume>142</volume>: <fpage>485</fpage>-<lpage>501</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0022-5193(05)80104-3" xlink:type="simple">10.1016/S0022-5193(05)80104-3</ext-link></mixed-citation></ref>
+            <ref id="B30"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Thompson</surname><given-names>JD</given-names></name><name name-style="western"><surname>Higgins</surname><given-names>DG</given-names></name><name name-style="western"><surname>Gibson</surname><given-names>TJ</given-names></name></person-group> (<year>1994</year>)<article-title> CLUSTAL-W - improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice.</article-title> <source>Nucleic Acids Research </source> <volume>22</volume>: <fpage>4673</fpage>-<lpage>4680</lpage>.  doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1093/nar/22.22.4673" xlink:type="simple">10.1093/nar/22.22.4673</ext-link></mixed-citation></ref>
+            <ref id="B31"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Wirtz</surname><given-names>N</given-names></name><name name-style="western"><surname>Printzen</surname><given-names>C</given-names></name><name name-style="western"><surname>Lumbsch</surname><given-names>HT</given-names></name></person-group> (<year>2012</year>)<article-title> Using haplotype networks, estimation of gene flow and phenotypic characters to understand species delimitation in fungi of a predominantly Antarctic <italic>Usnea</italic> group (Ascomycota, Parmeliaceae).</article-title> <source>Organisms Diversity &amp; Evolution  </source> <volume>12</volume>: <fpage>17</fpage>-<lpage>37</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s13127-011-0066-y" xlink:type="simple">10.1007/s13127-011-0066-y</ext-link></mixed-citation></ref>
+            <ref id="B32"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zhou</surname><given-names>S</given-names></name><name name-style="western"><surname>Stanosz</surname><given-names>GR</given-names></name></person-group> (<year>2001</year>)<article-title> Primers for amplification of mt SSU rDNA, and a phylogenetic study of <italic>Botryosphaeria</italic> and associated anamorphic fungi.</article-title> <source>Mycological Research  </source> <volume>105</volume>: <fpage>1033</fpage>-<lpage>1044</lpage>. doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0953-7562(08)61965-6" xlink:type="simple">10.1016/S0953-7562(08)61965-6</ext-link></mixed-citation></ref>
+            <ref id="B33"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zoller</surname><given-names>S</given-names></name><name name-style="western"><surname>Scheidegger</surname><given-names>C</given-names></name><name name-style="western"><surname>Sperisen</surname><given-names>C</given-names></name></person-group> (<year>1999</year>)<article-title> PCR primers for the amplification of mitochondrial small subunit ribosomal DNA of lichen-forming ascomycetes.</article-title> <source>Lichenologist </source> <volume>31</volume>: <fpage>511</fpage>-<lpage>516</lpage>.</mixed-citation></ref>
+            <ref id="B34"><mixed-citation xlink:type="simple"><person-group><name name-style="western"><surname>Zwickl</surname><given-names>DJ</given-names></name></person-group> (<year>2006</year>)<source> Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion. Ph. D., Austin, The University of Texas at Austin.</source></mixed-citation></ref>
+        </ref-list>
+    </back>
+</article>
